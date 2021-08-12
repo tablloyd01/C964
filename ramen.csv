@@ -1,0 +1,2568 @@
+Review #,Brand,Variety,Style,Country,Stars
+1,Westbrae,Miso Ramen,3,36,0.5
+2,Wai Wai,Tom Yum Chili Flavor,3,34,2
+3,Wai Wai,Tom Yum Shrimp,3,34,2
+4,Wai Wai,Oriental Style Instant Noodles,3,34,1
+5,Vifon,"Hu Tiu Nam Vang [""Phnom Penh"" style] Asian Style Instant Rice Noodles",1,37,3.5
+6,Vifon,Nam Vang,3,37,2.5
+7,Ve Wong,Mushroom Pork,3,37,1
+8,Tung-I,Chinese Beef Instant Rice Noodle,3,33,3
+9,Sutah,Cup Noodle,2,31,2
+10,Smack,Vegetable Beef,3,36,1.5
+11,Six Fortune,Chicken Flavor Instant Soup Noodle,3,31,2
+12,Sapporo Ichiban,Shrimp Flavor,3,19,2.5
+13,Sapporo Ichiban,Chow Mein,3,19,5
+14,Samyang,Hot,3,31,3.5
+15,Samyang,Pojangmacha U-dong,3,31,2.5
+16,Samyang,Kalgug-Su (Spicy),3,31,3.5
+17,Quickchow,Pancit Palabok,3,27,2.5
+18,Ottogi,Jin Ramen (Hot Taste),3,31,3.5
+19,Nongshim,Shin Ramyun,3,31,4
+20,Nongshim,Neoguri (Seafood'n'Spicy),3,31,3.5
+21,Nongshim,Champong Oriental Noodles,3,31,4
+22,Nongshim,Ansungtangmyun Noodle Soup,3,31,3.75
+23,Nissin,Top Ramen Creamy Chicken,3,36,4.5
+24,Nissin,Demae Ramen Spicy Seafood With Chili Pepper,3,19,2
+25,Nissin,Demae Ramen Spicy Flavor,3,19,3
+26,Nissin,Soba Noodles With Mayo Mustard Squirt,3,19,4
+27,Nissin,Demae Ramen Curry Flavor,3,19,4
+28,Nissin,Chikin Ramen,3,19,5
+29,Mee Jang,Tom Yum Shrimp,1,34,3.5
+30,Myojo,Special Duck,3,19,1
+31,Myojo,Ippeichan Yakisoba,4,19,4
+32,Koka,Mi Hai Cua Crab Flavor,3,30,3.5
+33,Koka,Mi Hai Tom Prawn,3,30,3.75
+34,Maruchan,Ramen Noodle Soup Shrimp,3,36,2
+35,Mama,Chand Clear Soup,3,34,3
+36,Lucky Me!,Itnok,3,27,3
+37,Lucky Me!,Pancit Canton Hot Chili Flavor,3,27,3
+38,Lucky Me!,Pancit Canton Citrus Flavor,3,27,3
+39,Lucky Me!,Supreme Bulalo Flavor,1,27,3
+40,Lucky Me!,Pancit Canton Chili Mansi,3,27,3
+41,Little Cook,Pork Mustard Stem,1,34,0.5
+42,Ve Wong,Kung-Fu Chicken Flavor,3,37,2.75
+43,Kim Ve Wong,Jaopai Series: Vegetarian Instant Noodles,1,33,0
+44,Indomie,Special Chicken,3,18,4.25
+45,Indomie,Mi Goreng Sate,3,18,5
+46,Indomie,Mi Goreng Jumbo Meatball,3,18,3
+47,Indomie,Mi Goreng Jumbo Barbecue Chicken,3,18,5
+48,Indomie,Shrimp Flavor,3,18,3
+49,Indomie,Mi Goreng Pedas Hot,3,18,4.5
+50,Indomie,Mi Goreng,3,18,5
+51,Indomie,Curly Noodles With Grilled Chicken,3,18,5
+52,Indomie,Chicken Curry,3,18,4
+53,Indomie,Chicken,2,18,2
+54,Hua Feng Noodle Expert,Spicy Seafood Flavor,3,6,3
+55,Hua Feng Noodle Expert,Favoury Pork Flavor,3,6,1
+56,Doll,Instant Noodles With Sesame Oil & Soup Base,3,15,1
+57,Doll,Instant Fried Noodles With Chili Sauce,4,15,3
+58,Ve Wong,A-One Bun Tom Shrimp,3,33,3
+59,Maggi,Chinese Noodles Lemon Chicken Flavor,3,17,3.5
+60,Maggi,Vegetable Atta Noodles Masala,3,17,2
+61,Maggi,2 Minute Noodles Curry,3,17,2.5
+62,Maggi,Rice Noodle Mania Lemon Masala,3,17,1.5
+63,Nissin,Souper Meal Chicken Flavor With Vegetable Medley,1,19,3
+64,Sapporo Ichiban,Chicken Flavor,3,36,3.5
+65,Nissin,Top Ramen Oriental,3,36,2.5
+66,Maruchan,Ramen Noodle Soup Pork,3,36,4
+67,Maruchan,Ramen Noodle Soup Lime Chili Shrimp,3,36,2
+68,Wei Lih,Jah Jan Mien Instant Noodle With Fried Soybean Paste,3,33,4
+69,Baijia,Spicy Fei- Chang Sweet Potato Noodle,3,6,1.75
+70,Nissin,Demae Ramen XO Sauce Seafood,3,19,4
+71,Nissin,Demae Ramen Satay,3,19,2.5
+72,Nissin,Demae Ramen Tonkatsu Artificial Pork,3,19,3.5
+73,Nissin,Demae Ramen Five Spices Artificial Beef,3,19,3.5
+74,Nissin,Demae Ramen Shoyu,3,19,4
+75,Indomie,Mi Goreng Rendang,3,18,4.5
+76,Indomie,Meatball Flavor,3,18,2.5
+77,Nissin,Demae Ramen Prawn,3,19,3.25
+78,Nissin,Demae Ramen Seafood,3,19,2.5
+79,Sapporo Ichiban,Kitsune Udon,3,19,3.25
+80,Unif / Tung-I,Artificial Chicken,3,33,3.5
+81,Unif / Tung-I,Artificial Spicy Beef,3,33,3.5
+82,Nissin,Demae Ramen Miso,3,19,2.75
+83,Nissin,Demae Ramen Spicy Flavor,3,19,2
+84,Samyang,Kalgug-Su Assorted Clam,3,31,1.8
+85,Nissin,Demae Ramen Sesame,3,19,3.75
+86,Unif / Tung-I,Onion Flavor,3,33,3.65
+87,Wai Wai,Tom Yum Shrimp Cream Soup,3,34,2.75
+88,Paldo,31n Noodle Chicken,3,31,3.25
+89,Unif,100 Artificial Stewed Pork Chop,3,33,3.2
+90,Long Kow,Crystal Noodle Six Kinds Of Mushrooms,3,6,2.3
+91,Binh Tay,Mi Chay Mushroom,3,37,2.75
+92,Fashion Food,Tom Yum Seafood Creamy,1,34,2
+93,Payless,Xtra Big Original Pancit Canton,3,27,4.5
+94,Mama,Artificial Chicken,3,34,2.5
+95,Wei Lih,Artificial Beef Flavor,3,33,1
+96,Saigon Ve Wong,Kung Fu Artificial Pork Flavor,3,37,3.75
+97,Saigon Ve Wong,Kung Fu Mi Tom Chua Sour Shrimp,3,37,2.5
+98,Unif / Tung-I,Chah Chiang,3,33,2.5
+99,Ve Wong,Kung Fu Artificial Onion,3,33,2.75
+100,Unif / Tung-I,Artificial Chinese Beef,3,33,2.85
+101,Ve Wong,Artificial Sesame Chicken,3,33,4.25
+102,Indomie,Soto Mie,3,18,1.5
+103,Ve Wong,Vegetarian Flavor,3,33,3
+104,Maruchan,Ramen Noodle Soup Chicken,3,36,2
+105,Indomie,Special Fried Curly Noodle,3,18,5
+106,GreeNoodle,Tom Yum,3,34,0.5
+107,Ottogi,Pow Crunch Teriyaki,3,31,1.1
+108,Teriyaki Time,Ramen,1,36,2
+109,Mama,Pad Thai,3,34,3.1
+110,Lucky Me!,Artificial Chicken,3,27,1.5
+111,Ottogi,Odongtongmyon Seafood Spicy,3,31,3.25
+112,Ottogi,Jiajang Noodle,3,31,3.75
+113,Nongshim,Hooroorook ,3,31,4
+114,Samyang,Kimchi,3,31,2.9
+115,Ottogi,Miso Ramyun,3,31,2.8
+116,Mama,Nam Vang,3,34,3.6
+117,Ottogi,Ramyonsari,3,31,4
+118,Paldo,Bibim Men,3,31,3.75
+119,Ve Wong,Artificial Pork & Chicken,3,33,3.4
+120,Samyang,Beef,3,31,4
+121,Ottogi,Bekse Curry,3,31,4
+122,Doll,Shrimp Wonton,3,15,4
+123,Wai Wai,Minced Pork Soeng Kreung,3,34,3.7
+124,Nissin,Yakisoba With Mayonnaise/Mustard Packet,4,19,5
+125,Shirakiku,19ese Style Tokusen Karami,3,19,3
+126,Mama,Tom Yam Koong Rice Vermicelli,3,34,1.5
+127,Vifon,Mi Chay Vegetarian,3,37,2.8
+128,Mama,Artificial PA-LO Duck,3,34,0.1
+129,Nongshim,Mupama Tang Myun,3,31,3.5
+130,Sapporo Ichiban,Miso Soybean Paste,3,19,3.5
+131,Unif,100 Artificial Shallot Chicken,3,33,3.25
+132,Ve Wong,Artificial Peppered Beef,3,33,3.5
+133,Baijia,Hot & Sour Rice Noodle,3,6,0
+134,Global Inspiration,Gyeong-Gi-Do Rice,1,31,2.25
+135,Unif / Tung-I,Fresh Shrimp,3,33,3.25
+136,Mama,Shrimp Creamy Tom Yum,3,34,5
+137,Nissin,Bowl Noodles Rich & Savory Chicken,1,36,1.75
+139,Kamfen,Noodle King Beef,3,6,1.75
+140,Mama,Mi Goreng,3,34,5
+141,Six Fortune,Seafood Flavor,3,31,2.5
+142,Nissin,Chow Mein Teriyaki Beef,4,36,4.5
+143,Mama,Mamy Chand Clear Soup,3,34,2.75
+144,Nongshim,Kimchi Ramyun,3,31,3.5
+145,Sakurai,Vegetarian Flavor,3,19,3.5
+146,Mama,Pho Bo,3,34,2.5
+147,Higashi,Nagasaki Sara Udon,3,19,5
+148,Myojo,Okinawa Soba,3,19,3.75
+149,Maruchan,Akai Kitsune Udon,1,19,4
+150,Chorip Dong,Jjambbong Hot Spicy Seafood,1,31,4.25
+151,Shirakiku,19ese Style Tokusen Miso,3,19,3
+152,Wu Mu,Steamed Noodle Garlic & Sesame Oil,3,33,4.5
+153,Sapporo Ichiban,Shrimp Flavor,2,36,1.75
+154,Nissin,Creamy Chicken,2,36,1.75
+155,Lucky Me!,Pancit Canton,3,27,4.75
+156,Maruchan,Instant Lunch Cajun Style With chili Piquin Shrimp,2,36,3
+157,Nissin,Sotanghon,2,27,2
+158,Mama,Jok Cup Porridge Artificial Pork,2,34,2.5
+159,Mama,Hot & Spicy,3,34,1.75
+160,Myojo,Ramen Desse Soy Sauce,1,19,1.5
+161,Paldo,Green Tea Chlorella,3,31,0
+162,Myojo,Ch35azanmai Oriental,3,19,3.75
+163,Vifon,Asian Style Instant Noodles Chicken,3,37,3.5
+164,Unif / Tung-I,Artificial Beef Flavor,3,33,3.75
+165,Doll,Sesame Oil,3,15,3.5
+166,Koyo,Garlic Pepper,3,36,3.25
+167,Wai Wai,Crab Instant Rice Vermicelli,3,34,2.5
+168,JFC,19ese Style Noodle Fresh Udon,1,19,3.75
+169,Samyang,Seafood Party,3,31,2.25
+170,Myojo,Ch35azanmai Soybean Paste,3,19,3.5
+171,Samyang,19ese Seafood Flavor Udon,3,31,3.75
+172,Mama,Flat Noodle Tom Yum,3,34,3.75
+173,Unif / Tung-I,Instant Bean Vermicelli Shrimp,3,33,1.5
+174,Lucky Me!,Sotanghon Artificial Chicken,3,27,0.25
+175,Samyang,Cold Ramen With Ponytail Radish,3,31,3
+176,Paldo,Dosirac Pork,4,31,4.125
+177,Vifon,Hu Tieu Bo Kho An Lien Beef,3,37,3.75
+178,Mama,Oriental Style Clear Soup,3,34,2
+179,Mama,Kimchi,3,34,3
+180,Myojo,Hyobanya No Yakisoba Sauce Flavor,4,19,4.75
+181,Kamfen,Noodle King Thin Wonton,3,6,2
+182,Myojo,Ch35azanmai Soy Sauce chili Oil,3,19,3.25
+183,Nissin,Bowl Noodles Hot & Spicy Chicken,1,36,2
+184,Myojo,Ch35azanmai Soy Sauce,3,19,3.75
+185,Shirakiku,San35iya Udon,1,19,3.75
+186,Paldo,Teumsae Ramyun,3,31,3.5
+187,Paldo,Hwa Ramyun Soy Peptide,3,31,4
+188,Nongshim,Udon,3,31,4
+189,Nissin,Cup Noodles Manchurian,2,17,3
+190,Maggi,Perencah Tom Yam,3,20,2.9
+191,Wu Mu,Steamed Noodle Chinese Herbs,3,33,3.25
+192,Paldo,Soy Flavor Noodle,3,31,4.25
+193,Boss,Shrimp Tom Yum Flavor,1,34,2.5
+194,Saigon Ve Wong,Kung Fu Instant Rice Noodles Artificial Chicken,3,37,3.5
+195,Myojo,Ch35azanmai Served Cool Sesame Flavored Rice Vinegar Sesame,3,19,3
+196,Nissin,Cup Noodles Pani Puri,2,17,1.5
+197,Rhee Bros Assi,Rice Noodle With Spicy Flavored Soup,4,31,2.25
+198,Shirakiku,San35iya Somen,1,19,4.25
+199,Samyang,Chinese Soybean Paste,3,31,2
+200,Nongshim,Bowl Noodle Spicy Chicken,1,36,4.5
+201,Nongshim,Bowl Noodle Beef Ginger,1,36,3.5
+202,Nongshim,Bowl Noodle Cabbage Kimchi,1,36,3.25
+203,Nongshim,Bowl Noodle Hot & Spicy,1,36,2
+204,Nongshim,Bowl Noodle Spicy Shrimp,1,36,2.5
+205,Sapporo Ichiban,Beef Flavor,3,36,4.5
+206,Bon Go Jang,Deuchi Udon,1,31,3
+207,Sapporo Ichiban,Original Flavor,3,36,3.5
+208,Sao Tao,Ramen King Scallop Seafood,3,6,4.25
+209,Nissin,Souper Meal Beef Flavor Minestrone,1,36,3
+210,Rocket Brand,Satoimo Noodles,3,6,2.5
+211,Vina Acecook,Kingcook Tomato Sauce Pork,4,37,3.5
+212,Maruchan,Yakisoba Roast chicken,4,36,3.75
+213,Nongshim,Bowl Noodle Spicy Artificial Lobster,1,36,4
+214,Maruchan,Yakisoba Teriyaki Beef,4,36,2
+215,Maruchan,Yakisoba Chicken,4,36,2
+216,Maruchan,Instant Lunch Roast Chicken Flavor,2,36,2.75
+217,Samyang,Bowl Noodle Kimchi,1,31,4
+218,Maruchan,Yakisoba Sweet & Sour Chicken,4,36,3
+219,Six Fortune,Tom Yam Instant soup Noodle,3,31,2.75
+220,Wei Lih,Good Good Eat Super Ramen Original,3,33,3
+221,Nissin,Top Ramen Beef,3,36,3.75
+222,Myojo,Udon Crab,3,19,3
+223,Koka,Laksa Singapura,1,30,4.25
+224,Mama,Instant Bowl Noodles Artificial Pork,1,34,2.75
+225,Ottogi,Snack Ramyon,3,31,3.75
+226,Nissin,Chow Noodles Cheddar Cheese,4,36,4
+227,Quickchow,Bihon Guisado Rice Noodle,3,27,1.75
+228,Vifon,Pho Ga Instant rice Noodle,1,37,2
+229,Myojo,Udon Chicken,3,19,3.75
+230,Lucky Me!,Supreme Instant Mami Noodles With Free Crackers,1,27,3.75
+231,Indomie,Onion Chicken,3,18,4.5
+232,Indomie,Mi Goreng Jumbo Beef,3,18,5
+233,Koka,Tom Yum Rice Noodles,1,30,3.5
+234,Myojo,Udon Shrimp,3,19,3.75
+235,Koka,Curry,3,30,4.25
+236,Koka,Spicy Sesame,3,30,5
+237,Koka,Spicy Seafood Marinara,1,30,3
+238,Nissin,Chow Noodles Tomato Basil,1,36,4
+239,Ottogi,Ppushu Ppushu Sweet & Sour,3,31,1.75
+240,Sanyo Foods,Aunt Mentaiko Durum Spaghetti,1,19,4.5
+241,Fu Chang Chinese Noodle Company,Hot & Spicy Beef,4,36,4
+242,Fashion Foods,Tom Klong,1,34,2
+243,Myojo,Udon Hot & Spicy,3,19,4.5
+244,Nissin,Karashi Mayo Yakisoba,4,19,4.75
+245,Six Fortune,Broad Noodles,3,31,3.75
+246,Mama,Artificial Pork Jumbo,3,34,3
+247,Myojo,Udon Mushroom,3,19,3
+248,Koka,Tomato,3,30,4.75
+249,Unif,100 Artificial Spicy Beef,3,33,3.75
+250,Wu Mu,Steamed Noodle Sesame Oil,3,33,3.75
+251,Fortune,Udon Beef,3,36,3.5
+252,Fortune,Udon Chicken,3,36,3.25
+253,Nongshim,Bowl Noodle Spicy Seafood,1,36,4.25
+254,Vina Acecook,Daily Hot & Spicy Tom Yun,3,37,4
+255,Mama,Oriental Kitchen Spicy Seafood,2,34,3.75
+256,Nissin,Cup Noodles Shrimp,2,36,3.5
+257,Nissin,Cup Noodles Beef,2,36,3.5
+258,Royal Umbrella,Tom Yum Shrimp,2,34,3.25
+259,Vina Acecook,Mi Lau Thai Seafood,3,37,4
+260,Nissin,Bowl Noodles Hot & Spicy Shrimp,1,36,3.5
+261,Vina Acecook,Oh! Ricey Chicken,3,37,3.75
+262,Vina Acecook,Daily Beef Ball,3,37,3.75
+263,Nissin,Chow Mein Kung Pao Chicken,4,36,1.5
+264,Vina Acecook,Hao Hao Sour Hot Shrimp,3,37,3.75
+265,Nissin,Cup Noodles Chicken,2,36,3.5
+266,Vina Acecook,Mi Lau Thai Shrimp,3,37,4
+267,Mama,Pork,2,34,2
+268,Nissin,Cup Noodles Spicy Chile Chicken,2,36,3.5
+269,Paldo,Spicy Shrimp Bowl,1,31,3.5
+270,Wu Mu,Dried Noodle With BBQ Pork,3,33,2
+271,Paldo,31n Noodle Kimchi Flavor,3,31,3.5
+272,Vina Acecook,Mi Lau Thai Artificial Chicken,3,37,3.5
+273,Wai Wai,Minced Pork Tom Yum,3,34,2.5
+274,Ve Wong,Kung Fu Artificial Soybean Paste,3,33,4
+275,Mama,Cup Shrimp Tom Yum Flavor,2,34,3.75
+276,Wai Wai,Chili Paste Tom Yum,3,34,3.25
+277,Vina Acecook,Oh! Ricey Beef Rice Noodles,3,37,4
+278,Fortune,Udon Mushroom,3,36,3
+279,Rhee Bros Assi,Rice Noodles Seafood,4,31,3.75
+280,Rhee Bros Assi,Rice Noodle Katsuo,4,31,4
+281,Mama,Oriental Kitchen Hot Spicy,2,34,3
+282,Doll,Pickled Vegetable,3,15,4.25
+283,Paldo,King Cup Kimchi Pot Stew,2,31,4
+284,Nissin,Cup Noodles Seafood,2,15,4.5
+285,Doll,Artificial Chicken,3,15,4.5
+286,Myojo,Hyoubanya No Yakisoba Oriental,4,19,4
+287,Paldo,King Cup Lobster,2,31,3.75
+288,Saigon Ve Wong,Kung Fu Artificial Beef Rice Noodle,3,31,3.25
+289,Paldo,31n Broad Noodle,3,31,2
+290,Doll,Spicy Artificial Beef,3,15,3
+291,Nongshim,Shin Bowl,1,31,3
+292,Paldo,31n U Dong,3,31,3.75
+293,Tiger,Onion Flaver Rice Noodle,1,33,0
+294,Paldo,31n Seafood,3,31,3.75
+295,Tablemark,Soybean Paste,1,19,4.5
+296,Nissin,Cup Noodles Crab,2,15,3.25
+297,Rhee Bros Assi,Rice Noodle Hot & Spicy Kimchi,4,31,3.25
+298,Nongshim,Hearty Rice Noodle Spicy Veggie Consomme,3,31,2.75
+299,Lucky Me!,Supreme Sotanghon Artificial Chicken Vermicelli ,1,27,3.75
+300,Wu Mu,Steam Spinach Ramen With Onion,3,33,5
+301,Dragonfly,Guilin Style Rice Vermicelli,1,6,4.5
+302,Samyang,Bowl Noodle Picante Beef,1,31,3.75
+303,Paldo,Dosirac Artificial Chicken,4,31,3.25
+304,Mama,Pho Bo Rice Noodle Artificial Beef,1,34,3.5
+305,Lucky Me!,Supreme Special Beef Carne De Vaca,1,27,3.75
+306,Rhee Bros Assi,Rice Noodle Anchovy Flavor,4,31,3.75
+307,Royal Umbrella,Vegetarian Tom Yum,2,34,2.75
+308,Tradition,Imitation Chicken Vegetarian,3,36,3.75
+309,Paldo,Dosirac Beef,4,31,3.75
+310,Lucky Me!,La Paz Batchoy Beef,3,27,2.5
+311,Vifon,Tasty Mushroom,3,37,2
+312,Lucky Me!,Supreme Bulalo Artificial Bone Marrow,1,27,1.75
+313,Paldo,Dosirac Shrimp,4,31,4.25
+314,Paldo,Dosirac Mushroom,4,31,2.5
+315,Unif,Super Bowl Artificial Spicy Beef,1,33,2.75
+316,Unif,Super Bowl Artificial Stewed Pork Chop,1,33,3.5
+317,Maruchan,Yakisoba Cheddar Cheese,4,36,4
+318,Unif,Super Bowl Artificial Pickled Chilli Beef,1,33,3.25
+319,Maruchan,Ramen Noodle Soup Oriental,3,36,3.75
+320,Maruchan,Ramen Noodle Soup Spicy Picante Chicken,3,36,4
+321,Little Cook,TVP Spicy Beef,1,34,4.75
+322,Unif,Shrimp Fish,1,33,3.75
+323,Ottogi,Jin Ramen (Hot),2,31,3.5
+324,Nongshim,Big Bowl Spicy Shrimp,1,31,3.5
+325,Mee Jang,Artificial Pork,1,34,3.5
+326,Little Cook,TVP Curry Chicken,1,34,4
+327,Gomex,3 Mien Mi Tom Hum Lobster,3,37,3.5
+328,Nongshim,Big Bowl Udon,1,31,4.5
+329,Mee Jang,Artificial Beef Flavor,1,34,3.5
+330,Vifon,Phu Gia Instant Bean Thread Chicken,3,37,3.25
+331,Sunlee,Crab Noodle,1,34,4.5
+332,Nongshim,Champong Oriental Noodles,2,31,3.75
+333,Nissin,Big Cup Noodles Shrimp,2,36,2.25
+334,Nissin,Big Cup Noodles Beef,2,36,2.125
+335,Goku Uma,Hot & Spicy Beef,1,19,3.5
+336,Six Fortune,Instant Noodles With Soup,3,31,3.5
+337,Maruchan,Ramen Noodle Soup Creamy Chicken,3,36,5
+338,Nissin,Big Cup Noodles Chicken,2,36,2.25
+339,Payless,Xtra Big Chilimansi Pancit Canton,3,27,4.5
+340,Shirakiku,19ese Style Tokusen Shoyu,3,19,4
+341,Vina Acecook,Daily Vegetarian,3,37,3.75
+342,Nongshim,Shin Big Bowl,1,31,3.5
+343,Super Bihun,Goreng Rice Noodles,3,18,4.5
+344,Paldo,Stirfried Kimchi,3,31,3.75
+345,Myojo,Charumera Shoyu,3,19,3.5
+346,Paldo,Bowl Noodle Spicy Artificial Chicken,1,31,3.125
+347,Sunny Maid,Mi Chay Vegetarian,3,33,1.75
+348,Paldo,Bowl Noodle Kimchi,1,31,3.5
+349,Ottogi,Ramen Bokki,1,31,3.25
+350,Nissin,Souper Meal Tomato Garlic Shrimp,1,36,3.5
+351,Nissin,Top Ramen Picante Beef,3,36,3
+352,Maruchan,Ramen Noodle Soup Chili,3,36,2.75
+353,Nissin,Top Ramen Chili,3,36,3.25
+354,Maruchan,Instant Lunch Chicken 35% Less Sodium,2,36,3
+355,Nongshim,Noodle Lite 275 Udon Mushroom,1,31,2.5
+356,Maruchan,Ramen Noodle Soup Roast Beef,3,36,2.75
+357,Payless,Xtra Big Kalamansi Pancit Canton,3,27,4
+358,Doll,Spicy Artificial Pork,3,15,3.75
+359,Nissin,Bowl Noodles Hot & Spicy Beef,1,36,3.75
+360,Nissin,Cup Noodles Hearty Chicken,2,36,2.5
+361,Tayho,Vermicelli With Pork,1,36,1.25
+362,Vina Acecook,Daily Hot & Sour With Shrimp,3,37,4.5
+363,Nissin,Demae Iccho Tonkotsu Macaroni,3,19,3.5
+364,Sao Tao,Noodle King Beef 15 Style,1,15,2.5
+365,Nissin,Cup Noodles Prawn,2,30,3.25
+366,Payless,Pancit Shanghai,3,27,2.75
+367,Saigon Ve Wong,Kung Fu Artificial Chicken,3,37,3.25
+368,Knorr,Chili Pork,2,34,3.5
+369,Bon Go Jang,Tofu Udon Dosirak,4,31,3.75
+370,F35u,Superior Soup,3,15,5
+371,Nissin,Chow Noodles Alfredo,4,36,3.75
+372,Noodle Time,Spicy Thai,1,5,0.5
+373,Nissin,Cup Noodles Chicken Vegetable,2,36,2.75
+374,Vifon,Asian Style Instant Noodles Shrimp,3,37,3.75
+375,Vifon,Pho Bo Beef Rice Noodle,3,37,0.5
+376,Sau Tao,Noodle King Lobster Thick,1,15,2.75
+377,Sau Tao,Ho Fan Abalone Chicken,1,15,4
+378,Ve Wong,Hot Of Hots Artificial Satay Beef,1,33,3.75
+379,Nissin,Chow Mein Thai Peanut,4,36,2.5
+380,Rhee Bros Assi,Pho 37ese Noodle Soup,4,31,3.75
+381,Saigon Ve Wong,Kung Fu Artificial Beef Rice Noodle,3,37,4.25
+382,Lucky Me!,N-Rich Artificial Chicken With Ginger,3,27,2.5
+383,Lucky Me!,Chicken Na Chicken,3,27,2.75
+384,Nissin,Demae Iccho Tom Yam Goong Macaroni,3,19,4
+385,Ve Wong,Hot Of Hots Artificial Black Peppered Beef,1,33,1.25
+386,US Canning,Fu Chang Chinese Noodle Company Pork Seafood,4,36,0
+387,Nissin,Bowl Noodles Rich & Savory Beef,1,36,3.75
+388,Maruchan,Instant Lunch Cheddar Cheese,2,36,2.75
+389,Mama,Vegetarian Tom Yum,3,34,2.75
+390,Menraku,Curry Soba,1,19,4
+391,Myojo,Hyoubanya No Ch35asoba Oriental,3,19,4.25
+392,Nissin,Yakisoba Noodles Karashi,4,19,5
+393,Kamfen,Dried Mix Noodles XO Sauce,4,6,2
+394,Paldo,Hwa Cup Hot Spicy,2,31,3.5
+395,Ottogi,Jin Ramen (Mild),2,31,3
+396,Vina Acecook,Bestcook Hot spicy Tom Yum Shrimp,1,37,4.25
+397,Quickchow,Quickie Mami La Paz Batchoy,2,27,3
+398,Paldo,Bowl Noodle Beef With Vegetables,1,31,3.75
+399,Paldo,Spicy Seafood,2,31,3.75
+400,Nissin,Cup Noodles Seafood Curry,2,15,4.25
+401,Myojo,Suudon Desse Soy Sauce,1,19,4.25
+402,Sao Tao,Noodle King Scallop Thick,1,15,3
+403,Maruchan,Instant Lunch Lime Flavor with Shrimp,2,36,2.25
+404,Vina Acecook,Hao Hao Sate Onion,3,37,3.75
+405,Ibumie,Harmee Prawn,3,20,3.25
+406,Vifon,Asian Style Instant Noodles Beef,3,37,3.75
+407,Ottogi,Snack Ramyon,2,31,3.5
+408,Gomex,3 Mien Mi Tom Chua Cay Hot sour Shrimp,3,37,2.25
+409,Payless,Instant Mami Chicken,3,27,4
+410,Lucky Me!,Instant Bulalo Bone Marrow,3,27,3.75
+411,Sunlee,Crab Vermicelli,1,34,3.25
+412,Maruchan,Midori No Tan35i,1,19,4.125
+413,Souper,Alimentary Paste Chow Mein,3,33,4.25
+414,Doll,Artificial Beef Flavor,3,15,2.5
+415,Ve Wong,Artificial Classic Beef,1,33,3.75
+416,Sapporo Ichiban,Chicken Flavor,2,36,3.75
+417,Vifon,Tu Quy Spicy Beef,3,37,3.5
+418,iNoodle,Udon Noodle Soup Oriental,3,33,3.75
+419,Myojo,Ramen Desse Shio,1,19,4.25
+420,Sapporo Ichiban,Beef Flavorc,2,36,3.5
+421,Myojo,Kakesoba Desse Soy Sauce,1,19,2.75
+422,Vifon,Mi Lau Thai Thai Stle,1,37,4
+423,Noodle Time,Shin Cup,2,31,3
+424,Q,Noodle With Sesame Sauce,3,33,3.25
+425,Chikara,Shrimp Udon,3,36,4.5
+426,Vifon,Tu quy Chicken,3,37,3
+427,Koka,Mi Hai Cua Crab Flavor,3,30,5
+429,Quickchow,Chicken Mami,3,27,3.75
+430,Quickchow,Pancit Canton toyo Mansi,3,27,5
+431,Unif / Tung-I,Chinese Onion Rice Noodle,3,33,2.75
+432,Ve Wong,Instant Bean Thread Seafood,1,33,2.5
+433,Lucky Me!,Supreme Bulalo,1,27,3.25
+434,Mi Sedaap,Kari Spesial,3,18,4.5
+435,Mi Sedaap,Mie Sambal Goreng,3,18,4.25
+436,Unif,Artificial Beef With Sauerkraut,1,33,3.75
+437,Nongshim,Big Bowl Spicy Kimchi,1,31,3.25
+438,Samyang,Beef,1,31,3.75
+439,Little Cook,Tom Yum Seafood Creamy,1,34,3
+440,Maruchan,Instant Lunch Hot spicy Beef,2,36,2.75
+441,Ottogi,Spice Seafood,3,31,3.75
+442,Nongshim,Kalg35soo,3,31,4.5
+443,Lucky Me!,N-Rich Chicken Tinola,3,27,4
+444,Mr. Udon,Chicken,3,31,3.25
+445,iNoodle,33 Style Chow Mein,3,33,2.25
+446,Sao Tao,Noodle King Hong Koing Style Wonton,1,15,2.25
+447,Ve Wong,Little Prince Bacon,3,37,4.75
+448,Ve Wong,Kung Fu Artificial Sesame Chicken,1,33,3.75
+449,Wu Mu,Beef Flavor Ramen,3,33,4.25
+450,Ottogi,Ppushu Ppushu Tteobokki,3,31,3.25
+451,Myojo,Ippeichan Soybean Paste,1,19,4
+452,Myojo,Hyoubanya No Ch35asoba Soy Sauce,3,19,4
+453,Nongshim,Bowl Noodle Savory Chicken,1,36,3.25
+454,Koyo,Asian Vegetable,3,36,1.5
+455,Baijia,Single Noble Pickled Radish & Duck,2,6,0.25
+456,Ve Wong,Kung Fu Artificial Szechuan Pork,1,33,3.75
+457,Ibumie,Harmee Mee goreng Prawn,3,20,4.5
+458,Ve Wong,Kung Fu Artificial Beef Rice Noodle,1,33,3.75
+459,Gefen,Imitation Chicken Vegetarian,3,36,3
+460,Menraku,Tempura Udon,1,19,5
+461,Samyang,Sutah Hot Spicy Beef,3,31,3.5
+462,Nissin,Top Ramen Shrimp,3,36,3.5
+463,Ottogi,Ppushu Ppushu Barbecue,3,31,3
+464,Mama,Vegetable,3,34,3.25
+465,Nissin,Souper Meal Picante Shrimp Hot Spicy,1,36,2.75
+466,Saigon Ve Wong,Kung Fu Rice Noodle Artificial Beef,1,37,3.5
+467,Vifon,Tu Quy Sour Spicy Shrimp,3,37,1.75
+468,Paldo,Snack Noodle slightly Hot,3,31,3.75
+469,Gefen,Chicken,3,36,3.5
+470,Maruchan,Ramen Noodle Soup Chicken Mushroom,3,36,3.25
+471,Koyo,Lemongrass ginger,3,36,1.5
+472,Thai Kitchen,Spring Onion Rice Noodle,1,36,3.75
+473,Myojo,Ramen-Desse Miso Soybean Paste,1,19,4.5
+474,Saigon Ve Wong,Kung Fu Rice Noodle Shrimp Crab ,1,37,3.75
+475,Gefen,Vegetable,3,36,3.25
+476,Annie Chun's,Teriyaki Noodle,1,36,1.75
+477,Mr. Udon,20n Beef Udon,3,31,3
+478,Vedan,Mushroom & Artificial Cuttlefish,3,33,1.75
+479,Nongshim,Potato Noodle Soup,3,31,3.75
+480,Thai Kitchen,Mushroom Rice Noodle,1,36,3.25
+481,Thai Kitchen,Roasted Garlic Rice Noodle,1,36,3.75
+482,Menraku,Shio,1,19,4.5
+483,Itomen,Yellow Buckwheat,1,19,4.5
+484,Ottogi,Bekse Curry Myon,2,31,4.25
+485,Ottogi,Hot & Spicy Ramen,2,31,3
+486,Kamfen,19ese U-Don Lobster Scallop,3,6,3
+487,Kailo,Big Bowl Artificial Chicken,1,15,2.75
+488,Kailo,Big Bowl Crab ,1,15,3.5
+489,JML,Stew Pork,3,6,3.25
+490,Foodmon,DJ DOC Instant rice Ramen Topokki,1,31,5
+491,JML,Artificial Stew Beef,3,6,3.75
+492,Noah Foods,Phoya Rice Noodles Beef,1,37,2.75
+493,Pulmuone,Fresh Ramen Spicy,3,31,3
+494,Snapdragon,Tomato Seafood Rice Noodle,2,30,3.5
+495,Ottogi,Jin Ramen (Mild),3,31,3.25
+496,Maruchan,Yakisoba Shrimp,4,36,2.75
+497,Nissin,Demae Iccho Seafood & Abalone Macaroni,3,19,4
+498,Hsin Tung Yang,Tiny Noodle With Oyster Flavor,3,33,0
+499,Dragonfly,Artificial Beef,1,6,4.75
+500,Mexi-Ramen,Soupless Ramen Shallot Teriyaki,3,36,2.5
+501,Nongshim,Neoguri Mild,3,31,3.25
+502,Sunlee,Beef Rice Stick,1,34,2
+503,GreeNoodle,Miso,3,34,1
+504,Knorr,Pizza,3,26,3
+505,JML,Artificial Spicy Beef,3,6,3.5
+506,Nongshim,Oolongmen Beef,2,31,2.5
+507,Dragonfly,Artificial Seafood,1,6,3.75
+508,Samyang,Beef,2,31,3.75
+509,Ve Wong,Kung Fu Shrimp,1,33,4
+510,Snapdragon,31n Kimchi Rice Noodle,2,30,3.75
+511,Menraku,Miso,1,19,2.75
+512,Paldo,Big Bowl Noodle,1,31,3.75
+513,Dragonfly,Artificial Onion,1,6,4
+514,Shirakiku,San35iya Fresh Spicy Ramen,1,19,3
+515,Tradition,Imitation Beef,2,36,2.5
+516,Wang,Champong Spicy Seafood,1,31,3.5
+517,Thai Kitchen,Thai Ginger Rice Noodle,3,36,4.25
+518,Dragonfly,Artificial Chicken,1,6,4.5
+519,Snapdragon,Beijing Vegetable Rice Noodle,2,30,2
+520,Nan Hsing,Vegetarian Rice Noodles,1,33,0.25
+521,Menraku,Soy Sauce,1,19,4.25
+522,Samyang,Hot Beef,3,31,4.25
+523,Dragonfly,Artificial Hot & Sour Shrimp,1,6,4.5
+524,Nissin,Cup Noodles Spicy Seafood,2,15,3.75
+525,JML,Artificial Spicy Hot Beef,3,6,3.75
+526,Annie Chun's,Soy Ginger Ramen,3,36,1.5
+527,Little Cook,Wheat Gluten Stewed Duck Flavoured,1,34,2.75
+528,Unox,Good Noodles Vegetable,3,14,3.75
+529,Sapporo Ichiban,Hot Spicy Chicken,3,36,2
+530,Mee Jang,Artificial Shrimp Tom yum,1,34,3.5
+531,Yum Yum,Beef,3,34,3.25
+532,Doll,Spicy Tomkotsu,3,15,4.25
+533,Paldo,Gomtang,3,31,4.75
+534,Mama,Pho Ga,3,34,3.1
+535,Wai Wai,Chicken Flavor,3,34,0.9
+536,Ottogi,Yeul Ramyun,3,31,4.25
+537,Mama,Pad Kee Mao Drunken,3,34,2
+538,Lucky Me!,Lomi Seafood Vegetable,3,27,0.5
+539,Nissin,Demae Ramen Chicken,3,19,3
+540,Nissin,Top Ramen Chicken,3,36,3.25
+541,Yum Yum,Chicken,3,34,3.5
+542,Mi Sedaap,Mi SupArtificial Chicken Special,3,18,3
+543,Menraku,Curry Udon,1,19,4.75
+544,Unox,Good Noodles Chicken,3,14,3.5
+545,Golden Wheat,31n Style Spicy Beef,3,6,3.5
+546,Yum Yum,Vegetable,3,34,3.5
+547,Lucky Me!,Pancit Canton Sweet Spicy,3,27,5
+548,Pot Noodle,Original Curry,2,35,3.75
+549,Mi Sedaap,Supreme Soto,3,18,4
+550,Nissin,Taisho Fried Noodle Yakisoba,3,19,4.25
+551,Batchelors,Super Noodles Chicken,3,35,3.25
+552,Super Bihun,Kuah Rasa Baso Sapi Rice Noodles,3,18,3
+553,Samyang,60 Ingredients,2,31,2.75
+554,Yum Yum,Shrimp Tom Yum Flavor,3,34,3.5
+555,Batchelors,Super Noodles Chinese Chow Mein,3,35,2.75
+556,Mi Sedaap,Mi Goreng Perisa Asli,3,18,4.75
+557,Batchelors,Super Noodles Souther Fried Chicken,3,35,3.75
+558,Long Kow,Crystal Noodles Vegetables,1,6,1.5
+559,Wai Wai,Quick Tom Yum Shrimp,2,34,3
+560,Myojo,Ippeichan Soy Sauce,1,19,4
+561,Sahmyook,Vegetable,3,31,3.25
+562,Batchelors,Super Noodles Bacon,3,35,4.25
+563,Yum Yum,Duck,3,34,3.25
+564,Uni-President,One More Cup Kimchi,2,33,3.75
+565,Batchelors,Super Noodles To Go Curry,1,35,4
+566,Foodmon,DJ DOC Jjolmyeon,1,31,5
+567,Goku Uma,Soy Sauce,1,19,3.5
+568,Paldo,Gomtang,2,31,4
+569,Saigon Ve Wong,Kung Fu Suc Song Artificial Pork,1,37,3
+570,O Sung,Keopnurungji Rice Snack,2,31,2.5
+571,Shirakiku,19ese Style Tokusen Sio,3,19,3.25
+572,Maruchan,Yakisoba Tomato Basil,4,36,3
+573,Noah Foods,Phoya Chicken,1,37,2
+574,Maggi,2 Minute Noodles Tricky Tomato,3,17,3.75
+575,Batchelors,Super Noodles Barbecue Beef,3,35,3.5
+576,Menraku,Tempura Soba,1,19,3.75
+577,Pot Noodle,Chinese Chow Mein,2,35,3
+578,Nongshim,Shin Ramyun Black,3,31,4.75
+579,Baijia,Sichuan Pickled Sweet Potato Thread,3,6,1.75
+580,Baijia,Hot & Sour Casserole Stewed Rice Noodle,3,6,0
+581,Koyo,Mushroom,3,36,2.75
+582,Koyo,Tofu & Miso,3,36,2.5
+583,Vifon,Phu Gia Cua Crab Bean Thread,3,37,2.25
+584,Baijia,Single Noble Black Bone Chicken Sweet Potato Thread,2,6,0
+585,Ve Wong,Artificial Onion Flavor Bean Thread,1,33,1.5
+586,Vedan,Bah Kut Tea Noodle For Vegetarians,3,33,3.25
+587,Sunlight,Steam Vermicelli,3,33,2.1
+588,Vifon,Tu Quy Pork,3,37,2.75
+589,Vifon,31n Style Kim Chee,1,37,4.25
+590,Mama,Chand Clear Soup,1,34,3.5
+591,Batchelors,Super Noodles To Go Chinese Space Rib,1,35,2.5
+592,Batchelors,Super Noodles Mild Curry,3,35,3.25
+593,Nongshim,Chapagetti Chajang,3,31,4
+594,Haioreum,Asian Style Noodles Seafood,1,31,3.5
+595,Thai Kitchen,Spring Onion Rice Noodle,3,36,3.75
+596,Thai Kitchen,Lemongrass Chili Rice Noodle,3,36,1.5
+597,Batchelors,Super Noodles Sweet & sour,3,35,3.5
+598,Little Cook,Vegetarian,2,34,3.25
+599,Lucky Me!,Pancit Canton Extra Hot Chili,3,27,4
+600,Maruchan,Ramen Noodle Soup Beef,3,36,3.25
+601,Wei Chuan,Tomato Vegetables,3,33,4
+602,Nongshim,Oolongmen Artificial Seafood,2,31,3.5
+603,Wei Lih,Goog Good Eat Super Ramen Hot Chili,3,33,3.75
+604,Batchelors,Super Noodles Low Fat Chicken Herb,3,35,2
+605,Little Cook,Artificial Onion,2,34,3.5
+606,Six Fortune,U-Dong,3,31,4
+607,Pot Noodle,Beef Tomato,2,35,1.5
+608,Koka,Spicy Black Pepper,3,30,5
+609,Wei Wei,"""A"" Series Artificial Hot Beef",3,33,3.75
+610,Wei Wei,"""A"" Series Artificial Chicken",3,33,3.25
+611,Batchelors,Super Noodles Low Fat Sweet Thai Chilli,3,35,2
+612,Maruchan,Yakisoba Spicy Chicken,4,36,1.75
+613,Saigon Ve Wong,Kung Fu Artificial Pork Flavor,1,37,3
+614,F35u,Superior Soup Rice Noodle,3,15,2.5
+615,Yamamori,Tom Yam Prawn,3,19,4.5
+616,Maggi,2 Minute Noodles Thrillin' Curry,3,17,2
+617,Nissin,Demae Iccho Sesame Oil Chicken Macaroni,3,19,3.75
+618,Pulmuone,Cold Noodles By Dad,3,31,2.75
+619,Yamamoto,Ponpoko Tempura Udon,1,19,4.75
+620,Vifon,Phu Gia Bamboo Shoot Artificial Pork Bean Thread,3,37,1.25
+621,Ottogi,Jin Ramen Big Bowl (Hot),1,31,3.5
+622,Daikoku,My Friend Vic Tan35i Udon,1,19,4.75
+623,Wei Wei,"""A"" Series Vegetarian",3,33,3.25
+624,Master Kong,Artificial Pork,3,6,3.75
+625,Pot Noodle,Bombay Bad Boy,2,35,4
+626,Ottogi,Yeul Hot Taste,1,31,3.5
+627,Omachi,Spaghetti,3,37,3.75
+628,Lucky Me!,Supreme La Paz Batchoy Beef Garlic,1,27,3.5
+629,Master Kong,Artificial Braised Beef,3,6,4.25
+630,Ve Wong,Kung Fu Artificial Mushroom Pork,1,33,1.25
+631,Fashion Foods,XO Sauce,1,34,1.25
+632,Mr. Udon,19ese Miso,3,31,2.75
+633,Mr. Udon,Seafood Selection,3,31,3.5
+634,Baijia,Sichuan Hot Pot Sweet Potato Thread,1,6,0.5
+635,Ottogi,Buckwheat Bibim Ramyon,3,31,1.1
+636,Yamamori,Tom Yam Ramen Pork,3,19,4.75
+637,Snapdragon,Chinese Mushroom Rice Noodle,2,30,2.5
+638,GreeNoodle,Yakisoba,3,34,3
+639,Nissin,Gozen Kitsune Udon,1,19,5
+640,Master Kong,Artificial Spicy Beef,3,6,4.25
+641,Vina Acecook,Hao Hao Shrimp Onion,3,37,3
+642,Little Cook,Spicy Beef,2,34,2.75
+643,Wei Chuan,Miso Vegetables,3,33,3.25
+644,Sura,Knife Cut Rice Noodle,1,31,3.75
+645,Nongshim,Oolongmen Artificial Chicken,2,31,3.75
+646,Yamamoto,Shoyu,1,19,4.25
+647,Sunlee,Tom Yum Shrimp Noodle,1,34,3.5
+648,Nongshim,Seafood Ramyun,3,31,3.75
+649,Pot Noodle,Chicken & Mushroom,2,35,3.75
+650,Dragonfly,Artificial Chicken,3,6,4
+651,Mi Sedaap,Mi Segera Mi Sup Perisa Kari Ayam,3,18,4
+652,Sapporo Ichiban,Shio,3,19,5
+653,Dragonfly,Artificial Pork Ribs,3,6,4
+654,Mee Jang,Sour Spicy Chicken Tom Yum,1,34,3.25
+655,Cap Atoom Bulan,Mie Telor Asli,3,18,3
+656,Nissin,Ramen Bowl Hot & Spicy,1,36,3.75
+657,Dragonfly,Onion,3,6,3.75
+658,Paldo,Hwa King Cup,2,31,3.5
+659,Nissin,Ramen Bowl Spicy Shrimp,1,36,3
+660,Lucky Me!,Beef Na Beef,3,27,3.75
+661,Yamamoto,Ponpoko Tempura Soba,1,19,4.25
+662,Daikoku,Shokuh Kitsune Udon,1,19,4.25
+663,Paldo,Jjajangmen Black Bean,3,31,4
+664,Thai Kitchen,Bangkok Curry Rice Noodle,3,36,2.75
+665,Mama,Moo Nam Tok Rice Vermicelli,3,34,3.25
+666,Lishan,Black Rooster Chicken,3,33,1.5
+667,Nissin,Ramen Bowl Kimchi,1,36,3
+668,Saigon Ve Wong,Kung Fu Vegetarian,1,37,2
+669,Nissin,Gozen Tempura,1,19,4
+670,Saigon Ve Wong,Kung Fu Artificial Chicken Rice Noodle,1,37,3.5
+671,Mug Shot,Spicy Sweet & Sour,3,35,3
+672,Mug Shot,Chicken,3,35,3
+673,Ohsung,Hong Ramyun Soup Soy Peptide Mild,3,31,3.25
+674,Paldo,Kko Kko Myun,3,31,5
+675,Samyang,Nagasaki Jjampong,3,31,4.75
+676,Indomie,Spicy Coconut Shrimp,3,18,4.75
+677,Nongshim,Shin Ramyun Shrimp,3,6,4.5
+678,Wang,Kitsune Udon,1,31,4
+679,Mamee,Express Cup Fried Onion Chicken,2,20,3.25
+680,Vina Acecook,Kingcook Shrimp,3,37,2.75
+681,Nongshim,Hearty Rice Noodle Black Bean Vegetable,3,31,3.75
+682,Indomie,Instant Cup Noodles Mi Goreng Satay,2,18,4.25
+683,Nongshim,Udon Garlic Teriyaki,3,31,4.75
+684,Dragonfly,Artificial Seafood,3,6,3.75
+685,Indomie,Rasa Sup Buntut Oxtail Soup,3,18,2.75
+686,Mi Sedaap,Mi Segera Mi Goreng Perisa Sambal Goreng,3,18,4.5
+687,Nissin,Cup Noodles Xo Sauce Seafood,2,15,3.75
+688,Ohsung,Hong Ramyun Soy Peptide Hot Spicy,3,31,3.75
+689,Mee Jang,Noodle Soup Sour Spicy Shrimp Tom Yum,1,34,2.5
+690,Maruchan,Yakisoba Savory Soy Sauce,4,36,3.75
+691,Mamee,Express Cup Vegetarian,2,20,2
+692,Samyang,Assorted Vegetable Ramen,3,31,3.75
+693,Chewy,Stir Rice Vermicelli 18n Gado Gado,4,6,2.25
+694,Vina Acecook,Kingcook Chicken,3,37,3.5
+695,JFC,19ese Style Noodle Curry,1,19,4.5
+696,Nissin,Big Cup Noodles Spicy Chicken,2,36,3.5
+697,Nissin,Spoon-it Rich Hearty Savory Chicken,3,36,3.25
+698,Nissin,Chow Mein Orange Chicken,4,36,4
+699,Nissin,Cup Noodles Salsa Picante Shrimp,2,36,3.5
+700,Nissin,Chikin Ramen (Local),3,19,5
+701,Nissin,Big Cup Noodles Lime Chili Shrimp,2,36,4
+702,Nissin,Demae Ramen Black Garlic Oil Tonkotsu,3,19,4.5
+703,Nissin,Spoon-it Rich Hearty Beef Stew,3,36,3.5
+704,Nissin,Chow Mein Chinese Chicken Vegetable,4,36,4
+705,Golden Wheat,31n Style Beef,2,6,3.5
+706,Unif,Man Han Feast Spring Onion Eel,1,33,4.25
+707,Mee Jang,Noodle Soup Spicy Beef Garlic Onion,1,34,3.25
+708,Wu Mu,Pork Flavor Ramen,3,33,2.75
+709,Nissin,Chow Mein Spicy Chicken,4,36,3.25
+710,Saigon Ve Wong,Kung Fu Mixed Foods,1,37,2.75
+711,Nongshim,Hearty Rice Noodle Beef,3,31,4.25
+712,Four Seas,Seaweed,1,15,3.25
+713,Nissin,Spoon-it Creamy Chicken,3,36,4
+714,Pulmuone,Nature Is Delicious Spicy,3,31,3.75
+715,Indomie,Mi Goreng Rendang (Import),3,18,5
+716,Vifon,Hu Tieu Ca Stewed Fish,1,37,3.75
+717,Nissin,Ramen Bowl Spicy Chicken,1,36,3.25
+718,Ottogi,Kiss Myon,3,31,3.75
+719,Nissin,Spoon-it Beef,3,36,3.25
+720,Golden Mie,Chicken Curry,3,8,3.75
+721,Nongshim,Bowl Noodle Savory Beef,1,36,4
+722,Yamamoto,Seafood Ramen,1,19,3.5
+723,Indomie,Mi Goreng Barbecue Chicken,3,18,5
+724,Indomie,Curly Noodle With Laksa Chilli,3,18,3.5
+725,Indomie,Mi Goreng Instant Cup Noodles,2,18,5
+726,Indomie,Mi Goreng Cakalang,3,18,4
+727,Indomie,Rasa Empal Gentong,3,18,4
+728,Indomie,Rasa Kari Ayam Medan,3,18,5
+729,Indomie,Mi Goreng Jumbo Beef,3,18,5
+730,Indomie,Rasa Soto Banjar Limau Kulit,3,18,5
+731,Indomie,Rasa Mi Kocok Bandung,3,18,3.25
+732,Indomie,Curly Noodle With Chicken Chilli Paddi,3,18,4.25
+733,Indomie,Rasa Soto Betawi,3,18,4.5
+734,Indomie,Mi Goreng Rasa Ayam Panggang Jumbo (Local),3,18,5
+735,Ottogi,Odongtong Myon Seafood,1,31,2.75
+736,Maruchan,Yakisoba Spicy Vegetable,4,36,3.25
+737,Gau Do,Chicken Shrimp,3,37,2.5
+738,Nissin,U.F.O. Yakiosoba,1,19,3.75
+739,JML,Artificial Spicy Beef,1,6,3.5
+740,Indomie,Mi Goreng Sate (Local),3,18,5
+741,Wei Lih,Good Good Eat Super Ramen Vegetable,3,33,2.75
+742,Golden Mie,chicken,3,8,3.25
+743,Mamee,Express Cup Tom Yum,2,20,3.75
+744,Payless,Instant Mami Beef,3,27,3.25
+745,Nongshim,Jinjja Jinjja,3,31,5
+746,JML,Artificial Mushroom Chicken,1,6,1.25
+747,Nissin,Spoon-it Chicken,3,36,3.5
+748,Hosoonyi,Naengmyeon Combo,1,36,3.75
+749,Sapporo Ichiban,Chow Mein (New),3,36,5
+750,Nongshim,Bowl Noodle Spicy Kimchi (New),1,36,3.75
+751,Nongshim,Shin Ramyun Black Onion,2,31,5
+752,Nongshim,Bowl Noodle Savory Tempura Udon,1,36,3.5
+753,Nongshim,Soba,3,31,4.25
+754,Nongshim,Ansungtangmyun (US Version),3,36,3.75
+755,Nongshim,Udon ,1,31,4.25
+756,Daikoku,Bikkuchigekara Big Chige,1,19,3.75
+757,Indomie,Mi Goreng Vegan,3,18,4.25
+758,JML,Artificial Stew Pork,1,6,3.25
+759,Nongshim,Bowl Noodle Savory Lobster (New),1,36,3.75
+760,Nissin,Big Cup Noodles Roast Chicken,2,36,3.25
+761,Thai Kitchen,Garlic Vegetable Rice Noodle,3,36,3.5
+762,Long Kow,Kimchi Pickle Bean Vermicelli,3,33,1.5
+763,Maggi,2 Minute Noodles Tricky Tomato,3,17,3.25
+764,Sempio,Seafood Noodle Cup,1,31,3.5
+765,Super Bihun,Kuah Rice Noodles,3,18,4.5
+766,Fashion Foods,Beef Pho,1,34,3.75
+767,Fashion Foods,Mushroom Vegetarian,1,34,1.75
+768,Fashion Foods,Oriental,1,34,0.25
+769,Nissin,Cup Noodles Shrimp Picante Style,2,36,3.25
+770,Kailo,Chicken,3,15,3.5
+771,Mi Sedaap,Mi Kuah Rasa Ayam Bawang,3,18,4
+772,Nongshim,Bowl Noodle Hot & Spicy Beef (New),3,36,3.5
+773,Little Cook,TVP Stewed Pork,1,34,3.5
+774,Indomie,Rasa Sup Sayuran Vegan,3,18,2.25
+775,JML,Seafood,1,6,3
+776,Sarimi,Isi 2 Rasa Kari spesial,3,18,3.75
+777,Mr. Noodles,Oriental,3,5,2.75
+778,Mamee,Express Cup Curry,2,20,2.5
+779,Indomie,Mi Goreng Kriu35 Ayam,3,18,3.75
+780,Ottogi,Jin Ramen (Mild) (Import),3,31,3.5
+781,Vina Acecook,Kingcook Beef,3,37,3
+782,Nongshim,Bowl Noodle Savory Shrimp (New),1,36,3.25
+783,Nissin,Cup Noodles Salsa Picante Chicken,2,36,3
+784,Hankow,Cai Lin Ji Dry Noodles,4,6,3.25
+785,Sarimi,Isi 2 Rasa Soto,3,18,3.5
+786,Mr. Noodles,Beef,3,5,3
+787,Emart,Ramen E Ramen White Broth,3,31,5
+788,Uni-President,100 Beef With Sauerkraut,3,33,4.75
+789,SuperMi,GoKar,3,18,4
+790,GreeNoodle,Shiitake & Soy Sauce,3,34,1.5
+791,Acecook,Super Big Ramen Tonkotsu,1,19,1
+792,Nongshim,Bowl Noodle Spicy Chicken (New),1,36,4.5
+793,Mr. Noodles,Spicy Beef,3,5,1.75
+794,Sarimi,Soto Koya Jer35 Nipis,3,18,4.75
+795,Master Kong,Red Oil Dan Dan,4,6,2.75
+796,Vina Acecook,Kingcook Vegetable,3,37,3
+797,Golden Mie,Vegetable,3,8,3.75
+798,Golden Wheat,31n Style Pork,2,6,3
+799,Nongshim,Bowl Noodle Savory Chicken (New),1,36,4.25
+800,Mr. Noodles,Chicken,3,5,3
+801,Gau Do,Hot Sour Shrimp,3,37,3.75
+802,Sarimi,Isi 2 Mi Goreng Rasa Ayam Kecap,3,18,4.5
+803,Master Kong,Premium Taste Roasted Beef,1,6,4
+804,Little Cook,Abalone Chicken,2,34,1.75
+805,Acecook,Super Big Ramen Soy Sauce,1,19,1.25
+806,Ohsung,Hot Spicy Bowl With Soy Peptide,1,31,3.5
+807,SuperMi,Super Rasa Ayam Bawang,3,18,4
+808,Kim's Bowl,Vegetarian Tom Yum,1,34,3.5
+809,Nongshim,Neoguri Mild (31),3,31,4
+810,ABC,Selera Pedas Mi Goreng Hot Chicken Lemon,3,18,4.25
+811,Mr. Noodles,Vegetable,3,5,1.75
+812,Master Kong,Spicy Beef,3,6,3.75
+813,Mr. Noodles,Spicy Chicken,3,5,2
+814,Indomie,Beef,3,18,3.5
+815,Chencun,Stewde Chicken Of Mushroom,2,6,3.25
+816,Vina Acecook,Oh! Ricey Phnom Penh Rice Noodle,3,37,3.75
+817,Souper,Bowl Ramen Shrimp,1,33,3.75
+818,SuperMi,Sedaaap Mi Kuah Rasa Soto,3,18,4
+819,Maruchan,Tempura Soba,3,19,4
+820,Sunlee,Tom Yum Shrimp Rice Stick,1,34,3.75
+821,Master Kong,Potatoes & Stewed Beef,3,6,5
+822,Paldo,Speed King Bowl (Prototype),1,31,3.5
+823,Paldo,Kokomen Spicy Chicken,3,31,5
+824,Paldo,Bibim Men Cucumber,3,31,5
+825,Paldo,Shoyu,2,19,3.25
+826,Paldo,Namja,3,31,5
+827,Paldo,Rabokki,3,31,4.75
+828,Paldo,Seolleongtangmyeon,3,31,3.5
+829,Paldo,Kko Kko Myun King Cup,1,31,4.75
+830,Seven-Eleven,Seven & I Shoyu,2,19,4.5
+831,Vifon,Instant Porridge Chicken,3,37,3.25
+832,Dragonfly,Mee Goreng Dry Ramen Noodles,3,6,3.75
+833,Wai Wai,Vegetarian,3,34,3.5
+834,Indomie,Mi Goreng Kriu35 Pedas,3,18,3.75
+835,Mr. Noodles,Shrimp,3,5,2.5
+836,Binh Tay,Mi Chay Vegetarian,3,37,3.5
+837,Nissin,Top Ramen Cucharealo Picante Chicken,3,36,4.5
+838,Sarimi,Soto Koya Gurih,3,18,4
+839,CJ CheilJedang,Mild Bean Curd Stew,2,31,2
+840,Chewy,Stir Rice Vermicelli 30an Laksa,4,6,3.75
+841,Nongshim,Chapagetti (31n),3,31,4
+842,JML,Artificial Stew Beef,1,6,3.75
+843,Nissin,Top Ramen Short Cuts Beef,3,36,3.5
+844,Maggi,2 Minute Noodles Perencah Asam Laksa,3,20,4
+845,Nongshim,Doong Ji Cold Noodle Chilled Broth,3,31,4.25
+846,Vifon,Mi Kim Chee,3,37,3.75
+847,Itomen,Sansai Soba Edible Wld Plant,1,19,3.25
+848,Golden Wheat,31n Style Spicy Pork,2,6,3.5
+849,Nissin,Top Ramen Cucharealo Tomato Chicken,3,36,3.5
+850,Nissin,Top Ramen Short Cuts Chicken,3,36,4
+851,Dragonfly,Artificial Pork Ribs,1,6,3.5
+852,SuperMi,Sedaaap Mi Kuah Rasa Kari Ayam,3,18,4
+853,Dongwon,RaUdong Unfried Noodle With Kimchi,1,31,4.5
+854,Long Kow,Crystal Noodles Hot & Sour,1,6,3.5
+855,Vina Acecook,Bestcook Hot & Sour Shrimp,1,37,4.25
+856,Little Cook,Mushroom Vegetarian,1,34,4.75
+857,Sempio,Seafood Vermicelli Anchovy,1,31,4.25
+858,Indomie,Rasa Mi Cakalang,3,18,4.5
+859,Tradition,Imitation Chicken Vegetarian,2,36,3.75
+860,Baijia,Artificial Pickled Cabbage Fish,3,6,2.75
+861,Vina Acecook,Hao Hao Mi Chay Vegetarian,3,37,3.25
+862,Nissin,Top Ramen Short Cuts Roast Chicken,3,36,4.25
+863,Indomie,Special Fried Curly Noodle (Local),3,18,5
+864,Unif / Tung-I,Chinese Spices Tong Tsai Bean Vermicelli,3,33,3.5
+865,Little Cook,Stewed Duck,2,34,3
+866,Master Kong,Mianba,3,6,4
+867,Indomie,Rasa Coto Makassar,3,18,4
+868,CJ CheilJedang,Katsuobushi Udon,1,31,3.75
+869,Vina Acecook,Good Chicken Bean Vermicelli,3,37,3.25
+870,SuperMi,Mi Keriting Rasa Ayam Bawang,3,18,3.75
+871,Dragonfly,Artificial Hot & Sour Shrimp,3,6,4
+872,Nongshim,Chapagetti,1,36,5
+873,Vifon,Viet Rice Noodles Chicken,3,37,3.5
+874,Fuji Mengyo,Nabeyaki Udon,1,19,3.5
+875,Sunlee,Artificial Chicken Rice Vermicelli,1,34,2.5
+876,Sarimi,Soto Koya Pedasss,3,18,3.25
+877,Nongshim,Shin Bowl (New),1,36,4.25
+878,Nissin,Top Ramen Short Cuts Lime Chili,3,36,3.75
+879,Song Hak,Rice Topokki,1,31,5
+880,Golden Wheat,31n Style Seafood,2,6,2.75
+881,Han's 31,Rice Noodle With Hot & Spicy,4,31,3.25
+882,SuperMi,GoBang,3,18,5
+883,Yamachan,Shio Ramen Seafood Mild,3,36,4.5
+884,Yamachan,Miso Ramen - Mild,3,36,4
+885,Yamachan,Miso Ramen Rich Sapporo Miso,3,36,5
+886,Yamachan,Tonkotsu-Shoyu Rich Pork Flavor Ramen,3,36,4.75
+887,Yamachan,Cold Noodles With Lemon Soy Dressing,3,36,4
+888,Yamachan,Nagasaki Sara Udon Chicken ,3,36,4.25
+889,Yamachan,Rich Shoyu Ramen,3,36,4
+890,Unif / Tung-I,Mushroom Flavor Ramen Noodles,3,37,3.5
+891,Vina Acecook,Hao Hao Mushroom,3,37,2.75
+892,ABC,Selera Pedas Hot Tomato Soup Flavor,3,18,4.5
+893,Paldo,Bowl Noodle Shrimp Flavor,1,31,3.25
+894,Han's 31,Rice Noodle With Kimchi Flavored Soup,4,31,3
+895,SuperMi,Sedaaap Mi Goreng,3,18,5
+896,Vina Acecook,Good Tomyum Kung Bean Vermicelli,3,37,3.5
+897,FMF,Chow Masala,3,10,4
+898,Long Kow,Crystal Noodles Savory Shoyu,2,6,1.5
+899,FMF,Chow Tomato ,3,10,4.25
+900,Maruchan,Instant Lunch Chicken,2,36,3.5
+901,Sarimi,Rasa Ayam Bawang,3,18,3.5
+902,Sunlee,Pho Bo Beef Flavour Rice Stick,1,34,3.25
+903,Han's 31,Rice Noodle With Seafood Flavored Soup,4,31,3.5
+904,Myojo,Ippei-chan Yomise-No Yakisoba Oriental,4,19,4.75
+905,Tradition,Vegetable Instant Noodle soup,2,36,3.25
+906,Daddy,Kari 365 Curry Flavour,3,20,5
+907,Nongshim,Neoguri Spicy Seafood,2,31,4
+908,Sapporo Ichiban,Original Flavor,2,36,3.5
+909,Indomie,Kriu35 Bawang,3,18,4.25
+910,Paldo,Namja Ramyun,1,31,4.25
+911,Nissin,Top Ramen Cucharealo Habanero Shrimp,3,36,3.75
+912,Maruchan,Instant Lunch Shrimp,2,36,3.75
+913,Nongshim,Spicy Shrimp Cup Ramyun,2,31,4.25
+914,Nissin,Ramen Shop Sapporo Miso,3,19,4
+915,Wai Wai,Casserole Beef Flavour,3,34,3.5
+916,Goku Uma,Seafood Flavor 19ese Noodles,1,19,4.25
+917,Vina Acecook,Good Chicken Abalone Bean Vermicelli,3,37,3.25
+918,Nongshim,Tempura Udon Flavor Cup Ramyun,2,31,4.5
+919,Maruchan,35% Less Sodium Beef,3,36,3.5
+920,Shirakiku,Hot & Spicy Udon,3,36,3
+921,Ottogi,Jjajang Bokki,1,31,3.5
+922,Sunlee,Shitake Mushroom Vernicalli,1,34,1.25
+923,Ibumie,LadMee Hot Pepper,3,20,3.5
+924,Maruchan,35% Less Sodium Chicken,3,36,3.75
+925,Emart,Dare You! Habanero Ramen,3,31,3.75
+926,Ibumie,VegeMee Vegetarian Flavour,3,20,2.75
+927,Paldo,Kokomen Spicy Chicken,1,31,4.75
+928,Kamfen,Dried Mix Noodles Artificial Spicy Pork,4,6,4
+929,Vina Acecook,Good Artificial Minced Pork Bean Vermicelli,3,37,3.75
+930,Maruchan,35% Less Sodium Beef,2,36,3.5
+931,Kamfen,dried Mix Noodles Soya Bean Paste,4,6,3.75
+932,Paldo,Namja Ramen (36 version),3,31,5
+933,Paldo,Kokomen Spicy Chicken,2,31,4.5
+934,Nongshim,Jinjja Jinjja Flamin' Hot & Nutty,3,36,5
+935,Maruchan,Beef,2,36,3.5
+936,Yamachan,Mild Tonkotsu,3,36,5
+937,Mama,Shrimp (TOM YUM),3,34,3.75
+938,Maruchan,Yakisoba Four Cheese,4,36,3.75
+939,Pot Noodle,Sweet & Sour,2,35,3.75
+940,Wai Wai,Sour Soup Flavor,3,34,3.5
+941,Ko-Lee,Go Noodles Chicken Special,3,35,3.75
+942,Kamfen,E-men Lobster Soup,3,6,3.25
+943,Amino,Zurek,3,28,3.25
+944,Wai Wai,Oriental Style Instant Noodles (Dry method),3,34,3
+945,Pot Noodle,Jamaican Jerk!,2,35,2.75
+946,Right Foods,Dr. McDougall's Vegan Chicken Ramen,2,36,1.75
+947,Maruchan,Yakisoba Jalapeno Cheddar,4,36,4
+948,Trident,Hot & Spicy 2 Minute Noodles,3,1,3.5
+949,Ko-Lee,Instant Noodles Chicken ,3,35,3.5
+950,Ottogi,Kiss Myon,2,31,3.75
+951,Vifon,Pomidorowa (Mild Tomato),3,28,4
+952,Pot Noodle,Sweet & Spicy,2,35,3.5
+953,Sakurai Foods,Soy Sauce Ramen,3,19,4.75
+954,Sakurai Foods,ARCHE Naturküche 19ische Nudelsuppe,3,19,3.25
+955,Sakurai Foods,Miso Ramen,1,19,4
+956,Sakurai Foods,Sesame Noodles,3,19,5
+957,Sakurai Foods,100% Vegetarian Soy Sauce Flavor,3,19,4.25
+958,Sakurai Foods,Soy Sauce Ramen,1,19,4.25
+959,Sakurai Foods,ARCHE Naturküche Ramen Mit Ingwer,3,19,3.25
+960,Nissin,Bowl Noodles Hot & Spicy Super Picante,1,36,3.25
+961,Trident,Chow Mein Soft Noodles,3,1,2.75
+962,Nongshim,Bowl Noodle Soup Spicy Seafood Flavor (New Version),1,36,4.25
+963,Pot Noodle,Mr. Chu’s Golden Noodle No. 7 Sticky Rib,2,35,3.25
+964,Nissin,Raoh Backfat Rich Soy Sauce Flavor,1,19,5
+965,Annie Chun's,Noodle Express Chinese Chow Mein,4,36,3.75
+966,Annie Chun's,Ramen House Spring Vegetable Ramen,3,36,4
+967,Annie Chun's,Soup Bowl 31n Kimchi,1,36,4.5
+968,Annie Chun's,Noodle Express Teriyaki,4,36,3
+969,Annie Chun's,Soup Bowl 37ese Pho,1,36,4
+970,Annie Chun's,Noodle Express Spicy Szechuan,4,36,2
+971,Annie Chun's,Soup Bowl Chinese Chicken,1,36,4.25
+972,Springlife,Spinach With Organic Noodles,3,6,3
+973,Annie Chun's,Ramen House Spicy Chicken Ramen,3,36,4
+974,Pot Noodle,Chilli Beef Flavour,2,35,2.25
+975,Ottogi,Spaghetti Ramen,1,31,4.5
+976,Nissin,Donbei Tensoba,1,19,4
+977,Sun Noodle,Yakisoba,3,36,4.5
+978,Sun Noodle,Ramen Pork Flavor,4,36,5
+979,Sun Noodle,Nama Soba Buckwheat Noodle,4,36,4
+980,Sun Noodle,Cold Ramen Soy Sauce Vinaigrette,4,36,4
+981,S&S,Saimin,3,36,4
+982,Sun Noodle,Ramen Miso Flavor,4,36,5
+983,Sun Noodle,Tantanmen Spicy Sesame (Mild),4,36,3.75
+984,Sun Noodle,Ramen Shoyu Flavor,4,36,5
+985,Ko-Lee,Go Noodles Thai Hot & Spicy Tom Yum,2,35,1
+986,Paldo,Jong-Gah-Jip Kimchi Ramen,3,31,4
+987,Trident,30 Soft Noodles,3,1,2.75
+988,Amino,Ogorkowa,3,28,3.25
+989,GS25,Gonghwachun Jjamppong,3,31,4
+990,Nissin,Pan Asian Kitchen Spicy Pad Thai,4,36,2.75
+991,Prima Taste,30 Curry La Mian,3,30,5
+992,Prima Taste,30 Laksa La Mian,3,30,5
+993,Unox,Sate,3,14,3.5
+994,Wai Wai,Tom Yum Shrimp Flavour,3,34,3.25
+995,Ko-Lee,Instant Noodles Beef,3,35,3
+996,Maruchan,Bowl Chicken Flavor,1,36,4
+997,Sakurai Foods,Miso Stew Instant Udon (Winter),3,19,4.25
+998,Nongshim,Shin Ramyun Black Spicy Beef,2,31,4.5
+999,Pot Noodle,Tony's Doner Kebab,2,35,1.5
+1000,Maruchan,Yakisoba Beef Taco Flavor,4,36,4.25
+1001,Paldo,ДОШИРАК (Dosirac) Beef Flavor,3,31,3.5
+1002,Mr. Noodles,Bowl Spicy Chicken Simulated Flavour,1,5,2
+1003,Nissin,Chow Mein Spicy Teriyaki Beef,4,36,4.5
+1004,Wai Wai,Artificial Pork Flavour,3,34,3
+1005,Four Seas,Chicken Flavour,1,6,2.75
+1006,Amino,Barszcz czerwony (Borscht),3,28,4
+1007,Nissin,Demae Ramen Sesame Oil Flavour Noodles With Soup Base,1,15,4.5
+1008,Ottogi,Sesame Flavor Noodle Bowl,1,31,3.5
+1009,Western Family,Instant Noodles In A Cup Oriental,2,5,2
+1010,Golden Wheat,Korean Style Spicy Beef Noodle Soup,1,6,3.75
+1011,Maruchan,Bowl Hot & Spicy Chicken Flavor Ramen Noodles With Vegetables,1,36,4
+1012,Unox,Good Noodles Oosterse Kip (Oriental Chicken),3,14,3.5
+1013,Vina Acecook,Oh! Ricey Hủ Tiếu Sườn Heo (Pork Spareribs Flavour),3,37,3.5
+1014,Nissin,King Spa Oh Peperoncino Spaghetti (日清生タイプSpa王 ペペロンチーノ),1,19,4.25
+1015,Tradition,Oriental Style Ramen Noodle Soup,3,36,2.75
+1016,Nissin,Big Cup Noodles Habanero Lime Chicken Flavor Ramen Noodle Soup,2,36,3.5
+1017,Samyang Foods,Sutah (SK Version),3,31,3.75
+1018,Samyang Foods,Ganjjampong,3,31,4.25
+1019,Samyang Foods,Kimchi Ramyun (SK Version),3,31,4
+1020,Samyang Foods,Nagasaki Jjampong,1,31,4.75
+1021,Samyang Foods,Beef Flavor Ramyun (SK Version),3,31,4.25
+1022,HoMyeonDang,Premuim Noodle House Crab Jjampong,3,31,5
+1023,Samyang Foods,Samyang Ramyun,3,31,4.5
+1024,HoMyeonDang,Premium Noodle House Tofu Fried Noodle,3,31,3.5
+1025,Samyang Foods,Hot Chacharoni,3,31,3.75
+1026,Samyang Foods,Bajirak Kalgugsu,3,31,3.75
+1027,Samyang Foods,Y35gaejang Beef Ramyun,1,31,4
+1028,Samyang Foods,Buldalk Bokkeummyeon (Hot Fried Chicken Ramyun),3,31,4
+1029,Samyang Foods,Nagasaki Crab Jjampong,3,31,5
+1030,Samyang Foods,60 Ingredients Assorted Vegetable SK Version,3,31,3.75
+1031,HoMyeonDang,Premium Noodle House Don Ramyun,3,31,4
+1032,Mama,Authentic Thai Cuisine Pad Thai,3,34,4
+1033,Nissin,King Cup Noodle BBQ Chicken & Onion,2,19,3.75
+1034,Western Family,Instant Noodles In A Cup Spicy Chicken,2,5,2.25
+1035,Wei Lih,Spicy Sichuan Flavor Instant Noodle,1,33,3.5
+1036,Golden Wheat,Korean Style Spicy Shrimp Noodle Soup,1,6,3.5
+1037,Emart,Dare You Habanero Jjamppong,3,31,4
+1038,Itomen,Chanponmen,3,19,4.25
+1039,Maruchan,Bowl Hot & Spicy Shrimp Flavor Ramen Noodles With Vegetables,1,36,4.25
+1040,Western Family,Instant Noodles Vegetable Flavour,3,5,1
+1041,Ko-Lee,Instant Noodles Super Chow Mein,3,35,4
+1042,Nongshim,Potato Pork Ramyun,3,6,5
+1043,Chewy,Rice Vermicelli Satay Chicken,3,6,3
+1044,Nongshim,Shin Ramyun Noodle Spicy Mushroom,1,6,3.25
+1045,Nissin,Chow Mein Chicken,4,36,3.5
+1046,Myojo,Stir Fry Noodles 19ese Style Noodles With Sauce,3,36,4
+1047,New Touch,Yakisoba Noodle,4,19,4
+1048,Ottogi,Cheese Bokki,2,31,3.5
+1049,Mr. Noodles,Bowl Beef Simulated Flavor,1,5,2
+1050,Knorr,19ese Pork Bone Flavour Quick Serve Macaroni,3,15,3
+1051,Maruchan,Seimen 19ese Instant Ramen Noodles Soy Sauce Taste,3,19,3.75
+1052,A-Sha Dry Noodle,Dry Noodle Hakka Noodle - Chili Sauce,3,33,4.25
+1053,A-Sha Dry Noodle,Dry Noodle Tainan Noodle - Sesame Sauce,3,33,4
+1054,A-Sha Dry Noodle,No. 10 Mandarin Noodle - Black Pepper Sauce,3,33,3.75
+1055,A-Sha Dry Noodle,Dry Noodle QQ Thin Noodle - BBQ Sauce,3,33,5
+1056,A-Sha Dry Noodle,Dry Noodle Mandarin Noodle - Onion Oil Sauce,3,33,5
+1057,A-Sha Dry Noodle,Dry Noodle Hakka Noodle - Spicy Sesame Oil Sauce,3,33,3.5
+1058,A-Sha Dry Noodle,Dry Noodle Mandarin Noodle - Original Sauce,3,33,4
+1059,Mamee,Oriental Noodles Curry Flavour,3,20,3.25
+1060,Star Anise Foods,Happy Pho 37ese Brown Rice Noodle Soup Garlic Goodness,3,36,3.75
+1061,Tasty Bite,1 Step-1 Minute Asian Noodles Toasted Sesame,3,36,4
+1062,Tasty Bite,1 Step-1 Minute Asian Noodles Lemongrass Ginger,3,36,3.75
+1063,Tasty Bite,1 Step-1 Minute Asian Noodles Thai Basil,3,36,3.75
+1064,Tasty Bite,1 Step-1 Minute Asian Noodles Mushroom Lo Mein,3,36,4
+1065,Tasty Bite,1 Step-1 Minute Asian Noodles Kung Pao,3,36,4.25
+1066,Tasty Bite,1 Step-1 Minute Asian Noodles Pad Thai,3,36,3.5
+1067,Nissin,Cup Noodle Red Shock,2,19,3.75
+1068,Koka,Oriental Instant Noodles Stir Fried Noodles,3,30,3.75
+1069,Nissin,Raoh Rich Miso Flavor,1,19,5
+1070,HoMyeonDang,Premium Noodle House Pork & Seafood Flavor,3,31,4
+1071,Nissin,Raoh Soy Sauce Taste,3,19,4
+1072,Deshome,Aloe Noodle With Spicy Soybean Sauce,3,33,4
+1073,Deshome,Black Eyed Bean Noodle Red Onion Sauce & Sesame Sauce,3,33,3.75
+1074,Deshome,Pollen Noodles Sesame Sauce & Soy Sauce,3,33,4.25
+1075,Deshome,Aloe Noodle With Basil Sauce,3,33,5
+1076,Deshome,Black Eyed Beans Noodle Vegetable Sauce & Sesame Sauce,3,33,3.75
+1077,Deshome,Aloe Noodle Red Onion & Sesame Sauce,3,33,5
+1078,Deshome,Black Eyed Beans Noodle Spicy Soybean Sauce & Sesame Sauce,3,33,3.75
+1079,Deshome,Aloe Noodle Vegetable Sauce,3,33,5
+1080,Deshome,Black Eyed Beans Noodle Basil Sauce & Sesame Sauce,3,33,3.5
+1081,Deshome,Aloe Noodle Sesame Sauce,3,33,3.25
+1082,Indomie,Mi Goreng Cabe Ijo,3,18,4.5
+1083,Nissin,GooTa Demi Hamburg-Men,2,19,4.75
+1084,Mr. Noodles,Noodles In A Cup Chicken Simulated Flavour,2,5,1.5
+1085,Vina Acecook,Hao Hao Mi Goreng Shrimp & Onion Flavour,3,37,3.5
+1086,Sawadee,17n Curry Flavour,3,35,3
+1087,MyKuali,Penang White Curry Noodle,3,20,5
+1088,Amianda,Tachia Dried Noodles - Peppery,3,33,3.75
+1089,Amianda,Hakka Flat Noodles - Fried Bean Sauce,3,33,4.25
+1090,Amianda,Dried Noodles - Spicy Sauerkraut,3,33,3.25
+1091,Amianda,Homely Dried Noodles - Original Flavor ,3,33,4
+1092,Amianda,Tachia Dried Noodles - Rou Zhou Meat Sauce,3,33,5
+1093,Amianda,Hakka Flat Noodles - Satay Sauce,3,33,4.5
+1094,Amianda,Thin Noodles - Sesame Oil,3,33,4.25
+1095,Amianda,Tachia Dried Noodles - Fried Shallot,3,33,3.25
+1096,Amianda,Tachia Noodles - Hot & Spicy Sauce,3,33,3.5
+1097,Amianda,Homely Dried Noodles - Sesame Pate,3,33,3.75
+1098,Tropicana Slim,Low Fat Noodles Hainan Chicken,3,18,3.75
+1099,Baltix,Instant Noodles With Beef Flavour Broth,3,9,3.25
+1100,Baltix,Instant Noodles With Chicken Flavour Broth,3,9,3.75
+1101,Eat & Go,Spicy Chicken Mi Instan Cup,2,18,4.25
+1102,Batchelors,Super Noodles Mild Mexican Chilli,3,35,3
+1103,Myojo,Ippei-chan Yomise No Yakisoba Teriyaki Mayo Flavor,4,19,5
+1104,Western Family,Instant Noodles Chicken Flavour,3,5,3.5
+1105,Nongshim,Doong Ji Authentic Korean Cold Noodles With Chili Sauce,4,31,5
+1106,Nissin,Raoh Rich Soy Sauce With Roast Pork (2 Slices),1,19,4.5
+1107,Nissin,Demae Ramen Kimchi Flavour Instant Noodle With Soup Base,1,15,3.5
+1108,Chencun,Spicy Beef,2,6,3.5
+1110,GS25,Gonghwachun Jjajangmyun,3,31,4.5
+1111,Golden Wheat,Korean Style Stew Beef Cooking Noodle,3,6,3.25
+1112,Mama,Oriental Style Instant Kua-Chap Clear Soup,3,34,3.75
+1113,Samyang Foods,Samyang Ramyun (SK Version),2,31,3.5
+1114,Maitri,Vegetarian Fried Noodles (Mie Goreng),3,18,4
+1115,Nissin,Pan Asian Kitchen S35iyaki Beef Flavor Savory Soy Sauce Ramen Noodles,4,36,3.75
+1116,Tokyo Noodle,Mini Instant Noodles Artificial Chicken Flavor,3,19,5
+1117,Thai Pavilion,spicy Pad Thai Instant Noodles & Sauce,4,36,4.25
+1118,Mr. Noodles,Kimchi Bowl Noodles Oriental Noodle With Soup Base,1,5,2.75
+1119,Ko-Lee,Taste Sensation Instant Noodles Curry Flavour,3,35,3.75
+1120,ABC,Selera Pedas Mi Rebus Hot Gulai Flavor,3,18,4.75
+1121,Sau Tao,Oat Noodle Sesame Oil Flavored,3,6,3.75
+1122,Nagao Noodle,Ramen Kamen Thasos Galle Pork Bone,3,19,4.25
+1123,Maruchan,Fresh Yaki-Soba Stir Fry Noodles With Seasoning Sauce Base,3,19,4.25
+1124,Samyang Foods,Ganjjampong,1,31,4.25
+1125,Myojo,19ese Style Noodles Shio Flavor,3,36,5
+1126,GaGa,Mie Jepeng Goreng Rasa Ayam Lada Hitam,3,18,4
+1127,Campbell's,Hearty Noodles Chicken Flavour,2,5,2.75
+1128,Lucky Me!,Special Instant Pancit Bihon With Kalamansi,3,27,3.25
+1129,Oyatsu,Baby Star Ramen Round Chikinmini,3,19,3.5
+1130,Nissin,Big Cup Noodles Habanero Lime Shrimp Flavor Ramen Noodle Soup,2,36,3.5
+1131,Wei Lih,What’s That? Leisure Meatballs Chicken Flavor,3,33,3.75
+1132,Tesco,Everyday Value Spicy Curry Flavour Noodles,2,35,1.5
+1133,Kamfen,E-Men Noodles Abalone Soup Flavor,3,15,3.75
+1134,Hi-Myon,Katsuo Udon,3,31,4
+1135,Indomie,Instant Noodle Beef & Lime Flavour,3,18,4.25
+1136,Nissin,Yakisoba,3,19,5
+1137,Koka,Oriental Style Instant Noodles Crab Flavour,3,30,3.75
+1138,Tablemark,Downtown Ramen Shop Shoyu,3,19,4.75
+1139,Asian Thai Foods,Gaurav Chicken Seasoning,3,23,3.75
+1140,Asian Thai Foods,Preeti Instant Noodles Veg Soup Base,3,23,5
+1141,Asian Thai Foods,Joker Ready To Eat Noodles,3,23,3.25
+1142,Asian Thai Foods,Miteri Instant Noodles Chicken Flavor,3,23,4
+1143,Asian Thai Foods,Rumpum Vegetable Soup Base,3,23,4.25
+1144,Asian Thai Foods,Krrish Instant Noodles Vegetable Curry Flavor,3,23,3.5
+1145,Asian Thai Foods,Fatafat Chicken Flavor,3,23,3.75
+1146,Asian Thai Foods,2pm Precooked Noodles Chicken Curry Delight,3,23,3.5
+1147,Asian Thai Foods,Rumpum Chicken Soup Base,3,23,3.5
+1148,Asian Thai Foods,Miteri Instant Noodles Vegetable Flavor,3,23,3.5
+1149,Asian Thai Foods,Preeti Instant Noodles Chicken Soup Base,3,23,3.5
+1150,Asian Thai Foods,Krrish Instant Noodles Chicken Flavor,3,23,3.5
+1151,Asian Thai Foods,Fatafat Vegetable Flavor,3,23,3.75
+1152,Sapporo Ichiban,Tomato & Basil Shio Ramen,3,19,4
+1153,Wu-Mu,Spicy Flavor Tomato Ramen,3,33,4
+1154,Golden Wheat,Korean Style Shrimp Flavour Cooking Noodle,3,6,3.5
+1156,Vifon,Oriental Style Instant Vermicelli Sour Crab Flavour Soup,3,37,3.75
+1157,Golden Wonder,The Nation's Noodle Beef & Tomato Flavour,2,35,4.25
+1158,Nissin,Demae Iccho XO Sauce Seafood Flavour,1,15,4
+1159,Peyang,Yakisoba,4,19,5
+1160,Samyang Foods,Chacharoni,3,31,3.75
+1161,GaGa,100 Green Chilli Soto Flavour,3,18,3.75
+1162,Nissin,Chanpon Ramen,3,19,4.75
+1163,Chewy,Rice Vermicelli Spicy Beef With Chilli Flavour,3,6,3.25
+1164,Mr. Noodles,Bowl Chicken Simulated Flavour,1,5,2
+1165,Nissin,Chow Mein With Shrimp Chow Mein Noodles,4,36,3.75
+1166,Unif,Man Han Feast Sichuan Chilli Eel Flavor,1,33,5
+1167,Kabuto Noodles,Miso Ramen,2,35,3.75
+1168,Nissin,Donbei Curry Udon (West 19ese),1,19,3.25
+1169,Mr. Noodles,Noodles In A Cup Beef Simulated Flavour,2,5,1.75
+1170,Acecook,Jan Jan Yakisoba,2,19,3.75
+1171,Tiger Tiger,Traveller's Choice 17n Tikka Masala Flavour,3,35,3
+1172,Koyo,Seaweed Ramen Made With Organic Noodles,3,36,2.75
+1173,Pop Bihun,Spesial Goreng Special,3,18,3.5
+1174,Itomen,Crab Flavor Instant Ramen,3,19,4
+1175,Healtimie,Green Barley Noodle Milk Chicken Soup,3,18,4.25
+1176,Maruchan,Old Style Shio Ramen,3,19,3.5
+1177,ABC,Mi ABC Rasa Ayam Bawang (Onion Chicken),3,18,4
+1178,Nongshim,Shin Black Spicy Pot-au-feu Flavor Premium Noodle Soup,2,36,5
+1179,Myojo,Ch35azanmai Guangdong Style Ramen,3,19,4.25
+1180,Wei Lih,What’s That? Leisure Meatballs Spicy Chicken Flavor,3,33,3.75
+1181,Samyang Foods,Star Popeye Ramyun Snack,3,31,4
+1182,Ko-Lee,Go Noodles Xtreme Hot & Spicy Flavour,3,35,3.75
+1183,Paldo,Cheese Noodle,3,31,5
+1184,Sapporo Ichiban,Pokemon Shoyu Ramen,2,19,3.5
+1185,Sainsbury's,Basics Instant Noodles Chicken Flavour,3,35,3.25
+1186,Nissin,Sabor A Carne Sopa Instantánea Con Fideos,3,7,3.75
+1187,Nongshim,Shin Ramyun Cup,2,31,3.5
+1188,Chencun,Braised Pork Ribs,2,6,3
+1189,Acecook,Comet Mori Y35ino Tan-tan men,1,19,5
+1190,Sanrio,Hello Kitty Hakata Shoyutonkotsu Ramen,1,19,3.75
+1191,GaGa,Seribu 1000 Goreng Spesial,3,18,4
+1192,Wu-Mu,Ramen With Simmered Pork Flavor,3,33,3.75
+1193,Nissin,Soba Curry Noodles With 19ese Yakisoba Sauce,2,12,3.75
+1194,Paldo,Namja Ramyun (US Version),1,31,4
+1195,Sawadee,Instant Noodles Spicy Tomato Flavour,3,20,2.5
+1196,Nissin,Bowl Noodles Chicken Flavor,1,36,3.5
+1197,Nissin,Cup Noodle Chilli Tomato,2,19,4.5
+1198,Samyang Foods,Maesaengyitangmyun Baked Noodle,3,31,5
+1199,Mama,Instant Noodles Chicken Green Curry Flavour,3,34,3.75
+1200,Men-Sunaoshi,Tonkotsu Ramen,3,19,3.75
+1201,A-Sha Dry Noodle,Instant Noodle Curry Flavour,3,33,4.25
+1202,Sugakiya Foods,Udon Miso Stew,3,19,3.25
+1203,GaGa,Mie Gepeng Kuah Rasa Soto Cabe Hijau,3,18,3.5
+1204,Nissin,Cup Noodles Sabor A Gallina,2,7,3.5
+1205,Mama,Instant Noodles Pork Flavour With Black Pepper,3,34,3.5
+1206,6 Best,Frozen Satay Sauce Noodle,3,33,1
+1207,Nissin,UFO Yakisoba With Wasabi Mayonnaise,1,19,5
+1208,Golden Wheat,Korean Style Stew Prok Flavour Cooking Noodle,3,6,3.5
+1209,Batchelors,Super Noodles Chicken Mushroom Flavour,3,35,3.25
+1210,A-Sha Dry Noodle,Hell Spicy Mala,3,33,4
+1211,Nissin,Demae Iccho Instant Noodle With Soup Base Artificial Chicken Flavour,1,15,3
+1212,Ruski,Instant Noodles Tom Yum Flavour,3,34,3.5
+1213,Nan Jie Cun,Hot -Dry Instant Noodles Chilli Flavour,4,6,0.5
+1214,Eat & Go,Rendang Beef Flavour Fried Instant Noodle,2,18,5
+1215,GaGa,Mi Instan Cup Milk Chicken Soup,2,18,4.75
+1216,Batchelors,Super Low Fat Noodles Chilli Chicken Flavour,3,35,1
+1217,Doll,Hello Kitty Dim Sum Noodle 19ese Curry Flavour,2,15,3.5
+1218,Sau Tao,Ho Fan Beef Soup Flavored,3,6,3.75
+1219,Tokyo Noodle,Mini Instant Noodle Spicy Flavor,3,19,3.5
+1220,Nissin,Ultraman Instant Noodle Pork Flavour,2,19,3
+1221,ABC,Selera Pedas Hot Semur Chicken Flavour,3,18,4.5
+1222,Nissin,Soba Classic Noodles With 19ese Yakisoba Sauce,2,12,3.75
+1223,Sawadee,Instant Noodles Prawn Oriental Flavour,3,20,2.5
+1224,HoMyeonDang,Premium Noodle House Seafood Ramyun,3,31,4
+1225,Nissin,Pan Asian Kitchen Sweet & Sour Chicken Flavor Ramen Noodles,4,36,3.75
+1226,Master Kong,Artificial Braised Beef Flavor Instant Noodle,1,6,3.75
+1227,Mr. Noodles,Chicken Kimchi Oriental Style Noodles With Soup Base,1,5,0.5
+1228,Maruchan,Seimen 19ese Instant Ramen Noodles Shio Aji,3,19,3.75
+1229,Kumamoto,Tonkotsu Ramen MEGA Dragon,3,19,2.5
+1230,Saji,Sajimee Original Soto Soup Flavor,3,20,4
+1231,A-Sha Dry Noodle,Instant Noodle Shallot Flavor,3,33,3.75
+1232,GaGa,Mie Gepeng Kuah Rasa Ayam Bawang Pedas,3,18,3.25
+1233,Nissin,Sabor A Pollo Sopa Instantánea Con Fideos,3,7,3.25
+1234,Sainsbury's,Barbecue Beef Flavour Instant Noodles,3,35,2.75
+1235,Nissin,Demae Ramen Miso Tonkotsu Artificial Pork Flavor Ramen Noodle,3,15,3.75
+1236,Emart,Dare You Habanero Ramyun,2,31,3.25
+1237,Mama,Instant Noodles Creamy Tom Yum Minced Pork Flavour,3,34,3.5
+1238,Sapporo Ichiban,Sesame Ramen,3,19,5
+1239,SuperMi,Rasa Ayam Spesial,3,18,4
+1240,Maggi,Big Kari Perencah (Big Curry Flavor) 2 Minute Noodles,3,20,4
+1241,Nissin,Donbei Kansai Soy Sauce Flavor Udon,3,19,3.75
+1242,Thai Pavilion,Garlic Chili Instant Rice Noodles & Sauce,4,36,4
+1243,Nissin,Demae Rice Vermicelli Chicken Flavour Instant Rice Vermicelli With Soup Base,3,15,1.75
+1244,Unif,Unif-100 Pickled Cayenne Flavor Beef Ramen,3,6,3.75
+1245,Sau Tao,Instant Noodle King Abalone & Chicken Flavoured,3,15,3.5
+1246,Annie Chun's,Ramen House Chicken Vegetable Flavored Ramen,3,36,4
+1247,Maruchan,I Want To Eat Ramen Pork Tonkotsu Flavor,3,19,4
+1248,Wu-Mu,Beef Flavour Tomato Ramen,3,33,4
+1249,Nissin,Sabor A Pollo Sopa Con Fideos,2,7,2.75
+1250,Samyang Foods,三養라면 (Samyang Ramyun) (31n Version),1,31,3.75
+1251,Mama,Instant Noodles Tom Saab Flavour,3,34,3.5
+1252,Tesco,Instant Noodles Chow Mein Flavour,3,35,2.25
+1253,Nissin,Chow Mein Teriyaki Chicken Flavor Chow Mein Noodles,4,36,3.75
+1254,Four Seas,Sesame Oil Chicken Flavour Instant Noodle,1,15,2.75
+1255,Thai Choice,Instant Noodles Shrimp Flavour,2,34,3.25
+1256,Eat & Go,Curry Chicken Mi Instan Cup,2,18,4.25
+1257,ABC,Mi Goreng Spesial Special Fried Noodle,2,18,4
+1258,President,Mi Goreng Rasa Ayam Chicken Flavoured Fried Noodle,3,18,4.5
+1259,Eat & Go,Chicken Onion Mi Instan Cup,2,18,3.75
+1260,ABC,Mi Goreng Pangsit Fried Noodle With Dumpling,3,18,5
+1261,Eat & Go,Rasa Baso Sapi Meat Ball Mi Instan Cup,2,18,3.75
+1262,ABC,Mi Cup Rasa Kari Ayam Chicken Curry Flavour,2,18,3.75
+1263,Nissin,Cup Noodle Curry X Gunpla RX-78-2 Gundam,2,19,4.25
+1264,ABC,Selera Pedas Mi Goreng Cup Rasa Ayam Pedas Limau Hot Chicken Lemon Flavour,2,18,4.25
+1265,ABC,Rasa Ayam Bawang Chicken Onion Flavour,2,18,3.75
+1266,ABC,Selera Pedas Mi Goreng Cup Rasa Gulai Ayam Pedas Hot Gulai Chicken,2,18,4
+1267,ABC,Mi Cup Rasa Soto Ayam Chicken Soto Flavour,2,18,3.75
+1268,Wu-Mu,Dried Noodle With Jah Jan Sauce,3,33,3.25
+1269,Chewy,Rice Vermicelli Scallop With XO Sauce Flavour,3,15,2.5
+1270,Ko-Lee,Instant Noodles Taste Sensations Creamy Shrimp Tom Yum Flavour,3,35,5
+1271,Prima Taste,30 Chilli Crab La Mian,3,30,5
+1272,Samyang Foods,Baked Noodle Spicy Grilled Beef Ramyun,3,31,3.5
+1273,Sainsbury's,Basics Instant Noodles Chicken Curry Flavour,3,35,3.25
+1274,Wu-Mu,Shiitake Flavor Spinach Ramen,3,33,3.75
+1275,Wu-Mu,Ramen With Stewed Pork Flavor,3,33,4.5
+1276,Adabi,Mi Bandung Prawn Mee,3,20,4.25
+1277,Vifon,Mì Gà Tìm Chua Cay Hot & Sour Chicken Flavor Instant Noodles,3,37,2
+1278,Ottogi,Ppushu Ppushu Noodle Snack Bulgogi Flavor,3,31,3.25
+1279,Ko-Lee,Instant Noodles Mixed Vegetable,3,35,3.5
+1280,Deshome,Sun Dried Noodle Chlorella Powder Noodle With Curry Sauce,3,33,5
+1281,Tokachimen Koubou,Jet Black Sesame Oil Pork Tonkotsu,1,19,2.25
+1282,Koka,Purple Wheat Noodles Aglio Olio,3,30,2.75
+1283,Nongshim,Oolongmen Kimchi Cup Noodle Soup Mix,2,31,4
+1284,Thai Kitchen,Rice Noodle Cart Sweet Citrus Ginger,4,36,4.25
+1285,Lucky Me!,Supreme Chow Mein Seafood Flavor Instant Stir-Fried Noodles,1,27,3.25
+1286,Batchelors,Super Noodles Roast Beef & Onion Flavour,3,35,3.25
+1287,Kimura,Kumamoto Tonkotsu Ramen,3,19,5
+1288,Sau Tao,QQ Scallop Seafood Vermicelli,1,15,3.75
+1289,JML,Braised Beef Noodles,3,6,4
+1290,Nongshim,Sain Sain Garlic Teriyaki Fresh Cooked Udon Pasta,4,31,4.5
+1291,A-One,Mì Ly Instant Noodles Mì Tôm Shrimp Flavor,2,37,3.25
+1292,Nissin,Cup Noodles Sabor A Carne Sopa Con Fideos,2,7,3
+1293,Myojo,Prawn Noodles,3,30,4.25
+1294,Thai Choice,Instant Noodles Chicken Flavour,2,34,3
+1295,Wu-Mu,Steam Mushroom Flavor Ramen,3,33,3.25
+1296,Wu-Mu,Ramen With Pickled Mustard Flavor,3,33,3.5
+1297,GaGa,Mie Gepeng Kuah Rasa Ayam Lada Hitam,3,18,3.25
+1298,Good Tto Leu Foods,Lightning Beef Bone Tteokg35 Rice Cake Soup,1,31,4
+1299,Mr. Noodles,Noodles In A Cup Spicy Chicken Simulated Flavour,2,5,1
+1300,Samyang Foods,Red Nagasaki Jjampong,3,31,5
+1301,Knorr,Quick Serve Macaroni Shrimp Broth,3,15,3.25
+1302,Mama,Instant Noodles Yentafo Tom Yum Mohfai Flavour,3,34,5
+1303,Western Family,Instant Noodles In A Cup Chicken Flavour,2,5,1.5
+1304,Nissin,Demae Ramen Shoyu Tonkotsu Artificial Pork Flavour,3,15,4.75
+1305,A-Sha Dry Noodle,Instant Noodle Original Flavor,3,33,3.75
+1306,Koka,Oriental Style Instant Noodles Tom Yam Flavour,3,30,2.5
+1307,Nissin,Cup Noodle Cheese Curry,2,19,3.75
+1308,Nongshim,Soon Veggie Noodle Soup,3,31,5
+1309,Yum Yum,Oriental Style Instant Noodles Seafood Flavour,2,34,3.75
+1310,Thai Kitchen,Rice Noodle Cart Thai Peanut,4,36,3
+1311,Pop Bihun,Spesial Rasa Soto Ayam,3,18,4
+1312,Maruchan,I Want To Eat Ramen Miso Flavor,3,19,3.75
+1313,Healtimie,Green Barley Noodle Vegetable Soup,3,18,3.25
+1314,Paldo,Korean Traditional Beef Gomtangmen,3,31,5
+1315,Sainsbury's,Chicken Flavour Instant Noodles,3,35,2.75
+1316,Ottogi,Japchae Vermicelli Noodle,3,31,2.75
+1317,Ve Wong,Little Prince Brand Snack Noodles Original Flavor,3,33,2.5
+1318,Nissin,Spa Oh Tarako Spaghetti,1,19,4
+1319,Adabi,Mi Segera Kari Ayam Instant Noodles,3,20,4.25
+1320,Mama,Instant Noodles Cup Seafood Flavour,2,34,3.75
+1321,Takamori Kosan,Fresh Chow Mein Noodles With Seasoning,3,19,3.75
+1322,Hi-Myon,Instant Noodle Udon Hot & Spicy,3,31,4
+1323,Golden Wheat,Korean Style Mushroom Chicken Flavour Cooking Noodle,3,6,2
+1324,Ruski,Instant Noodles Stewed Beef Flavour,3,34,3.5
+1325,Koka,Spicy Shrimp Tom Yam Flavour,2,30,3.25
+1326,Mamee,Mi Segera SLLRRRP! Perencah Kari Xtra Pedas,3,20,3.75
+1327,Unif,Unif-100 Instant Noodles Artificial Tart Beef Flavor,3,6,3
+1328,A-Sha Dry Noodle,Hello Kitty La Wei (Spicy Flavor),3,33,3.75
+1329,Vifon,Oriental Style Instant Noodle Mi Ga Chicken Flavor,2,37,1.25
+1330,Sapporo Ichiban,Otaf35u Okonomi Sauce Yakisoba,4,19,5
+1331,Indomie,Taste Of Asia Mi Kuah Rasa Tom Yum Ala 34,3,18,3.75
+1332,Sakura Noodle,Chikara Brand Udon Chicken Flavor,3,36,3.75
+1333,Sakura Noodle,Chikara Brand Udon Oriental Flavor,3,36,3.75
+1334,Sakura Noodle,Chikara Brand Udon Mushroom Flavor,3,36,3.75
+1335,Sakura Noodle,Chikara Brand Udon Hot & Spicy Flavor,3,36,4
+1336,Shirakiku,Fresh Chow Mein Noodles With Seasoning,3,36,3.75
+1337,Sakura Noodle,Chikara Brand Udon Beef Flavor,3,36,4.25
+1338,Batchelors,Super Noodles Peppered Steak Flavour,3,35,1.5
+1339,Kin-Dee,Instant Rice Noodle Pad Thai,4,34,3.75
+1340,Indomie,Taste Of Asia Mi Goreng Rasa Bulgogi Ala Korea,3,18,2.75
+1341,Plats Du Chef,Cuisine Adventures Chicken Pho Soup,1,5,5
+1342,Ah Lai,White Curry Noodle,3,20,4.5
+1343,Lotus Foods,Jade Pearl Rice Ramen,3,36,3.25
+1344,Lotus Foods,Millet & Brown Rice Ramen,3,36,4
+1345,Lotus Foods,Forbidden Rice Ramen,3,36,2.25
+1346,Oyatsu,Baby Star Ramen Round Consomme Mini,3,19,3.75
+1347,Paldo,Bulnak Bokkummyun Spicy Fried Octopus Ramyun,3,31,4
+1348,Mamee,Instant Vermicelli Tom Yam Flavour,3,20,3.75
+1349,Mamee,Mie Goreng 18 Original Flavour,2,20,4.5
+1350,Mamee,Chef Curry Laksa Flavour,3,20,5
+1351,Mamee,Monster Chicken Flavour Snack Noodles,3,20,4
+1352,Mamee,SLLRRRP! Kari Berapi,3,20,3.75
+1353,Mamee,Instant Noodles Vegetarian Flavour,3,20,3.75
+1354,Mamee,Chef Creamy Tom Yam Flavour,2,20,4.75
+1355,Mamee,Instant Vermicelli Chicken Flavour,3,20,3.25
+1356,Mamee,Chef Spicy Chicken Shiitake Flavour,3,20,3.25
+1357,Mamee,Mie Goreng 18 Spicy Sambal,2,20,5
+1358,Mamee,SLLRRRP! Asam Laksa,3,20,4
+1359,Mamee,Chef Curry Laksa Flavour,2,20,5
+1360,Mamee,Monster BBQ Flavour Snack Noodles,3,20,3.75
+1361,Mamee,Chef Creamy Tom Yam Flavour,3,20,5
+1362,Mamee,Instant Noodles Curry Flavour,3,20,3.5
+1363,Sau Tao,Instant Noodle King Won Ton Flavor,3,15,2.75
+1364,Golden Wheat,Korean Style Stew Pork Flavour Noodle Soup,1,6,1.75
+1365,Four Seas,Seaweed Hot & Spicy Instant Noodle Mushroom & Beef Flavour,1,15,3.5
+1366,Nongshim,Sir Long Tang Creamy Beef Noodle Soup,2,36,4.25
+1367,Sawadee,Instant Noodles Vegetable & Mushroom Flavour,3,35,1.5
+1368,Nissin,Soba Teriyaki Noodles With 19ese Yakisoba Sauce,2,12,3
+1369,A-Sha Dry Noodle,Hello Kitty Za Jiang (Soybean Sauce),3,33,3.25
+1370,Papa,Oriental Style Instant 'Kua-Chap',3,34,3.25
+1371,Campbell's,Hearty Noodles Thai Flavour,2,5,0
+1372,Samyang Foods,Nagasaki Jjamppong,2,31,3.75
+1373,Tesco,Everyday Value Beef & Tomato Flavour Noodles,2,35,2
+1374,Tokyo Noodle,Spicy Garlic Ramen,3,19,3.25
+1375,Takamori Kosan,Spaghetti Napolitan,3,19,4
+1376,Takamori Kosan,Katsuo Dashi Udon,3,19,3.75
+1377,Takamori Kosan,Yaki-Udon Mild Spicy Sauce,3,19,4.25
+1378,Takamori Kosan,Yakisoba,3,19,5
+1379,Takamori Kosan,Shio Yakisoba,3,19,4
+1380,Takamori Kosan,Chanpon,3,19,3.75
+1381,Takamori Kosan,Curry Udon,3,19,5
+1382,Takamori Kosan,Hiyashi Ch35a Lemon Sauce,3,19,4.75
+1383,Takamori Kosan,Futomen Yakisoba,3,19,4.75
+1384,Takamori Kosan,Hiyashi Udon Bonito Sauce,3,19,3
+1385,Takamori Kosan,Yaki-Udon Roast Soy Sauce,3,19,3.75
+1386,Takamori Kosan,S35iyaki Style Noodle Stew,3,19,4.5
+1387,Takamori Kosan,Red Pepper 7 Garlic Peperoncino,3,19,4
+1388,Paldo,Barbecue Ramyun (Prototype),3,31,3.75
+1389,Tiger Tiger,Traveller's Choice Thai Red Curry Flavour Instant Noodles,3,35,1.75
+1390,Indomie,Mi Goreng Rasa Iga Penyet,3,18,4.75
+1391,Shan,Shoop Instant Noodles Chicken Flavour,3,26,3.5
+1392,Miracle Noodle,Miso Marvellous Soup,3,36,4
+1393,Saji,Sajimee Curry Soup Flavour,3,20,4.25
+1394,Paldo,Mild Kokomen (Prototype),3,31,4.5
+1395,Snapdragon,30 Laksa Curry Soup Bowl,1,36,4.25
+1396,Oyatsu,Baby Star Snack Noodle Yakisoba Flavor,3,19,4.75
+1397,Wu-Mu,Steam Seafood Flavor Ramen,3,33,4
+1398,Nissin,Fried Noodle Specialist Tom Yam Mee Goreng Flavour,3,30,3
+1399,Vina Acecook,Oh! Ricey Pho Bo Instant Rice Noodles,1,37,3.75
+1400,Pulmuone,Nature Is Delicious Non-Fried Ramyun (Spicy Flavor) (New Version),3,31,3.75
+1401,Myojo,Yomise No Yakisoba Shiodare Flavor With Black Pepper Mayonnaise,4,19,3.75
+1402,Pop Bihun,Spesial Rasa Kari Ayam Pedas,3,18,3.75
+1403,Tesco,Everyday Value Chicken & Mushroom Flavour,2,35,0.5
+1404,Thai Choice,Instant Noodles Seafood Flavour,2,34,4
+1405,Maggi,Masala Dumdaar Noodles,3,17,3.75
+1406,La Fonte,Spaghetti With Mushroom Sauce,3,18,3.75
+1407,Annie Chun's,Ramen House Thai Coconut Ramen,3,36,5
+1408,Pamana,Chicken Sopas Creamy Macaroni Soup,2,27,3.5
+1409,Baixiang Noodles,Spicy Artificial Beef Flavour Instant Noodles With Soup Base,3,6,3.5
+1410,Adabi,Mi Segera Tom Yam Instant Noodles,3,20,3.25
+1411,A-Sha Dry Noodle,Prince Katsu Snack Noodles,3,33,4
+1412,Chewy,Non-Fried Ramen Noodles 33 Roast Pork Flavour,3,15,4
+1413,Chering Chang,Curry La-Men,3,33,5
+1414,Paldo,Cheese Ramyun (for US market),3,31,5
+1415,Chewy,Instant Rice Vermicelli Original Flavour,3,15,0.5
+1416,Myojo,Ch35azanmai Szechuan Style Miso,3,19,2
+1417,Sau Tao,Oat Noodle Abalone Flavored,3,33,1.75
+1418,Ottogi,Ppushu Ppushu Grilled Chicken Flavor,3,31,1
+1419,Vifon,Ngon-Ngon Tom Yum Minced Pork Noodle,2,37,3.5
+1420,Maruchan,I Want To Eat Ramen Shio,3,19,3.75
+1421,Nongshim,Korean Clay Pot Ramyun Noodle,2,6,2.75
+1422,Nissin,Pan Asian Kitchen Spicy Szechuan Chicken Flavor Ramen Noodles,4,36,3
+1423,Vina Acecook,King Chef Seafood With Kimchi Flavour,3,37,3
+1424,Sainsbury's,Curry Flavour Instant Noodles,3,35,1.5
+1425,Hao Way,Instant Penang White Curry Noodles,3,20,4.5
+1426,Ottogi,Cheese Bokki,1,31,4
+1427,Osaka Ramen,Miso Ramen,1,36,3.75
+1428,Myojo,Ch35azanmai Beijing Style Salt Ramen,3,19,3
+1429,Nissin,Sabor A Gallina Fideos Con Instantanea,3,7,3.5
+1430,Samyang Foods,Buldak Bokkummyeon,1,31,4
+1431,Maggi,Extra Spicy Curry Instant Noodles,3,30,5
+1432,Maggi,Senses Laksa Instant Noodles,3,30,5
+1433,Maggi,2 Minute Noodles Curry Flavour,3,30,3.75
+1434,Maggi,Hot Cup Perisa Kari,2,20,3.5
+1435,Maggi,2 Minute Noodles Assam Laksa Flavour,3,30,4
+1436,Chencun,Rice Noodle Beef With Brown Sauce,2,6,3.5
+1437,Knorr,Quick Serve Macaroni Abalone & Chicken Flavour,3,15,3
+1438,Maruchan,Old Style Miso Ramen,3,19,3.5
+1439,Adabi,Mi Segera Mi Goreng Pedas Instant Noodles,3,20,3.5
+1440,Wu-Mu,Dried Noodle With Beef Flavor Sauce,3,33,3
+1441,Nissin,Souper Meal Chili Picante Chicken With Lime Flavor Ramen Noodle Soup,1,36,3.5
+1442,Maggi,2 Minute Noodles Tom Yam Flavour,3,30,3.5
+1443,Nongshim,Harmony Korean Spicy Noodle Dish With Chipotle,3,36,4.25
+1444,Maruchan,Instant Lunch Jalapeno Cheddar Flavor Ramen Noodles,2,36,3.5
+1445,MyKuali,Penang Hokkien Prawn Noodle,3,20,5
+1446,Myojo,Ippei-Chan Jumbo Night Market Style Yakisoba,4,19,4.5
+1447,Nissin,Cup Noodles Cream Of Chicken Flavour,2,30,4
+1448,Nissin,Premium Instant Noodles Roasted Beef Flavour,3,30,4.25
+1449,Nissin,Cup Noodles Seafood Curry Flavour,2,30,4
+1450,Nissin,19ese Ramen Tokyo Shoyu Instant Noodles With Soup Base,3,30,5
+1451,Nissin,Cup Noodles Tom Yam Seafood Flavour,2,30,4
+1452,Nissin,Premium Instant Noodles Spicy Beef Flavour,1,30,3.75
+1453,Nissin,19ese Ramen Kyushu Black Instant Noodles With Soup Base,3,30,5
+1454,Nissin,Cup Noodles Chilli Crab Flavour,2,30,4
+1455,Nissin,Premium Instant Noodles XO Sauce Seafood Flavour,3,30,3.75
+1456,Nissin,Cup Noodles Chicken Flavour,2,30,3.5
+1457,Nissin,Chu Qian Yi Ding Sesame Oil Flavour,3,30,3.75
+1458,Nissin,Premium Instant Noodles Roasted Beef Flavour,1,30,3.75
+1459,Nissin,Cup Noodles Tom Yam Veg Flavour,2,30,4
+1460,Nissin,Premium Instant Noodles Spicy Beef Flavour,3,30,3.75
+1461,Nissin,Cup Noodles Black Pepper Crab Flavour,2,30,4
+1462,Wei Lih,Steam Instant Noodles Korean Salt & Rib Soup Flavour,1,33,2.25
+1463,Maruchan,Instant Lunch California Vegetable Ramen Noodles With Vegetables,2,36,3.5
+1464,Nanyang Chef,Penang White curry Noodle With Nanyang Chilli Paste,3,20,4.75
+1465,Thai Chef,"Shrimp ""Tom Yum"" Instant Nudelsuppe",3,12,3.5
+1466,Mama,Oriental Style Instant Noodles Green Curry Flavour Jumbo Pack,3,34,5
+1467,Ruski,Creamy Tom Yam Instant Noodles,3,34,4.5
+1468,Mama,Instant Cup Noodles Seafood Pad Kee Mao Flavour,2,34,5
+1469,Bamee,Oriental Style Instant Noodles Beef Flavour,3,12,3.25
+1470,Mama,Instant Cup Noodles Spicy Cheese Flavour,2,34,3.5
+1471,Mama,Instant Noodles Shrimp Creamy Tom Yum Flavour Jumbo Pack,3,34,5
+1472,Ruski,Chicken Masala Flavour Instant Fried Noodles,3,34,3.75
+1473,Mama,Instant Cup Noodles Shrimp Tom Yum Flavour (Extreme),2,34,5
+1474,Mama,Instant Noodle Shrimp Tom Yum Flavour Jumbo Pack,3,34,4
+1475,Bamee,Cup Oriental Style Instant Noodles Chicken Flavour,2,34,3.25
+1476,Thai Chef,Instant Nudelsuppe Shrimp Flavour,3,12,3.5
+1477,Mama,Instant Noodles Moo Nam Tok Flavour,3,34,4
+1478,Ruski,Tom Yam Flavour Instant Noodles,3,34,4
+1479,Nissin,Cup Noodles Easy Fideos Tomato Chicken Flavor Ramen Noodle Soup,2,36,3.5
+1480,Paldo,Jjol Bibim Men,3,31,4
+1481,Master Kong,Mushroom Stew Chicken Ramen,3,6,3.5
+1482,Maruchan,I Want To Eat Ramen' Shoyu Flavor,3,19,4
+1483,Four Seas,Hot & Spicy Instant Noodle (Mushroom & Beef Flavour),3,15,4
+1484,Ibumie,Mee Baa..Gus Mi Goreng Spicier Original Flavour,3,20,3.75
+1485,Nongshim,Spicy Tonkotsu Noodle Soup,3,36,5
+1486,Mom's Dry Noodle,Onion Oil & Shrimp Flavor,3,33,5
+1487,ICA,Asia Snabbnudlar Kycklingsmak,3,32,3.25
+1488,Mom's Dry Noodle,Sichuan Spicy Flavor,3,33,5
+1489,Maggi,Multigrainz Noodles Spice Remix,3,17,3.25
+1490,Nissin,Soba Chili Noodles With 19ese Yakisoba Sauce,2,12,3.5
+1491,Ottogi,Potato Ramen,3,31,3.75
+1492,Wai Wai,Quick Zabb Tom Yum Shrimp Flavour Instant Noodles,3,34,4
+1493,Maruchan,Magomi-an Kitsune Udon (Eastern 19 Flavor),1,19,4.25
+1494,Indomie,Pop Mie Chicken Flavour Cup Noodles,2,18,3.5
+1495,Super,Instant Noodles Mee Goreng,2,20,3.75
+1496,Master Kong,Mianba Pork Ribs Flavor Instant Noodles,3,6,4.5
+1497,Nissin,Easy Fideos Picante Lime Shrimp Flavor Ramen Noodle Soup,2,36,3.5
+1498,Samyang Foods,Sogokimyun Hot Flavor Noodle Soup,3,31,3.5
+1499,United,Instant Noodles Xi Gon Artificial Stewed Beef Flavor,3,37,3.25
+1500,MyKuali,Penang Red Tom Yum Goong Noodle,3,20,5
+1501,Acecook,Ohmori Ch35afu Yakisoba,4,19,3.25
+1502,JML,Artificial Pork Flavor Noodles,3,6,4
+1503,Nongshim,Bowl Noodle Soup Shrimp Habanero Lime Flavor,1,36,3.25
+1504,Master Kong,Stewed Beef Flavor Cooking Noodle,3,6,4.25
+1505,Shan,Shoop Instant Noodles BBQ Flavour,3,26,3.25
+1506,Nissin,Cup Noodles Mug Noodles Spicy Vegetable,3,17,3.75
+1507,Nissin,Chu Qian Yi Ding Prawn Flavour Instant Noodles With Soup Base,3,30,3.5
+1508,Mamee,Chef Gold Recipe Mi Kari Seribu Rasa,3,20,5
+1509,Nissin,Donbei Kitsune Udon Mini,1,19,3.5
+1510,Knorr,Quick Serve Macaroni Wonton Broth,3,15,3.25
+1511,Long Jun Hang,Tainan Yi Mien With Sesame Oil Sauce,3,33,3.25
+1512,Chewy,19ese Fried Ramen Noodles Kyoto Barbecue Sauce Flavour,3,15,1.75
+1513,Mama,Instant Noodles Tom Yum Pork Flavour,3,34,4
+1514,Maggi,Royale Penang Seafood Curry,3,20,4.5
+1515,Nongshim,Neoguri Udon Seafood & Mild,3,31,4
+1516,Men-Sunaoshi,Miso Ramen,3,19,3.75
+1517,Katoz,Instant Noodles Spicy Chili,3,32,3.5
+1518,Mamee,Chef Gold Recipe Bihun Kari Seribu Rasa,3,20,4.5
+1519,Ching's Secret,Manchurian Instant Noodles,3,17,3.5
+1520,Yum Yum,Oriental Style Instant Noodles Wasabi Flavour,3,34,3
+1521,Maruchan,Gotsumori Sauce Yakisoba,4,19,5
+1522,Vifon,Instant Porridge Seafood Flavour,3,37,3.25
+1523,Paldo,Jjamppong Seafood Noodle King Bowl,1,31,5
+1524,Nissin,Chu Qian Yi Ding Spicy Sesame Flavour Instant Noodles With Soup Base,3,30,3.5
+1525,Pama,Instant Kua Teow Tom Yam,2,20,3.75
+1526,Lucky Me!,La Paz Batchoy Instant Noodle Soup,3,27,3.75
+1527,Lucky Me!,Special Baked Mac Style Instant Macaroni,3,27,4.5
+1528,Lucky Me!,Supreme Pinoy Chicken Instant Noodles,2,27,3.25
+1529,Lucky Me!,Special Instant Curly Spaghetti With Yummy Red Sauce,3,27,4
+1530,Lucky Me!,Spicy Beef Mami Instant Noodle Soup,3,27,4
+1531,Lucky Me!,Special Instant sopas Chicken Flavor,3,27,3.75
+1532,Lucky Me!,Special Instant Noodles Jjamppong Flavor,3,27,4.5
+1533,Miliket,Sate Flavor Instant Noodles,3,37,3.75
+1534,Vit's,Seafood Instant Noodles,3,20,3.75
+1535,Sau Tao,Oat Noodle Pork Rib Flavored,3,15,3.5
+1536,Paldo Vina,Koreno Premium Shrimp Flavor,3,37,3.25
+1537,Wai Wai,Quick Zabb Chili Paste Tom Yum Flavour Instant Noodles,3,34,3.75
+1538,Sau Tao,Oat Noodle Tomato Soup Flavored,3,15,4.5
+1539,New Touch,Kimchi Noodle,1,19,3.5
+1540,Unif-100,Instant Noodles Artificial Shallot Beef Flavour,3,6,4.25
+1541,Wu-Mu,Steam Pork Flavour,3,33,3.75
+1542,Koka,Noodles Beef Flavour,2,30,2.5
+1543,Maggi,2 Minute Noodles Hungrooo Masala Spicy,3,17,3.75
+1544,Thai Pavilion,Pad Thai Instant rice Noodles & Sauce,4,36,1.5
+1545,Nanyang Chef,Penang Asam Pedas Hot & Sour Noodle,3,20,5
+1546,Nissin,Demae Rice Vermicelli Beef Flavour,3,15,3.5
+1547,Vedan,Volcano Spicy Pork Noodle,1,33,4.25
+1548,Samyang Foods,Curry Noodle,2,19,3.75
+1549,Sapporo Ichiban,Chow Mein 19ese Style Noodles Yakisoba,3,5,5
+1550,Ibumie,Penang White CurryMee,3,20,5
+1551,Myojo,Men Black Seafood Tonkotsu,1,19,3.5
+1552,Bamee,Oriental Style Instant Noodles Pa-Lo Duck Flavour,3,34,3.5
+1553,Mamee,Mi Segera Perisa Itik,3,20,3.75
+1554,ICA,Asia Fast Noodles Snabbnudlar Räksmak,3,32,3
+1555,Ko-Lee,Instant Noodles Taste Sensation Mixed Vegetable Flavour,3,35,3.5
+1556,Ching's Secret,Hot Garlic Instant Noodles,3,17,3.75
+1557,Hao Way,Penang Laksa ,3,20,3.5
+1558,No Name,Beef Flavour Oriental Noodles And Soup Mix,2,5,2
+1559,Master Kong,Spicy Beef Flavor Instant Noodle,3,6,4
+1560,Kin-Dee,Instant Rice Noodle Spicy Seafood,4,34,3.75
+1561,Uncle Sun,White Curry Noodle,3,20,4.5
+1562,Koka,Purple Wheat Noodles Soy & Vinegar Flavor,3,30,2.75
+1563,Nongshim,Shin Ramyun Noodle Soup (New Edition),3,36,4.25
+1564,A-One,Mì Ly Instant Noodles Mì Thịt Xào Pork Flavor,2,37,3
+1565,Oyatsu,Baby Star Snack Noodle Chicken Flavour,3,19,2.5
+1566,Nissin,Cup Noodles Tomato Enjoy Noodles With Hot Soup,2,17,3.25
+1567,Nissin,Emergency Cup Noodle,2,19,4.25
+1568,Mama,Instant Noodles Cup Beef Flavour,2,34,3.5
+1569,Maggi,Mi Goreng Perencah Kari Ori,3,20,4
+1570,Maruchan,"Big Cup Ramen Corn, Salt & Butter Flavor",1,19,5
+1571,Econsave,Choice Instant Noodles Curry Flavour,3,20,3.5
+1572,Master Kong,Artificial Seafood Flavor Instant Noodle,3,6,3.75
+1573,Hao Way,Penang White Curry Instant Bowl Noodles,1,20,4.75
+1574,Chering Chang,Steam Vegetarian Flavor Noodles,3,33,3.5
+1575,Paldo,Jjajangmen Chajang Noodle King Bowl,1,31,5
+1576,Maggi,Authentic 17n Noodles Vegetable Atta Masala,3,17,3.75
+1577,Mama,Pork Flavour Whole Wheat Noodle,3,34,3.75
+1578,Nissin,Gonbuto Tempura Udon,1,19,4
+1579,Curry Prince,Penang Authentic White Curry Noodle,3,20,4
+1580,Emart,Dare You! Habanero Ramen (New Edition),3,31,3.75
+1581,United,3 Con Tom Instant Noodles 34 Sour Shrimp Flavor,3,37,2.75
+1582,Mi E-Zee,Perisa Kari / Curry Flavour,3,20,4
+1583,J.J.,Snek Mi Perisa BBQ,3,20,4
+1584,E-mi,Mi Perencah Asam Pedas,3,20,3.75
+1585,CarJEN,Nyonya Curry Laksa,3,20,5
+1586,J.J.,Snek Mi Perisa Ayam,3,20,3.75
+1588,Mi E-Zee,Perisa Bayam,3,20,3.5
+1589,E-mi,Mi Perencah Ayam Jagung,3,20,3.75
+1590,Mi E-Zee,Perisa Kari Sayuran,3,20,3.75
+1591,Mi E-Zee,Perisa Sayuran,3,20,3.5
+1592,Mom's Dry Noodle,Vegan Chilli With Sesame Sauce,3,33,5
+1593,Nongshim,Tteokg35myun,3,31,4.25
+1594,Acecook,Jan Jan Dashi Shoyu Yakisoba,2,19,2.25
+1595,JML,Emporer Instant Noodles Spicy Chicken,3,6,5
+1596,Uncle Sun,White Curry Noodle More Spicy,3,20,3
+1597,Nissin,Original Chow Mein Premium Spicy Chicken Flavor,4,36,4
+1598,Mama,Cup Rice Vermicelli Shrimp Creamy Tom Yum,2,34,4
+1599,Nissin,Top Ramen Super Noodles Tomato,3,17,3.5
+1600,Chering Chang,Instant Non-Fried Noodles Shallot Pork Flavour,3,33,5
+1601,Nongshim,Jinjja Jinjja (New),3,31,5
+1602,Vina Acecook,Mikochi Tom Yum Flavor Instant Noodles,3,37,3.5
+1603,Salam Mie,Mi Goreng Ala Jawa Dengan Sambal Cabe Asli,3,18,5
+1604,Unzen,Mushroom Honpo Shiitake Nutritious Noodle,3,19,1
+1605,Nissin,Demae Iccho Mushroom With Vegetables Flavour Macaroni,3,15,3.5
+1606,Maggi,Perencah Kari Letup Mi Segera,3,20,4
+1607,Myojo,Nyumen Desse Shoyu,1,19,2.75
+1608,Hao Way,Penang Vegetarian Prawn Instant Noodles,3,20,4.5
+1609,Mitoku,Brown Rice Ramen,3,19,0.25
+1610,Paldo Vina,Koreno Premium Ginseng Flavor,3,37,3
+1611,Lucky Me!,Supreme Seafood Flavor Big Cup,1,27,4
+1612,Shan,Shoop Instant Noodles Spicy Lemon Flavour,3,26,3.25
+1613,Maruchan,Kaoru Maitake Tempura Udon,1,19,3.25
+1614,The Bridge,Penang White Curry Noodle,3,20,5
+1615,Hankow,Shanghai Kaiyang Noodle,3,6,4
+1616,Unif-100,Instant Noodles Artificial Spicy Beef Flavor (New Package),3,6,3.5
+1617,MyKuali,Penang Hokkien Prawn Noodle (New Improved Taste),3,20,5
+1618,Deshome,Aloe This Noodles With Camellia Oil Spicy Bean Sauce Flavor,3,33,2.5
+1619,Nissin,Chu Qian Yi Ding Tom Yum Instant Noodles With Soup Base,3,30,3.75
+1620,Premiere,Gold Penang Asam Laksa Bihun,3,20,3.25
+1621,Myojo,MenWhite Creamy Tonkotsu,1,19,3
+1622,Nongshim,Quick2 Hot & Spicy Noodle Soup With Habanero & Lime,3,36,4
+1623,MyKuali,Penang White Curry Noodle (New Improved Tatse),3,20,5
+1624,Baixiang Noodles,Artificial Pork Flavour,3,6,3
+1625,Mama,Instant Rice Noodle Soup Spicy Shrimp Flavour,1,34,5
+1626,Nissin,Gonbuto Kistune Udon,1,19,2.75
+1627,Vedan,Wei Wei A Instant Noodles Hot Beef Flavour,1,33,2.5
+1628,Azami,Kimchee Noodle Soup,2,5,0
+1629,Hao Way,Penang Laksa Instant Bowl Noodles,1,20,3.5
+1630,Nongshim,Korean Clay Pot Ramyun,1,6,2.5
+1631,Nissin,Donbei Tempura Soba Mini,1,19,4
+1632,Cintan,Mi Segera Mmm... Perisa Kari,3,20,3
+1633,A-One,Mi Ly Instant Noodles Mi Bo Beef Flavor,2,37,3.5
+1634,Samyang Foods,Shoyu Noodle,2,31,3.5
+1635,Wai Wai,Quick Zabb Tom Klong Flavour Instant Noodles,3,34,2.75
+1636,Shan,Shoop Instant Noodles Masala Flavour,3,26,3.25
+1637,Thai Chef,Instant Nudelsuppe Huhn Geschmack,3,12,3
+1638,A-Sha Dry Noodle,Veggie Noodle Tomato Noodle With Vine Ripened Tomato Sauce,3,33,5
+1639,Pama,Bihun Creamy Tom Yam Flavour,2,20,3.75
+1640,Long Jun Hang,33 Dried Noodles With Onion Oil Sauce,3,33,2
+1641,One Dish Asia,19ese Ramen Noodle,1,36,0
+1642,Campbell's,Hearty Noodles Savoury Beef Flavour,2,5,0.25
+1643,Emart,Dare You! Habanero Jjajang Ramen,2,31,3.5
+1644,Hao Way,Vegetarian Penang Laksa Instant Bowl Noodles,1,20,2
+1645,Lucky Me!,Supreme Jjamppong Korean Style Spicy Seafood Soup,1,27,3.75
+1646,New Way,Spaghetti Instant Noodles,4,37,4
+1647,No Name,Shrimp Flavour Oriental Noodles And Soup Mix,2,5,2.75
+1648,Wei Lih,Instant Noodles With Onion Flavour,3,33,4.25
+1649,Master Kong,Seafood Flavour Instant Cooking Noodles,3,6,4.25
+1650,Ottogi,Sesame Flavor Ramen Korean Style Instant Noodle,3,31,4.25
+1651,Ruski,Chicken Flavour Instant Noodles,3,20,3.75
+1652,MyOri,20 Penang White Curry Noodle Original,3,20,5
+1653,MyOri,20 Penang Green Curry Rice Vermicelli,3,20,5
+1654,MyOri,20 Penang White Curry Noodle Super Spicy,3,20,5
+1655,Baijia,Artificial Pickled Vegetable Beef Flavor,3,6,3
+1656,Mama,JokCup Instant Porridge Soup Seafood Flavour,2,34,3.5
+1657,Shan,Shoop Instant Noodles Bombay Biryani Flavour,3,26,2.75
+1658,ChoripDong,Hurricane Rice Cake (Topokki),1,31,5
+1659,United,Xi Gon Satay Onion Flavor,3,37,2.75
+1660,Sau Tao,Ho Fan Wonton Soup Flavored,3,15,3
+1661,Chencun,Senior Food Rice Noodle Fragrant Peppery Beef,2,6,3.75
+1662,Mama,Non-Fried Instant Noodles Ramen Tonkotsu Flavor,3,34,5
+1663,Vina Acecook,King Chef Authentic Kimchi Flavour,3,37,4
+1664,Mamee,Oriental Noodles Prawn Flavor,3,20,2
+1665,Paldo Vina,Koreno Premium Mushroom Flavor,3,37,1.5
+1666,Vifon,Curry Instant Noodle With Chicken,2,37,3
+1667,Deshome,Aloe Thin Noodles With Camelia Oil Vegetable Sauce Flavor,3,33,5
+1668,Mama,Cup Rice Vermicelli With Clear Soup,2,34,3.5
+1669,A-One,Mi Ly Instant Noodles Mi Chay Vegetarian Flavor,2,37,1.25
+1670,Tropicana Slim,Less Fat Noodles Grilled Chicken,3,18,3.75
+1671,Ah Lai,Penang Favourite White Curry Rice Vermicelli,3,20,5
+1672,Azami,Chili Seafood Flavor Noodle Soup,2,5,3.25
+1673,Lishan Food Manufacturing,Black Cock Brand Vegetarian Chicken Noodle,3,33,3.5
+1674,Emart,Dare You! Habanero Ramen (New Edition),2,31,3.5
+1675,Baixiang Noodles,Sauerkraut Flavor,3,6,4.5
+1676,A1,Emporer Herbs Chicken Noodle,3,20,4.25
+1677,Paldo,Raobokki Noodle (Export Version),3,31,5
+1678,Nongshim,Shin Black Spicy Po-Au-Feu Flavor (Mew Edition),3,36,5
+1679,Ten-In,Veggie World Vegetarian Braised Beef Instant Noodles,1,33,3.5
+1680,Aroi,Curry Me! Penang White Curry Soup Noodle,3,20,4.5
+1681,Wugudaochang,Sea Tangle & Sparerins Flavor Noodles,1,6,3.75
+1682,Wugudaochang,Sour Bamboo Shoot & Beef If Hot Pot Flavor Noodles,3,6,4
+1683,Wugudaochang,Sour Soup & Minced Meat Flavor Chef's Grain Naked Oat Noodles,3,6,5
+1684,Wugudaochang,Sichuan Pepper & Chicken Flavor Noodle,1,6,4.5
+1685,Wugudaochang,Chef's Grains Pea Noodle,3,6,4
+1686,Wugudaochang,Chef's Grains Buckwheat Noodle,3,6,3.5
+1687,Wugudaochang,Chef's Grains Millet Noodle,3,6,3.75
+1688,Wugudaochang,Sea Tangle & Sparerins Flavor Noodles,1,6,3.75
+1689,Wugudaochang,Tomato Beef Brisket Flavor Purple Potato Noodle,3,6,5
+1690,Wugudaochang,Sour Bamboo Shoot & Beef If Hot Pot Flavor Noodles,1,6,4
+1691,Mama,Instant Cup Noodles Minced Prok Flavor,2,34,3.5
+1692,Mama,Oriental Style Instant Noodles Chicken Flavour,3,2,3.25
+1693,Mama,Instant Noodles coconut Milk Flavour,2,22,5
+1694,Mama,Instant Rice Vermicelli Bihun Goreng Original Flavour,3,34,4.75
+1695,Mama,Cup Shrimp Creamy Tom Yum,2,34,5
+1696,Mama,Cup Yentafo Tom Yum Mohfai,2,34,5
+1697,The Kitchen Food,Instant Kampua Dark Soy Sauce,3,29,5
+1698,Maruchan,Instant Lunch Chicken Tortilla Flavor Ramen Noodles With Vegetables,2,36,4
+1699,Vit's,Mi goreng Pedas Chewy & springy,3,20,3.5
+1700,A-Sha Dry Noodle,Hakka Flat Noodle With Za Jiang Sauce,3,33,4
+1701,Sakurai Foods,Organic Shoyu Ramen,3,19,4.25
+1702,Samyang Foods,Seafood Noodle,2,19,2.75
+1703,7 Select/Nissin,Super Tom Yum Shrimp,2,34,3.5
+1704,Baixiang Noodles,Sour & Spicy Flavour,3,6,3.75
+1705,Premiere,Gold Bihun Kari Heritage Instant Rice Vermicelli,3,20,4.5
+1706,Maggi,Hot Cup Goreng Perencah Cili Fiesta,2,20,4.75
+1707,Azami,Hot & Spicy Flavour Noodle Soup,1,5,3.5
+1708,The Kitchen Food,Sibu Instant Kampua Original,3,29,4
+1709,Asia Gold,Instant Noodles With Shrimp Flavouring,3,16,4
+1710,Chering Chang,Instant Non-Fried Noodles Vegetable Curry Flavor,3,33,5
+1711,Hao Way,Vegetarian Penang Laksa,3,20,4
+1712,Sakurai Foods,Organic Miso Ramen,3,19,4.5
+1713,CarJEN,Otentiq Cheezy Mushroom Instant Noodles,3,20,5
+1714,Master Kong,Sichuan Hot Spicy Fish,3,6,3.75
+1715,Yum Yum,Instant Noodles Minced Pork Flavor,3,34,3.75
+1716,Mama,Instant Noodles Egg Protein Noodles,3,22,3.5
+1717,Lee Fah Mee,29 White Laksa Instant Noodle,3,29,4
+1718,Vina Acecook,Hao Hao Sate Onion Flavour,2,37,2.5
+1719,Wai Wai,Grilled Pork Flavour Instant Noodles,1,34,2.5
+1720,Mamee,Chef Lontong Flavour,2,20,5
+1721,Salam Mie,Mi Goreng Dengan Abon,3,18,4.25
+1722,CarJEN,Otentiq Cheezy Curry Instant Noodles,3,20,4.5
+1723,Baixiang Noodles,Artificial Beef Instant Noodles With Soup Base,3,6,3.75
+1724,Pirkka,Nuudeli Liha Nudlar Kott,3,11,3.5
+1725,A-Sha Dry Noodle,Veggie Noodle Black Sesame Noodle,3,33,3.25
+1726,Vina Acecook,Oh! Ricey Pho Ga,1,37,3
+1727,Wei Lih,Jah Jan Men,1,33,5
+1728,Yamadai,Tenobe Somen,1,19,3.25
+1729,Vedan,Zan Vegetarian Instant Noodle Series Shiitake Mushroom Flavour,2,33,2.75
+1730,Wu-Mu,BBQ Pork Flavor Chow Mein,3,33,4.5
+1731,Mama,Instant Noodles Creamy Shrimp Tom Yum Flavour,3,4,5
+1732,Super,Seafood Flavour Noodles,2,20,3.25
+1733,Bonasia,Instant Noodles Beef Flavour,3,12,3.75
+1734,Koka,Laksa Singapura,3,30,4.25
+1735,Master Kong,Tomato Sauce Instant Noodle,1,6,4
+1736,Mamee,Monster Snek Mi Pedas,3,20,5
+1737,Mi Sedaap,Instant Cup Mi Goreng,2,18,3.75
+1738,Little Cook,Instant Noodles Shrimp Tom Yum Flavour,2,34,4.25
+1739,Nissin,Raoh Tanrei Koku Shio Ramen,1,19,4.5
+1740,Master Kong,Braised Beef Noodle,3,6,4.25
+1741,Myojo,Udon 19ese Style Pre-Cooked Noodles With Soup Chicken Flavor,1,36,2.5
+1742,Aroi,Curry Me! Penang White Curry Stir-fry Noodle,3,20,4.5
+1743,Mama,Rangers Snack Noodles Shrimp Tom Yum Flavour,3,22,4.5
+1744,A-Sha Dry Noodle,Veggie Noodle Baby Grass Noodle With Toona Sauce,3,33,5
+1745,Unox,Good Noodles Kerrie,3,24,3.5
+1746,Marutai,Ramen Shoyu Taste,1,19,4.25
+1747,Vit's,Curry Instant Noodles,3,20,3.5
+1748,Azami,Chili Chicken Flavour Noodle Soup,2,5,3
+1749,Yum Yum,Jumbo Instant Noodles Tom Yum Kung Creamy Flavour,3,34,5
+1750,Mi Sedaap,Instant Cup Mi Kuah Rasa Soto,2,18,5
+1751,Mom's Dry Noodle,Spicy & Sour Flavor,3,33,5
+1752,Kuriki,Mayo Ramen,3,19,4.75
+1753,Thai Smile,Garlic Rice Noodle Soup Bowl,1,36,3.5
+1754,Paldo,King Bowl Super Spicy Pan Stirfried Noodle,1,31,5
+1755,Mama,Oriental Style Instant Noodles Hot & Spicy Flavour,3,2,4
+1756,A-Sha Dry Noodle,Veggie Noodle Carrot Noodle With Original Sauce,3,33,4.25
+1757,iMee,Instant Noodles Beef Flavour,3,24,3.25
+1758,Vit's,Duck Instant Noodles,3,20,3.5
+1759,Nissin,Cup Noodles Moo Manao Flavour,2,34,4
+1760,New Touch,Homestyle Tonjiru,1,19,4.5
+1761,Authentically Asian,Natural Quality Foods Pad Thai Noodle Bowl,1,36,1
+1762,Mom's Dry Noodle,Sesame & Pepper,3,33,4
+1763,Ishimaru,Tuna Flavor Ramen,3,19,4.5
+1764,Pirkka,Nuudeli Tom Yum Katkarapu,3,11,3.75
+1765,Nissin,Cup Noodles Ramen Noodles With Shrimp (New Package) ,2,36,3.5
+1766,Paldo,Bulnak Boeummyun King Noodle,1,31,3.5
+1767,Mama,Instant Noodles Shrimp Tom Yum Flavour,3,4,4
+1768,New Touch,Negi Miso No Ippin Ramen,1,19,5
+1769,Mamee,Chef Lontong Flavour,3,20,5
+1770,JML,Spicy King Bowl Noodle Spicy Pork,1,6,4.5
+1771,JML,Supreme Bowl Noodles With Stewed Egg Braised Beef Flavour,1,6,3.5
+1772,JML,Spicy King Spicy Beef,3,6,5
+1773,JML,Supreme Bowl Noodles With Stewed Egg Sour Beans With Pork Flavour,1,6,4
+1774,JML,Spicy King Spicy Pork,3,6,5
+1775,JML,Spicy King Bowl Noodle Spicy Beef,1,6,4.25
+1776,JML,Spicy King Bowl Noodle Spicy Chicken,1,6,5
+1777,JML,Supereme Bowl Noodles With Stewed Egg Spicy Flavour,1,6,3.5
+1778,JML,Spicy King Spicy Chicken,3,6,5
+1779,Chering Chang,Instant Non-Fried Noodles Tomato Flavour,3,33,3.25
+1780,Pulmuone,Non-Fried Noodle Blackbean Sauce Noodle With Squid,3,31,4.5
+1781,MyKuali,Penang Hokkien Prawn Soup Rice Vermicelli (Bihun),1,20,5
+1782,Western Family,Beef Flavour Instant Noodles,3,5,0
+1783,iMee,Instant Noodles Creamy Tom Yum Shrimp Flavour,3,24,4.5
+1784,Torishi,Hakata Tonkotsu Ramen,3,19,5
+1785,Super,Instant Noodles Black Pepper Crab Mi Goreng,2,20,3.5
+1786,Nissin,Chow Mein Premium Savory Sauce And Restaurant Quality Noodles Sriracha Flavor,4,36,4.25
+1787,Pama,Kua Teaw Segera,3,20,4
+1788,Super,Curry Flavour Noodles,2,20,3
+1789,Cintan,Mi Segera Mmm... Perisa Ayam Cendawan,3,20,3.5
+1790,Super,Kimchi,2,20,4.5
+1791,Vit's,Tom Yam Instant Noodles,3,20,4.25
+1792,A1,Soup Spices Noodle Mee Rempahan Sup,3,20,3.5
+1793,Cintan,Mi Segera Mmm... Perisa Asam Laksa,3,20,3.5
+1794,Vit's,Shallot Chicken Instant Noodles,3,20,3
+1795,Azami,Kimchee Flavour Noodle Soup,3,5,0
+1796,Fujiwara,Salty Taste Chanko Noodle,3,19,4.75
+1797,Wai Wai,Instant Rice Vermicelli Crab Flavour,3,34,3.5
+1798,iMee,Instant Noodles Vegetable Flavour,3,24,2.75
+1799,Thai Smile,Spring Onion Rice Noodle Soup Bowl,1,36,2.5
+1800,Crystal Noodle,Soup All Natural Hot & Sour,2,36,0.25
+1801,Baijia,Spicy Artificial Fei Chang Instant Vermicelli (New Recipe),3,6,3.75
+1802,Nissin,Cup Noodles Ramen Noodles Ramen Noodle Soup Beef Flavor (New Package) ,2,36,3.5
+1803,Mama,Vegetarian Instant Noodles Tom Yum Flavour,3,34,4
+1804,Thai Chef,Oriental Style Instant Noodles Shrimp Creamy Tom Yum Flavour,3,16,4.75
+1805,Mama,Oriental Style Instant Noodles Tandoori Flavour,3,2,4
+1806,Cintan,Mi Segera Mmm... Perisa Goreng Ala 18,3,20,3.5
+1807,Wai Wai,Tom Yum Goong Flavour Instant Noodle,2,34,3.5
+1808,Mama,Vegetarian Instant Cup Noodle Tofu & Shiitake Flavour,2,34,3.5
+1809,Marutai,Nagahama Hakata Tonkotsu Ramen,1,19,4.75
+1810,MyKuali,Penang White Curry Noodle (New Version),3,20,5
+1811,Conimex,Oriental Noodles Oosterse Groenten,3,24,3.5
+1812,Master Kong,Mushroom Instant Noodle,1,6,4.25
+1813,Nissin,Soba Fried Noodles Curry,3,12,4.25
+1814,Koh Thai,Island Of Flavours Tom Yum Instant Noodles Soup,3,24,3
+1815,Nakaya Shouten,Hingya no Shio Ramen,3,19,4
+1816,Vifon,Asian Style Instant Noodles Artificial Beef Flavor,1,37,3.25
+1817,Hao Way,Penang Vegetarian Prawn Instant Bowl Noodles,1,20,4
+1818,Sugakiya Foods,Nara Tenri Shoyu Ramen,1,19,4.5
+1819,Yum Yum,Premier Bowl Instant Noodles S35i Flavour,1,34,5
+1820,Ten-In,Veggie King Buddha Jump Instant Noodles,1,33,1.5
+1821,Myojo,Udon 19ese Style Pre-Cooked Noodles With Soup Beef Flavor,1,36,3.25
+1822,Mi Sedaap,Mi Kuah Rasa Baso Spesial,3,18,3.5
+1823,MyKuali,MeeKuali spicy Fried Noodle,3,20,4
+1824,Nongshim,Soon Veggie Noodle Soup,2,36,5
+1825,Sichuan Baijia,Broad Noodle Chilli Oil Flavor,3,6,4.5
+1826,Mama,Instant Noodles Stewed Beef Flavour,3,4,3.5
+1827,Nongshim,Zha Wang ((Jjawang) Noodles With Chajang Sauce,3,31,5
+1828,Tseng Noodles,Scallion With Sichuan Pepper  Flavor,3,33,5
+1829,Tseng Noodles,Hu Sesame Flavor,3,33,5
+1830,Tseng Noodles,Sichuan Pepper Flavor,3,33,4.75
+1831,Kuriki,Plum Mayo Ramen,3,19,4
+1832,Yum Yum,Instant Flat Shaped Noodles Boat Noodles Nam Tok Flavour,3,34,3.5
+1833,Vit's,Instant Noodles With Chicken Flavour,3,20,3.75
+1834,Vit's,Taste Of 20 Penang Hokkien Mee Fried Instant Noodle,3,20,5
+1835,Vit's,Taste Of 20 Penang Asam Laksa Ramen,3,20,5
+1836,Vit's,Taste Of 20 Penang White Curry Fried Instant Noodle,3,20,5
+1837,Vit's,Taste Of 20 Penang Hokkien Mee Ramen,3,20,5
+1838,Vit's,Taste Of 20 Penang Asam Laksa Fried Instant Noodle,3,20,4.5
+1839,Vit's,Taste Of 20 Penang White Curry Ramen,3,20,5
+1840,Forest Noodles,Sweet Potato Noodles With Sesame Paste Sauce,3,33,3.25
+1841,Forest Noodles,Sunbaked Noodles With Spicy Sauce,3,33,4
+1842,Forest Noodles,Purple Sweet Potato Noodles With 33ese Sauce,3,33,5
+1843,Forest Noodles,Sunbaked Noodles With Sesame Sauce,3,33,4.5
+1844,Seven & I,Gold Sumire Ramen,1,19,5
+1845,Mama,Oriental Style Instant Noodles Shrimp Flavour,3,2,3.25
+1846,Nissin,Chow Mein Savory Sauce And Restayrant Quality Noodles Roast Chicken Flavor ,4,36,4.5
+1847,Conimex,Oriental Noodles Hot & Spicy,3,24,3
+1848,MyKuali,Penang Red tom Yum Goong Noodle (New Version),3,20,5
+1849,Pama,Instant Rice Vermicelli Clear Soup Flavour,3,20,3.5
+1850,Nissin,Raoh Ramen Noodle Soup Umami Miso Flavor,3,36,4.5
+1851,Fujiwara,Snow Crab Flavour Shio Ramen,3,19,3.5
+1852,Myojo,Udon 19ese Style Precooked Noodles With Soup Hot & Spicy Flavor,1,36,3.25
+1853,Bonasia,Instant Noodles Shrimp Flavour,3,16,3.5
+1854,Mama,Chinese Kitchen Chinese Style Instant Noodles,3,22,3.5
+1855,Daraz,Negi Man Ramen,3,19,3
+1856,Indomie,Instant Cup Noodles Mi Goreng Fried Noodles,2,18,5
+1857,IbuRamen,Mi Goreng Bento Noodles In A Box Shallot Teriyaki Flavor,4,36,3.25
+1858,Myojo,Wantan Men,1,19,5
+1859,Mama,Instant Noodles chicken Green Curry Flavour,3,4,5
+1860,Nissin,Cupo Noodle Pasta Style Vongole,2,19,2.75
+1861,Conimex,Oriental Noodles Groene Curry,2,24,0.5
+1862,Ibumie,Always Mi Goreng Perisa Asli,3,20,3.75
+1863,Baijia,Broad Noodle Pickled Vegetable Artificial Beef Flavor,3,6,0
+1864,Nissin,Raoh Ramen Noodle Soup Umami Tonkotsu Flavor,3,36,5
+1865,Mama,Shrimp Tom Yum Flavour Cup Noodles,2,22,3.5
+1866,MyKuali,Penang Spicy Prawn Soup Noodle,3,20,5
+1867,Yum Yum,Premier Bowl Instant Noodles Stewed Pork Flavour,1,34,4
+1868,Marutai,Kuroma-yu Tonkotsu Kumamoto Ramen,1,19,4
+1869,Nissin,Soba Fried Noodles Chili,3,12,3.5
+1870,Asia Gold,Instant Noodles With Beef Flavouring,3,16,2.75
+1871,Nissin,Cup Noodles Minced Pork Flavour,2,34,3.75
+1872,Its35i,Hakata Ossyoi,3,19,5
+1873,Vedan,Wei Wei A Instant Noodles Chicken Flavor,1,33,0
+1874,Ibumie,Always Mi Goreng Perisa Thai Tom Yam,3,20,2.5
+1875,Sapporo Ichiban,Tonkotsu Ramen Artificially Flavored Tonkotsu White Chicken Broth,3,36,5
+1876,Myojo,Chicken Flavour,3,30,3.75
+1877,Myojo,La Ramen Spicy Mushroom Flavour,3,30,4.5
+1878,Myojo,Extra Spicy 30 Curry Big Bowl,1,30,5
+1879,Myojo,Chicken Tanmen Flavour,3,30,3.5
+1880,Myojo,Thai Tom Yam Flavour,1,30,3.75
+1881,Myojo,Chicken Abalone Flavour,3,30,3.5
+1882,Myojo,La Ramen Spicy Lobster Hot Pot Flavour Big Bowl,1,30,4.75
+1883,Myojo,Mee Goreng,3,30,4
+1884,Myojo,La Ramen Spicy Mushroom Flavour Big Bowl,1,30,4.5
+1885,Myojo,Ramen Char Mee 100,3,30,3
+1886,Myojo,Chicken Abalone Flavour,1,30,3.75
+1887,Myojo,Mee Poh Dry,3,30,4.25
+1888,Nissin,Cup Noodles Kyushu White Flavour,2,30,3.5
+1889,MAMA,Rangers Snack Noodles Sour Cream Flavour,3,22,2.75
+1890,Kuriki,Beef Tongue Shio Mayo Ramen,3,19,4.5
+1891,Nissin,Cup Noodles Homestyle Chicken,2,36,3.5
+1892,Ottogi,Cheese Ramen,3,31,4
+1893,Nissin,Cup Noodle Sio,2,19,5
+1894,MAMA,Rangers Snack Noodles BBQ Flavour,3,22,2.75
+1895,Maruchan,Seimen Houjyun Koku Shoyu,1,19,5
+1896,Asia Gold,Instant Noodles Duck Flavour,3,16,3.5
+1897,Nissin,Cup Noodle Massaman Curry,2,19,3.5
+1898,Master Kong,Spicy Fish Noodle,1,6,3
+1899,Koh Thai,Island Of Flavours Thai Royal Shrimp Instant Noodles,3,24,1.5
+1900,Ibumie,Always Mi Goreng Perisa Kari Kapitan,3,20,5
+1901,Prima,Juzz's Mee Original Spicy Flavour,3,30,5
+1902,MAMA,Seafood Tom Yum Sichek Flavour,3,22,5
+1903,Higashimaru,Tonkotsu Ramen,3,19,4.5
+1904,Bonasia,Instant Noodles Duck Flavour,3,16,3
+1905,Pirkka,Nuudeli Kana Nudlar Kyckling,3,11,3.5
+1906,Vifon,Chicken Flavour Asian Style Instant Noodles,3,37,3.5
+1907,Prima Taste,30 Curry Wholegrain La Mian,3,30,5
+1908,Nissin,Kuroma-yu Tonkotsu Kumamoto Ramen,1,19,4.75
+1909,Asia Gold,Instant Noodles With Chicken Flavouring,3,16,3.5
+1910,Nissin,Chow Mein Pad Thai,4,36,3
+1911,Nissin,Emergency Chikin Ramen Cup Noodle,2,19,5
+1912,MAMA,Instant Noodles Chicken Sichek Flavour,3,22,3.75
+1913,Thai Smile,Mushroom Rice Noodle Soup Bowl,1,36,0
+1914,Prima,Juzz's Mee Curry Flavour,3,30,5
+1915,Its35i,Yuzu Sesame Sauce Udon,1,19,4.5
+1916,Nissin,Soba Fried Noodles Teriyaki,3,12,3
+1917,IbuRamen,Mi Goreng Bento Noodles In A Box Hot Sweet & Sour Flavor,4,36,0.25
+1918,iMee,Instant Noodles chicken Flavour,3,24,3.5
+1919,Maruchan,Shiroi Chikara Mochi Udon,1,19,4.5
+1920,Its35i,Ramen Tonkotudou Kumamoto Noodles,3,19,0.75
+1921,Nissin,Cup Noodles Ramen Noodle Soup Chicken Flavor [New Package],2,36,3.5
+1922,Mie Sedaap,Instant Cup Mi Kuah Rasa Baso Spesial,2,18,1.5
+1923,Conimex,Oriental Noodles Teriyaki,2,24,0.5
+1924,Sichuan Baijia,Broad Noodle Artificial Beef Flavor,3,6,3.5
+1925,Prima,Juzz's Mee Creamy Chicken Flavour,3,30,5
+1926,Nissin,Bowl Noodles Hot & Spicy Chicken Flavor Less Sodium Ramen Noodle Soup,1,36,4
+1927,Marutai,Kogashi Megiiri Tonkotsu Kagoshima Ramen,1,19,3.5
+1928,Bamee,Instant Noodles Oriental Style Chicken Flavour,3,34,3
+1929,MAMA,Instant Noodles Minced Pork Flavour,3,4,3.5
+1930,Koh Thai,Island Of Flavours Lemongrass Instant Noodles Soup,3,24,0.25
+1931,Bonasia,Instant Noodles chicken Flavour,3,16,3.75
+1932,Love Cook,Guanmiao Dried Noodles With Shallot Flavor,3,33,3.75
+1933,Love Cook,Guanmiao Dried Noodles With Authentic Sauce,3,33,4.5
+1934,Love Cook,Guanmiao Dried Noodles With Spicy Sauce,3,33,5
+1935,Love Cook,Guanmiao Dried Noodles With Oleum Sesami,3,33,3.75
+1936,Fortune,Rice Noodle Coconut Curry,3,36,1
+1937,MAMA,Chicken Soup Flavour Cup Noodles,2,22,3.75
+1938,Nissin,Donbei Kamodashi Soba,1,19,5
+1939,MAMA,Instant Noodles Shrimp Creamy Tom Yum Flavour,3,22,5
+1940,Nissin,Cup Noodle Pasta Style Bolognese,2,19,5
+1941,Unox,Good Noodles Tandoori,3,24,2.5
+1942,Ibumie,Always Mi Goreng Perisa Sambal Udang,3,20,3.5
+1943,New Touch,Sugomen Niigata Seabura Shoyu Ramen,1,19,5
+1944,Wei Lih,GGE Noodle Snack Wheat Crackers Hot Spicy,3,33,5
+1945,MAMA,Oriental Style Instant Noodles Masala Flavour,3,2,3.5
+1946,Nissin,Raoh Shio Ramen,3,19,4.75
+1947,Prima Taste,30 Laksa Wholegrain La Mian,3,30,5
+1948,Sichuan Baijia,Artificial Pickled Cabbage Fish Flavor Instant Vermicelli,3,6,1.5
+1949,Bamee,Oriental Style Instant Noodles Shrimp Flavour (Tom Yum),3,34,3.5
+1950,Fujiwara,Red King Crab Flavour Ramen,3,19,4
+1951,Nissin,Cup Noodles Ramen Noodle Soup Hearty Chicken Flavor [New Package],2,36,4.25
+1952,Ve Wong,Kung-Fu Brand Instant Oriental Noodle Soup Artificial Beef Flavor,3,33,3.75
+1953,Prima Taste,30 Fish Soup La Mian,3,30,5
+1954,Koh Thai,Island Of Flavours Spicy Thai Chicken Instant Noodles Soup,3,24,2
+1955,Nissin,Raoh Ramen Noodle Soup Umami Soy Sauce Flavor,3,36,4.75
+1956,Maruchan,Spicy Tomato Salsa Ramen,2,19,0
+1957,MAMA,Cup Vegetarian Instant Noodles Tom Yum Flavour,2,34,4
+1958,IbuRamen,Mi Goreng Bento Noodles In A Box Curry Masala Flavour,4,36,4
+1959,Myojo,Charumera Shoyu Ramen,3,19,4
+1960,Kabuto Noodles,Chilli Chicken Ramen,2,35,4
+1961,Kabuto Noodles,Chicken Ramen,2,35,4.25
+1962,Kabuto Noodles,Rice Noodles Chicken Pho,2,35,3.5
+1963,Kabuto Noodles,Rice Noodles Vegetable Laksa,2,35,3.75
+1964,MAMA,Instant Noodles Coconut Milk Flavour,3,22,5
+1965,MyKuali,Penang Spicy Prawn Soup Noodle Authentic Taste,3,20,5
+1966,Wei Lih,GGE Noodle Snack Wheat Crackers Soy Sauce Ramen,3,33,3.75
+1967,Tokushima Seifun,Kinchan Ramen,3,19,4.5
+1968,Nissin,Top Ramen Chicken Flavor Ramen Noodle Soup (New Packaging),3,36,3.5
+1969,Nongshim,Noodle Soup Seasoned With Real Kimchi,3,36,4.75
+1970,MyOri,20 Penang Red Curry Noodle,3,20,5
+1971,Fujiwara,Horse Crab Flavour Ramen,3,19,3.5
+1972,Doll,Spicy Flavour Instant Mifun,3,15,2.75
+1973,Nissin,Cup Noodles Sabor Calabresa,3,3,4.25
+1974,Samyang Foods,Cheese Curry Ramyun,3,31,5
+1975,Nissin,Soba Fried Noodles Classic,3,12,3.25
+1976,Its35i,Kumamoto Spicy Ramen,3,19,4.25
+1977,MyOri,20 Penang Green Curry Vermicelli (New Package),3,20,5
+1978,CarJEN,Nyonya Curry Laksa (Improved Taste),3,20,5
+1979,Nissin,BIG Cup Noodle Ajillo,2,19,3
+1980,Suimin,Noodles Witrh Prawn & Chicken Flavour,2,1,3.5
+1981,MyKuali,Penang Red tom Yum Goong Noodle Authentic Taste,3,20,5
+1982,Master Kong,Assorted Pork Bone Noodle,3,6,4
+1983,Tokushima Seifun,Tokushima Ramen,3,19,4
+1984,Nissin,Chinese Tan Tan Vermicelli,2,15,5
+1985,Prima Taste,30 Prawn Soup La Mian,3,30,5
+1986,A-Sha Dry Noodle,Quinoa Noodle With Oyster Sauce And Vegetables,3,33,4.25
+1987,Nissin,Yokohama Walker Iekei Ramen,1,19,4.5
+1988,MAMA,Instant Noodles Chicken Soup Flavour,3,22,3.5
+1989,MyKuali,Penang White curry Noodle Authentic Taste,3,20,5
+1990,Nissin,Cup Noodle,2,19,5
+1991,Nissin,Cup Noodle Milk Chikin Ramen,2,19,5
+1992,Nissin,Cup Noodle Light Plus Ratatouille,2,19,4.5
+1993,Nissin,Raoh Tonkotsu,3,19,5
+1994,Nissin,Gyoretsu-no-Dekiru-Mise-no-Ramen (Shrimp Tantanmen),1,19,5
+1995,Nissin,Cup Noodle Big Cheese Mexican Chilli,2,19,5
+1996,Nissin,Cup Noodle Pasta Style Tarako Spaghetti,2,19,4
+1997,Nissin,Cup Noodle Vegeta Buta-kyabetsu Tonkotsu,2,19,4.3
+1998,Nissin,Men Shokunin Shoyu,1,19,5
+1999,Nissin,Curry Udon,2,19,5
+2000,Nissin,Chikin Ramen Donburi,1,19,5
+2001,Nissin,Cup Noodle Big Seafood Clam Chowder,2,19,4
+2002,Nissin,Cup Noodles Tom Yum Goong,2,19,3.8
+2003,Nissin,Raoh Rich Miso Flavor,1,19,5
+2004,Nissin,Donbei Dashi Shoyu Yakiudon,1,19,3.75
+2005,A-Sha Dry Noodle,Hakka Spicy Barbeque Sauce,3,33,4.5
+2006,Kamfen,Wonton Noodles Beef Flavour,1,15,3.75
+2007,Nongshim,Rice Fettucini Alfredo,3,36,3.75
+2008,Sichuan Baijia,Hot spicy Flavor Instant Vermicelli,1,6,3.5
+2009,Conimex,Oriental Noodles Soto Ajam,2,24,3
+2010,MAMA,Rangers Snack Noodles Popcorn Flavour,3,22,3.75
+2011,Trident,2 Minute Laksa Flavour Noodles,3,1,2
+2012,MAMA,Vegetarian Instant Noodles Shiitake Flavour,3,34,2
+2013,Great Value,Beef Style Ramen Noodles,3,5,3.5
+2014,Oni Hot Pot,Ghost Pepper Noodle,3,33,4.5
+2015,E-Zee,Perisa Kari Mi Segera (Improved Taste),3,20,5
+2016,Great Value,Chicken Style Noodles With Vegetables,2,5,3.5
+2017,Samyang Foods,Honey & Cheese Big Bowl,1,31,0
+2018,Pulmuone,Noodle With Spicy Oyster Soup,3,31,4
+2019,Acecook,Seabura Tonkotsu Ramen,2,19,3.75
+2020,Kang Shi Fu,Artificial Roasted Beef,3,6,3.5
+2021,Urban Noodle,Authentic Street Food Satay,2,35,5
+2022,Urban Noodle,Authentic Street Food Thai Red Curry,2,35,3
+2023,Urban Noodle,Authentic Street Food Black Bean,2,35,0
+2024,Urban Noodle,Authentic Street Food Pad Thai,2,35,2.5
+2025,Urban Noodle,Authentic Street Food Chow Mein,2,35,2
+2026,MyKuali,Penang White Curry Authentic Taste Cup,2,20,4.75
+2027,Nissin,Shinshu Miso Ramen,1,19,5
+2028,Maruchan,"Sopa Maruchan Sabor a Camaron, Limon y Habanero",3,21,3.5
+2029,Singa-Me,Instant Noodles Beef Flavour,2,1,2
+2030,Myojo,Charumera Atyificial Tonkotsu Shouyu Flavor,3,19,3.75
+2031,CarJEN,Otentiq Cheezy Curry Instant Noodles (Improved Taste),3,20,5
+2032,Kamfen,Noodle King Artificial Beef Soup Flavored,1,15,3.75
+2033,Chaudhary's Wai Wai,Instant Noodles Artificial Chicken & Shrimp Flavored,3,17,2.5
+2034,Fantastic,Noodles Oriental Flavour,2,1,3.25
+2035,Acecook,Maru Uma Curry Udon,2,19,3.5
+2036,A-Sha Dry Noodle,Hakka BBQ Sauce Noodle,3,33,4.25
+2037,Migawon,Hovenia Ramen Vegetable Flavor,3,31,3.5
+2038,A1,Vegetarian Herbal Noodle,3,20,1.5
+2039,Tokushima Seifun,Yakibuta Ramen,1,19,5
+2040,Nissin,Cup Noodles Sabor Franhp Com Requeijao,2,3,5
+2041,Master Kong,Tomato Sauce Instant Noodle,3,6,4.5
+2042,Suimin,Noodles Mi Goreng,2,1,4.3
+2043,ORee Garden,20 Green Curry Noodle,1,20,5
+2044,Doll,Hello Kitty Dim Sum Noodle 19ese Soy Sauce Flavour,2,15,3
+2045,Great Value,Chicken Style Ramen Noodles,3,5,3.5
+2046,E-Zee,Perisa Asam Pedas Mi Segera,3,20,4
+2047,Oni Hot Pot,XO Sauce Noodle,3,33,5
+2048,Acecook,Kadomen Koikoku Tonkotsu,1,19,3.8
+2049,Ottogi,Ramyon Sabor A Res,3,21,4
+2050,MyKuali,Penang Red Tom Yum Goong Noodle Authentic Taste,2,20,5
+2051,Master Kong,Artificial Pork Ribs Flavour Instant Noodle,3,6,3.5
+2052,Indomie,Pop Mie Mi Instan Cup Rasa Ayam,2,18,3.5
+2053,Maruchan,Instant Lunch Sriracha Chicken Flavor Ramen Noodle Soup,2,36,3.75
+2054,Suimin,Noodles Curried Prawn Flavour,2,1,3.25
+2055,Nissin,Tokyo Tokunou Gyokai Tonkotsu,1,19,5
+2056,Koyo,Garlic Pepper Reduced Sodium Ramen,3,36,0
+2057,Nissin,RapiFideo Sabor A Chile Y Limon,2,21,3.75
+2058,Zow Zow,Instant Noodle Shrimp Tom Yam Flavoured,3,34,3.75
+2059,Four Seas,Beef And Radish Flavour Instant Noodle,3,15,2.5
+2060,Nissin,Cup Noodle Light+ Cheese Fondue,2,19,5
+2061,Kamfen,Dried Mix Noodles Scallop Seafood Flavoured,4,15,4.25
+2062,Ottogi,Ramyon Sabor Mariscos,3,21,3.75
+2063,Mamee,Pepper Noodles Vegetarian,3,15,3.25
+2064,Nongshim,Arrabiata Rice Bucatini,3,36,5
+2065,Four Seas,Kung Tak Lam Vegetarian Noodle (Mushroom),3,15,3
+2066,Marutai,Hakata Tonkotsu Ramen,3,19,5
+2067,Samyang Foods,Fresh Jjajang,3,31,4.5
+2068,Maggi,Fusian Special Edition Ow... Ow... Spicy Cow Mi Goreng,3,1,5
+2069,Doll,Instant Noodle Vegetarian Flavour,3,15,3.75
+2070,Tokushima Seifun,Negi Ramen,1,19,1.75
+2071,A-Sha Dry Noodle,Tainan Noodle Original Sauce,3,33,5
+2072,Maruchan,Bowl Taste Of Asia Beef Flavor S35iyaki Ramen,1,36,5
+2073,Great Value,Spicy Ramen Noodles,3,5,4
+2074,Nissin,Cup Noodles Sabor Pollo Habanero Y Limon Sopa Instantanea,2,21,3.5
+2075,Mi Sedaap,Mi Segera Mi Goreng Ayam Krispi,3,18,4.5
+2076,Nissin,Demae Iccho Black Garlic Oil Tonkotsu,1,15,3.75
+2077,Nissin,Cup Noodles Big Spicy Seafood Flavour,2,15,5
+2078,Nissin,Demae Iccho Curry Beef Flavour,2,15,4
+2079,Nissin,Nupasta Carbonara Flavour Instant Noodle,2,15,5
+2080,F35u,Non-Fried Superior Soup Noodle,3,15,4
+2081,Nissin,Cup Mifun Spicy Beef Flavour,2,15,4
+2082,Nissin,Cup Noodles Pork Chowder Flavour,2,15,4
+2083,Nissin,Taisho Fried Noodle Sesame Paste Flavour Instant Noodle,3,15,5
+2084,Nissin,Demae Ramen Straight Noodle Kyushu Tonkotsu Instant Noodle,3,15,5
+2085,F35u,Superior Soup Instant Rice Vermicelli,1,15,5
+2086,Nissin,Demae Ramen Sesame Flavour Instant Noodles,3,15,5
+2087,Nissin,Mie Goreng 18 Stir Noodle Original Flavour,3,15,4
+2088,Nissin,Demae Iccho Beef Flavour Instant Noodle,1,15,4
+2089,Nissin,Big Cup Noodles Seafood Curry Flavour,2,15,5
+2090,Nissin,Nupasta Salmon In White Sauce Flavour Instant Noodle,3,15,5
+2091,MyKuali,Penang Hokkien Prawn Noodle Authentic Taste,2,20,5
+2092,Doll,Instant Noodle Preserved Vegetable Flavour,3,15,4
+2093,Oni Hot Pot,Seaweed Flavour Noodle,3,33,2
+2094,Nongshim,Champong Noodle Soup Spicy Seafood Flavor,3,31,5
+2095,Nissin,Straits Kitchen Laksa,3,30,5
+2096,Maruchan,Seimen No35ou Toro Tonkotsu,1,19,4
+2097,CarJEN,Otentiq Cheezy Mushroom Instant Noodles (Improved Taste),3,20,5
+2098,Nongshim,Kimchi Flavor Noodle Soup,2,36,5
+2099,Sanpo,Yakibuta Ramen,1,19,4
+2100,Myojo,Mee Goreng Original Flavour,3,30,4
+2101,Samyang Foods,Pojangmacha Udon,3,31,4
+2102,Nissin,Cup Noodles 30 Laksa,2,19,5
+2103,Roland,Ramen 19ese Style Quick-Cooking Alimentary Paste With Beef Artificially Flavored Soup Base,3,36,0
+2104,Wang,Rice Noodle Kimchi Flavor,1,31,4
+2105,Maruchan,Ramen Noodle Soup Chicken Tortilla Flavor,3,36,3
+2106,Itomen,Onion Flavor Shoyu Ramen,3,19,3.5
+2107,Nissin,Lamen Sabor Frango Assado Com Toque De Limao,3,3,4.5
+2108,Weh Lih,GGE Noodle Snack Wheat Crackers Original Ramen,3,33,1
+2109,Oni Hot Pot,Tuna With Shallot Flavor Noodle,3,33,4.3
+2110,Great Value,Vegetarian Flavour Ramen Noodles,3,5,3
+2111,Nissin,Cup Noodles Chilli Crab Flavour,2,15,3.75
+2112,Nissin,Chilli Noodles Spicy Tom Yum Flavour,3,34,4
+2113,Nissin,Cup Noodles Seafood Creamy Flavour,2,34,4
+2114,Nissin,Instant Noodles Minced Pork Flavour,3,34,3.5
+2115,Nissin,Cup Noodles Moo Manao Flavour,2,34,4
+2116,Nissin,Instant Noodles Tom Yum Shrimp Saab Flavour,3,34,4
+2117,7 Select,Nissin Instant Noodles Shrimp Ma Nao Lui Suan Flavour King Cup,1,34,4
+2118,Nissin,Chilli Noodles Tom Yum Shrimp Creamy Soup Flavour,2,34,3.25
+2119,Nissin,Cup Noodles Minced Pork Flavour,2,34,3.5
+2120,Nissin,Super Tom Yum Shrimp,2,34,3.5
+2121,Nissin,Instant Noodles Moo Manao Flavour,3,34,4
+2122,Nissin,Chilli Noodles Stir Fried Holy Basil Flavour,3,34,5
+2123,Nissin,Cup Noodles Tom Yum Shrimp Sabb Flavour,2,34,5
+2124,7 Select,Nissin Instant Noodles Tom Yum Seafood Creamy Flavour King Cup,1,34,3.5
+2125,Happy Family,Curry Flavour Instant Noodles,3,30,4
+2126,Nissin,Mennippon Oumi Chanpon,1,19,5
+2127,Suimin,Noodles With Chicken & Sweet Corn Flavour,2,1,2.25
+2128,Sapporo Ichiban,Taimeiken Yousyoku Yasangats35utta Omumen,2,19,4
+2129,CarJEN,Hot & Spicy Dry Curry With Chives Soup,3,20,5
+2130,Kang Shi Fu,Artificial Salted Beef With Mushrooms Flavour,3,15,4
+2131,Myojo,Mee Goreng Thai Tom Yum Flavour,3,30,4
+2132,Maruchan,Instant Lunch Chipotle Chicken Flavor Ramen Noodle Soup,2,36,5
+2133,Nissin,Kimchi Chikin Ramen Donburi,1,19,5
+2134,Four Seas,Chicken Flavour Instant Noodle,3,15,4
+2135,Doll,Instant Noodle Supreme Abalone And Chicken Flavour,3,15,2
+2136,Nissin,Demae Ramen Roast Beef Flavour Instant Noodles,3,15,4
+2137,Nissin,Demae Ramen Spicy Curry Flavour Instant Noodles,3,15,4
+2138,F35u,Superior Soup Instant Noodles (Mfg in 37),3,15,4
+2139,F35u,Superior Soup Instant Noodles (Mfg in 34),3,15,4
+2140,Wang,Rice Noodle Seafood Flavour,1,31,5
+2141,Nissin,Men Shokunin Kaoruyasai Shio,1,19,5
+2142,Maruchan,Bowl Taste Of Asia Miso Chicken Flavor Spicy Miso Ramen,1,36,4
+2143,Thien Houng Foods,Lemon Chicken Flavour Instant Noodles,3,37,3
+2144,Nissin,Lamen Sabor Picanha,3,3,4
+2145,Dream Kitchen,Tonkotsu,2,36,3
+2146,Sapporo Ichiban,Kun Ramen Sumo-kuchikin (Smoked Chicken),1,19,3
+2147,Maruchan,Instant Lunch Pork Flavor Ramen Noodles With Vegetables,2,36,3
+2148,Jingqi,Black Eyes Bean Pumpkin Noodles With Basil Sauce,3,33,5
+2149,Jingqi,Aloe Vera Guan Mian Cyanobacteria Noodle With Ginger Oil Sauce,3,33,5
+2150,Jingqi,Black Eyes Bean Purple Sweet Potato Noodle With Spicy Miso Sauce,3,33,3
+2151,Jingqi,Aloe Vera Guan Mian Original Noodle With Sesame Sauce,3,33,5
+2152,Jingqi,Black Eyes Bean Cyanobacteria Noodle With Ginger Oil Sauce,3,33,5
+2153,Jingqi,Aloe Vera Guan Mian Pumpkin Noodle With Basil Sauce,3,33,4
+2154,Jingqi,Black Eyes Bean Original Noodle With Sesame Sauce,3,33,4
+2155,Jingqi,Aloe Vera Guan Mian Purple Sweet Potato Noodle With Spicy Miso Sauce,3,33,4
+2156,A-Sha Dry Noodle,Chow Mein Oyster Sauce BBQ Flavor,4,33,2
+2157,Master Kong,Artificial Mushroom Chicken Flavor Instant Noodle,3,6,4
+2158,A-Sha Dry Noodle,Chow Mein Original Flavor,4,33,5
+2159,La Moderna,Sazon Casero Sopa Con Tomate Y Sabor Pollo,3,21,3
+2160,Menraku,19ese Yakisoba Umami Sauce,1,19,5
+2161,Nongshim,Chal Bibim Myun,3,31,5
+2162,Tseng Noodles,Rice Noodle Seafood Laksa Flavour,3,33,5
+2163,Nissin,Piritto Karakuchi Tantan Udon,1,19,4
+2164,Tseng Noodles,Rice Noodle Chinese Mushroom With Soybean Vegetarian Braised Pork Flavor,3,33,5
+2165,Suimin,Noodles With Hot & Spicy Flavour,2,1,3
+2166,JML,Instant Noodle Artificial Beef Flavor 7 sour Pickled Cabbage,3,6,4
+2167,Great Value,Vegetable Flavour Noodles With Vegetables,2,5,3
+2168,Tseng Noodles,Rice Noodle Shallot With Braised Pork Flavor,3,33,5
+2169,Happy Family,Vegetable Flavour Instant Noodles,3,30,4
+2170,Maruchan,Ramen Noodle soup Mushroom Flavor,3,36,4
+2171,MAMA,Instant Flat Noodles Tom Yam Flavour,3,34,4
+2172,MAMA,Instant Rice Noodles Phnom Penh Style,3,34,4
+2173,MAMA,Instant Rice Noodles Stew Beef Flavour,3,34,4
+2174,MAMA,Cup Rice Noodles Tom Saab Flavour,2,34,5
+2175,MAMA,Instant Flat Noodles Clear Soup,3,34,4
+2176,MAMA,Instant Rice Vermicelli Yentafo Tom Yam Mohfai,3,34,5
+2177,MAMA,Instant Rice Noodles Vegetable Flavour,3,34,4
+2178,MAMA,Instant Tom Yam Rice Noodles,3,34,4
+2179,MAMA,Oriental Kitchen Instant Rice Vermicelli In Gravy,3,34,5
+2180,MAMA,Pho Ga Rice Noodles With Artificial Chicken Flavour,1,34,3
+2181,MAMA,Instant Rice Noodles Chicken Flavour,3,34,4
+2182,MAMA,Instant Rice Vermicelli Clear Soup,3,34,3.5
+2183,MAMA,Instant Rice Noodles Moo Nam Tok Flavour,3,34,3.5
+2184,President Rice,Coriander Instant Rice Noodles,1,34,2.75
+2185,Nissin,Raoh Hot & Sour Ramen,3,19,5
+2186,Master Kong,Assorted Seafood Noodles,3,6,4
+2187,Pulmuone,Non-Fried Ramyun Noodle (Crab Flavor),3,31,5
+2188,Singa-Me,Instant Noodles Chicken Flavour,2,1,2.5
+2189,Nissin,Demae Ramen Sesame Oil Flavour Cup,2,15,4
+2190,Myojo,Barikata No35ou Tonkotsu Shoyu,1,19,4.75
+2191,Choumama,XO Scallops Sauce Dry Noodles,3,33,4
+2192,Nyor Nyar,Penang White Curry Instant Noodle,3,20,5
+2193,Knorr,Chicken Flavored Instant Noodles,3,26,3
+2194,F35u,Chicken Flavour Instant Noodle,3,15,4
+2195,Nissin,Gyorai Inaniwa Ch35a Soba,1,19,5
+2196,Mr. Lee's Noodles,Warrior Fighting Shrimp,2,35,3.3
+2197,Mr. Lee's Noodles,15 Street Beef,2,35,5
+2198,Mr. Lee's Noodles,Dragon Fire Mushroom,2,35,3
+2199,Mr. Lee's Noodles,Tai Chi Chicken,2,35,3
+2200,Mr. Lee's Noodles,Shaolin Monk Vegetables,2,35,5
+2201,Mr. Lee's Noodles,Penang Chicken Curry Laksa,2,35,2
+2202,Nissin,Nupasta Vongole Flavour Instant Noodle,2,15,4
+2203,Nongshim,Bowl Noodle Soup Independence Day Limited Edition Spicy Chicken Flavor,1,36,4
+2204,Nissin,Cup Noodles Sabor Galinha Caipira,2,3,4
+2205,Maruchan,Bowl Taste Of Asia Hearty Pork Flavor Tonkotsu Ramen,1,36,4
+2206,Nissin,Deka Buto Kuro M-yu Tonkotsu,1,19,5
+2207,Nissin,Big Cup Noodles Tonkotsu Flavour,2,15,3
+2208,Roland,Ramen 19ese Style Quick-Cooking Alimentary Paste With Chicken Artificially Flavored Soup Base,3,36,0
+2209,Nissin,Demae Ramen Spicy Hot tonkotsu Flavour Instant Noodle,3,15,5
+2210,Morre,Instant Noodles Masala,3,26,4
+2211,Nissin,Disney Cuties Instant Noodle Roast Pork Flavour,2,34,3
+2212,Paldo,Bul Jjamppong,3,31,4
+2213,Acecook,Oh! Ricey Pork Flavour,3,37,4
+2214,Sapporo Ichiban,Tabimen Nagasaki Chanpon,1,19,4
+2215,Myojo,Mee Goreng Spicy Flavour,3,30,5
+2216,A-Sha Dry Noodle,Chow Mein Spicy Flavor,4,33,3
+2217,Nissin,Demae Ramen Spicy Seafood Flavour Instant Noodle,3,15,5
+2218,Tseng Noodles,Spicy Braised Pork Flavor,3,33,4
+2219,Fantastic,Noodles Crispy Bacon Flavour,2,1,1
+2220,Paldo,Budae Jjigae,3,31,5
+2221,Nissin,Cup Noodle Seafood,2,19,5
+2222,Nyor Nyar,Vegetarian Penang White Curry,3,20,5
+2223,KOKA,Rice Noodles Fragrant Chicken Pho Ga Flavour,3,30,4
+2224,Wai Wai,X-Press Flavour Of Pizza In Noodles Proprietary Food,3,17,4
+2225,F35u,Bowl Chicken Flavour Instant Rice Vermicelli,1,15,4
+2226,Nagatanien,Hiyashi Soba Taidashi Goma,3,19,3
+2227,Maruchan,Ramen Noodle Soup Sriracha Chicken Flavor,3,36,4
+2228,Nissin,Raoh Shoyu Ramen,1,19,5
+2229,Kang Shi Fu,Artificial Beef With Sauerkraut Flavour,3,15,4
+2230,Marutai,Kuroma-Yu Tonkotsu Kumamoto Ramen,3,19,4
+2231,Fantastic,Noodle Chicken Flavour,2,1,4
+2232,Nissin,Spicy Chikin Donburi,1,19,5
+2233,Nissin,Cup Noodles Milk Seafood Flavour,2,15,4
+2234,Paldo,Bibim Men,1,31,5
+2235,Fashion Food,Tom Yum Shrimp Creamy Flavour Instant Noodles,1,34,4
+2236,Maruchan,Gotsumori Koku Tonkotsu Ramen,1,19,4
+2237,Nissin,Cup Noodle Light+ Bagna Cauda,2,19,5
+2238,Asian Thai Foods,Rumpum Gundr35 Flavour,3,23,1
+2239,Nissin,Cup Noodles Chicken Flavor Ramen Noodle Soup (New Recipe),2,36,4
+2240,Wang,Rice Noodle Anchovy Flavor,1,31,3
+2241,F35u,Spicy Soup Instant Noodle Beef Flavour,3,15,4
+2242,Great Value,Beef Style Noodles With Vegetables,2,5,3
+2243,Nissin,Cup Noodles Black Pepper Crab Flavour,2,15,4
+2244,Kang Shi Fu,Artificial Spicy Beef Flavour,3,15,4
+2245,Nissin,37ese Chicken Coriander Flavour Vermicelli,2,15,4
+2246,Dream Kitchen,Soy Sauce,2,36,4
+2247,Nissin,Sapporo No35ou Miso Ramen,1,19,5
+2248,Nongshim,Shin Noodle Soup,2,36,5
+2249,Love Cook,Sun Dried Noodle - Fruity Soy Bean Paste,3,33,4
+2250,Nissin,Demae Iccho Spicy XO Sauce Seafood Flavour,3,15,4
+2251,Ottogi,Ramyon Sabor Y Camaron,3,21,4
+2252,New Touch,Sugomen Sano Ramen,1,19,5
+2253,Singa-Me,Instant Noodles Mi Goreng Flavour,2,1,4
+2254,Nissin,Disney Cuties Instant Noodle Seaweed Flavour,2,34,3
+2255,Daikoku,Hiroshima Flavor Yakisoba,4,19,5
+2256,Goku-Uma,Ramen Noodles Artificially Flavored Tonkotsu,1,36,3
+2257,F35u,Tom Yam Soup Instant Noodle,3,15,2.3
+2258,Kamfen,Instant Wonton Noodles Scallop Lobster Soup Flavour,1,15,4.3
+2259,Farmer's Heart,Pho Beef Flavor 37ese Rice Noodle Soup,1,36,3.75
+2260,Uni-President,Science Noodle (X'Mas Edition),3,33,5
+2261,Tablemark,Tohokuno Aji Yonezawa Ramen,1,19,4
+2262,Dream Kitchen,Curry Flavour Instant Noodles,2,36,5
+2263,Sichuan Baijia,Broad Noodle Artificial Beef Flavor Hot Pot,3,6,4
+2264,Unif Tung-I,Instant Vegetarian Beehoon Rice Vermicelli,3,33,1
+2265,Nissin,Cup Noodles Rich Soft Shelled Turle Soup,2,19,3
+2266,Nissin,Disney Cuties Instant Noodle Crab Flavour,2,34,4
+2267,Shirakiku,Karami Ramen Spicy Chili Flavour 19ese Style Noodle With Soup Base,3,36,2
+2268,Nissin,Nupasta Neapolitan Flavour Instant Noodle,3,15,5
+2269,Wai Wai,Instant Noodles Veg Masala Flavour,3,17,4
+2270,Samyang Foods,Fresh Bibimmyun Fried Noodle,3,31,4
+2271,Sichuan Baijia,Chongqing Noodles Burning Dry Noodles,3,6,5
+2272,Nissin,Demae Iccho Spicy Kimchi Pot Flavour Instant Noodle (Bowl Noodle),1,15,4
+2273,Uni-President,A Q Bucket Noodle Korean Kimchi Flavor,1,33,4
+2274,Suimin,Noodles With Braised Beef Flavour,2,1,4
+2275,JML,Hot & Sour Beef Noodles,3,6,4
+2276,Nissin,Cup Noodles With Shrimp Ramen Noodle Soup (New Recipe),2,36,3
+2277,Goku-Uma,Ramen Noodles Soy Sauce Flavor,1,36,3
+2278,Nissin,Raoh Tantanmen,3,19,5
+2279,Nissin,Demae Iccho Spicy Tonkotsu Flavour Instant Noodle (Bowl Noodle),1,15,5
+2280,Sichuan Baijia,Chongqing Noodles Hot & Sour Flavor,3,6,4
+2281,Nissin,Demae Iccho Red Hot Seafood Flavour Instant Noodle,2,15,4
+2282,Samyang Foods,Gold Jjamppong Fried Noodle,3,31,5
+2283,Nissin,Raoh Pork Bone Soy Soup Noodle,3,19,5
+2284,Nissin,Korean Kimchi Flavour Vermicelli,2,15,4
+2285,Fantastic,Noodles Beef Flavour,2,1,3
+2286,Kamfen,Noodle King Artificial Abalone And Chicken Soup Flavored,1,15,4
+2287,Master Kong,Artificial Abalone Crab Flavor Instant Noodle,3,6,0
+2288,Nissin,Cup Noodles Tom Yum Goong Flavour,2,15,4
+2289,Myojo,Shin Toyama Black Ramen,1,19,4
+2290,Nissin,Demae Ramen Straight Noodle Black Garlic Oil Tonkotsu Flavour Instant Noodle,3,15,5
+2291,Samyang Foods,Buldak Bokkummyun Cheese Flavor,3,31,4
+2292,Sichuan Baijia,Chongqing Noodles Spicy Hot Flavor,3,6,5
+2293,Nissin,Nupasta Bacon In Carbonara Sauce Flavour Instant Noodle,3,15,5
+2294,Sapporo Ichiban,Tabimen Aiz35itakata Gyokai Shoyu Ramen,1,19,4
+2295,Nissin,Cup Noodles Seafood,2,6,4
+2296,Suimin,Noodles With Chicken Flavour,2,1,3
+2297,Chuan Wei Wang,Bowl Instant Noodles Artificial Beef With Sauerkraut Flavor,1,6,3
+2298,Nissin,Cup Noodles Spicy Chile Chicken (New Recipe),2,36,4
+2299,Cintan,Mi Segera Mmm... Original,3,20,3
+2300,Nissin,Demae Ramen Spicy Xo Sauce Seafood Flavour Instant Noodle,3,15,4
+2301,Suimin,Noodle With Oriental Chicken Flavour,2,1,3
+2302,Nissin,Yakisoba,4,19,5
+2303,Maruchan,Sopa Maruchan Sobar A Camaron,3,21,3
+2304,Maggi,2 Minute Noodles Masala Spicy,3,17,5
+2305,Ajinatori,Chicken Flavor Ramen,3,19,4
+2306,Nissin,Demae Iccho Black Garlic Oil Tonkotsu Flavour Instant Noodles,2,15,4
+2307,Ottogi,Ramyun Sabor Pollo,3,21,4
+2308,Fantastic,Noodles Chicken Chow Mein Flavour,2,1,4
+2309,Nissin,Cup Noodles Big Seafood Flavour,2,15,4
+2310,Pran,Mr. Noodles Instant Noodles Beef Flavour,3,2,4
+2311,Xiao Ban Mian,Sesame Sauce Matcha Noodle,3,33,3.8
+2312,Xiao Ban Mian,Traditional Shallot & Onion Oil Noodle,3,33,5
+2313,Xiao Ban Mian,Sesame Oil With Garlic Flavor Thin Noodle,3,33,3.5
+2314,Nissin,Cup Noodles Spicy Beef Flavour,2,15,4
+2315,Goku-Uma,Ramen Noodles Miso Flavor,1,36,3
+2316,Nissin,Cup Noodle Spicy Curry Chicken,2,19,5
+2317,MAMA,Instant Bowl Noodles Shrimp (Tom Yum) Flavor Base,1,34,4
+2318,Happy Cook,Sichuan Spicy Flavor,3,33,5
+2319,Nongshim,Saeutang Sabalmyeon,1,31,3.5
+2320,Nissin,Nupasta Bolognese Flavour Instant Noodle,2,19,4
+2321,Sau Tao,Black Pepper XO Sauce Flavour,1,15,5
+2322,Sapporo Ichiban,Mie Kamayama Ramen Gy35otsu Misoaji,1,19,3
+2323,Ogasawara,Kirin Giraffe Shio Ramen,3,19,5
+2324,Paldo,Bul Jjajangmyeon,3,31,5
+2325,Pran,Mr. Noodles Curry Flavor Instant Noodles,3,2,4
+2326,Nissin,Demae Iccho Tokyo Shoru Tonkotsu Instant Noodle,2,15,4
+2327,Nissin,Cup Noodles Spicy Lime Flavor Ramen Noodle Soup (New Recipe),2,36,4
+2328,Qin Zong,Shaanxi Cold Noot Hot & Sour Flavor,3,6,3
+2329,Patanjali,Atta Noodles Jhatpat Banao Befikr Khao,3,17,5
+2330,Ve Wong,Little Prince(ss) Brand Snack Noodles Artificial Mexican Pizza Flavor,3,33,4
+2331,Nissin,Cup Noodles Sopa Nissin Hot Sauce Sabor A Pollo,2,21,4
+2332,Nissin,Sopa Nissin Sabor A Res Instantanea Tipo Ramen,3,21,4
+2333,Nissin,Maxi Sopa Nissin Cuchareable Sabor A Pollo,2,21,4
+2334,Nissin,"Sopa Nissin Sabor Mariscos, Habanero Y Limon",2,21,4
+2335,Nissin,Cup Noodles Gourmet Sabor A Caldo De Camaron,2,21,5
+2336,Nissin,Maxi Sopa Nissin Cuchareable Sabor A Camaron Picante,2,21,3
+2337,Nissin,Cup Noodles Sopa Nissin Con Camaron,2,21,3
+2338,Nissin,Sopa Nissin Sabor A Pollo Sopa Instantanea Tipo Ramen,3,21,4
+2339,Nissin,"Cup Noodles Sopa Nissin Sabor Camaron, Habanero Y Limon",2,21,3
+2340,Nissin,RapiFideo Sabor A Tomate Y Pollo,2,21,4
+2341,Nissin,Cup Noodles Sopa Nissin Sabor A Carne De Res,2,21,4
+2342,Nissin,Sopa Nissin Sabor A Camaron Sopa Instantanea Tipo Ramen,3,21,4
+2343,Nissin,Maxi Sopa Nissin Cuchareable Sabor A Jugo De Carne,2,21,4
+2344,Nissin,Cup Noodles Sopa Nissin Sabor A Pollo,2,21,4
+2345,Sempio,Clam Flavor Soup Kal-g35su,3,31,5
+2346,Knorr,Chatt Patta Instant Noodles,3,26,1
+2347,Nissin,Demae Iccho Tonkotsu Flavour Instant Noodle (Bowl Noodle),1,15,3
+2348,Ripe'n'Dry,Hokkaido Salt Ramen,3,19,3
+2349,Fantastic,Noodles Chicken & Corn Flavour,2,1,3
+2350,Nissin,Cup Noodles BIG XO Sauce Seafood Flavour,2,15,4
+2351,1 To 3 Noodles,Chatpat Masala,3,17,4
+2352,Uni-President,Minced Pork Flavor Instant Noodles,3,33,1
+2353,Nissin,"Cup Noodles Rich Garlic, Egg Yolk & Oxtail",2,19,4
+2354,Vifon,Viet Cuisine Bun Rieu Cua Sour Crab Soup Instant Rice Vermicelli,1,37,5
+2355,Marutai,Nagasaki Agodashi Shoyu Ramen,3,19,4
+2356,Nongshim,Spicy Shrimp Cup Noodle,2,31,4
+2357,Kamfen,Noodle King Artificial Wonton Soup Flavored,1,15,5
+2358,Sichuan Baijia,Pickled Cabbage Flavor Instant Vermicelli,1,6,4
+2359,Daikoku,Kitsune Udon,2,19,2
+2360,Wai Wai,Instant Noodles Artificial Chicken Flavoured,3,17,2
+2361,Nissin,Demae Iccho Chicken Flavour Instant Noodle (Bowl Noodle),1,15,5
+2362,Chuan Wei Wang,Bowl Instant Noodles Artificial Spicy Beef Flavor,1,6,4
+2363,Samyang Foods,Buldak Bokkeummyun (New Packaging),3,31,4
+2364,Samyang Foods,Cheese Buldak Bokkeummyun,3,31,4
+2365,Samyang Foods,Stew Buldak Bokkeumtangmyun,3,31,5
+2366,Samyang Foods,Buldak Bokkeummyun Snack,3,31,5
+2367,Samyang Foods,2x Spicy Haek Buldak Bokkeummyun,3,31,4
+2368,Samyang Foods,Cool/Ice Buldak Bokkeummyun,3,31,3.75
+2369,Samyang Foods,Curry Buldak Bokkeummyun,3,31,4.25
+2370,Samyang Foods,Zzaldduck Buldak Bokkeummyun Snack,3,31,4.5
+2371,Daikoku,Tan35i Soba,2,19,3.5
+2372,Liu Quan,Instant Spicy Rice Noodle,1,6,4
+2373,Nissin,Top Ramen Atta Nooldes Masala,3,17,4.5
+2374,World O' Noodle,Mi Goreng Garlic Flavour Fried Noodles,3,18,4.5
+2375,Uni-President,Man Han Feast Braised Pork Flavor Instant Noodles,1,33,5
+2376,Nissin,Disney Cuties Instant Chicken With Corn Flavour,2,34,3.25
+2378,Sau Tao,Non-Fried Mix Noodle Black Pepper XO Sauce Flavoured,3,15,4.5
+2379,Nissin,Cup Noodles Hot & Spicy Shrimp Flavor Ramen Noodle Soup (New Recipe),2,36,2.5
+2380,Pulmuone,Non-Fried Ramyun With Spicy Beef Broth,3,31,3.75
+2381,Nissin,Demae Iccho Seafood Flavour Instant Noodle,2,15,4.75
+2382,Nongshim,Seaweed Instant Noodle,2,31,0.5
+2383,Nissin,Cup Noodles Beef Flavor Ramen Noodle Soup (New Recipe),2,36,3.5
+2384,Sichuan Guangyou,9999 Chongqing Artificial Beef Flavor Instant Noodle,3,6,4.25
+2385,Uni-President,Man Han Feast Chilli Beef Flavor Instant Noodles,1,33,4.75
+2386,Maggi,2 Minute Noodles Curry Flavour,3,10,4
+2387,Nissin,Demae Iccho Sesame Oil Flavour Instant Noodle,1,15,3.5
+2388,Hua Feng,Three Fresh Delicacies Instant Noodle,3,6,4.25
+2389,Gefen,Imitation Chicken Flavor,2,36,4
+2390,Nissin,Rice Vermicelli Pickled Vegetable Pork Flavour,2,15,3.75
+2391,Ottogi,Jin Jjambbong Spicy Seafood Ramyun,3,31,5
+2392,MyKuali,Penang Red Tom Yum Goong Rice Vermicelli Soup,1,20,5
+2393,Ripe'n'Dry,Hokkaido Miso Ramen,3,19,3
+2394,Nissin,Cup Noodles Prawn Flavour,2,15,3.75
+2395,Master Kong,Chicken Flavor Instant Noolde,3,6,4.25
+2396,Maggi,2 Minute Noodles Chicken Flavour,3,10,3.25
+2397,Samyang Foods,Cheese Buldak Bokkeummyun (Black),1,31,4
+2398,Liang Cheng Mai,Shaanxi Cold Noodle: Mustard Spicy,4,6,1
+2399,Indomie,My Noodles Mi Goreng Pizza Cheese,3,18,4
+2400,Nissin,Cup Noodles Tom Yam Seafood Flavour,2,30,5
+2401,Sichuan Baijia,Chongqing Noodles Burning Dry Noodles,1,6,5
+2402,Maggi,Nutri-licious Pazzta Tomato Twist,3,17,3.75
+2403,Goku-Uma,Yakisoba 19ese Style Noodle,1,36,4.75
+2404,MyKuali,Penang Hokkien Prawn Noodle Soup,3,30,5
+2405,Nissin,Cup Noodles Mini Spicy Seafood,2,15,4
+2406,Sichuan Guangyou,Sweet Potato Instant Noodle Braised Spicy Chitterling Flavor,3,6,0.25
+2407,Just Way,Chuan Wei Spicy Guan-miao Noodles,3,33,4.5
+2408,Mama Pat's,Chicken Taco Flavor Instant Ramen Noodles,3,36,3.75
+2409,Mama Pat's,Seafood Gumbo Flavor Instant Ramen Noodles,3,36,3.5
+2410,Mama Pat's,Lamb Stew Flavor Instant Ramen Noodles,3,36,3.75
+2411,Mama Pat's,Chicken Fajita Flavor Instant Ramen Noodles,3,36,3.75
+2412,Shirakiku,San35iya Udon Shrimp Flavor,3,36,3.25
+2413,Nissin,Cup Noodles Beef Flavour,2,15,2.5
+2414,Little Cook,34 Green Curry Instant Noodle,1,33,5
+2415,Nissin,Kitsune Udon Donbei (West),1,19,5
+2416,Xiuhe,Hot & Sour Beef Noodles,1,6,4.25
+2417,Super Bihun,Bihun Kuah Rasa Baso Sapi,3,18,3.75
+2418,Myojo,Yomise No Yakisoba Karashi Mentaiko Flavor,4,19,4.5
+2420,Nissin,Cup Noodles Spicy Seafood Flavor,2,6,3.75
+2421,Uni-President,Baseball Snack Noodle,3,33,5
+2422,Nissin,Cup Noodles Sopa Nissin Con Camaron Picante,2,21,3.25
+2423,Ve Wong,Kung-Fu Instant Oriental Noodles Soup Artificial Onion Flavor,3,33,3.5
+2424,Samyang Foods,Cheese Type Buldak Bokkeummyun (Black Pkg),3,31,3.75
+2425,Nissin,Seafood Flavour Rice Vermicelli,2,15,5
+2426,Dr. McDougall's,Vegan Pad Thai Noodle Soup,2,36,0
+2427,Ajinatori,HALAL Chicken Shoyu Sauce Ramen,3,19,2.5
+2428,TTL,Sesame Oil Chicken With Rice Wine Noodle,1,33,5
+2429,New Touch,T's Restaurant Sura Tanmen,2,19,4
+2430,MyKuali,MeeKuali Bihun Sup Rempah Perisa Daging,3,20,5
+2431,Dream Kitchen,Udon 19ese Style Fresh Noodle,1,36,3.75
+2432,Fashion Food,Yummy Spicy Rice Soup With Seafood,1,34,3.5
+2433,Nissin,Cup Noodles 18 Mie Goreng,2,19,3.75
+2434,Happy Cook,Old Beijing Fried Bean Sauce Noodle,3,33,4.25
+2435,Mum Ngon,Lau Tom Chua Cay,3,37,3.5
+2436,Kang Shi Fu,Artificial Dongpo's Braised Pork Flavour,3,15,4.75
+2437,Nissin,Raoh Nojy35u Toro Tonkotsu Ramen,1,19,4.5
+2438,World O' Noodle,Mi Goreng Original Flavour Fried Noodles,3,18,5
+2439,Uni-President,Man Han Feast Super Hot Pot Beef Flavor Instant Noodles,1,33,5
+2440,Master Kong,Roasted Pork Noodle,3,6,4.5
+2442,Nissin,Cup Noodles Sopa Nissin Hot Sauce Con Camaron,2,21,3.5
+2443,KOKA,Signature Chicken Flavor Instant Noodles,2,30,3.75
+2444,KOKA,Silk Spicy Marinara Instant Rice Fettuccine,1,30,5
+2445,KOKA,Delight Laksa Singapura Flavor Instant Non-Fried Noodles,3,30,4.25
+2446,KOKA,Creamy Soup Witrh Crushed Noodles Curry Flavor,2,30,5
+2447,KOKA,Signature Stir-Fry Original Flavor Instant Noodles,3,30,3
+2448,KOKA,Seafood Flavor Instant Noodles,2,30,3.5
+2449,KOKA,Delight Tomato Flavor Instant Non-Fried Noodles,3,30,5
+2450,KOKA,Purple Wheat Noodles Chili & Lime Flavor,3,30,4
+2451,KOKA,Delight Spicy Black Pepper Flavor Instant Non-Fried Noodles,3,30,5
+2452,KOKA,Signature Laksa Singapura Instant Noodles,1,30,5
+2453,KOKA,Delight Spicy Sesame Flavor Instant Non-Fried Noodles,3,30,4.5
+2454,KOKA,Silk Beef Pho Flavor Instant Rice Fettuccine,1,30,3.25
+2455,KOKA,Creamy Soup With Crushed Noodles Sweet Corn Flavor,2,30,5
+2456,KOKA,Signature Spicy 30 Fried Noodles Instant Noodles,3,30,4.25
+2457,KOKA,Instant Noodles Chicken Satay Flavour,3,30,3.5
+2459,Nissin,Cup Noodles MUG Shoyu & Seafood,3,19,3.5
+2460,Daif35u,Katsuo Bowl Udon,1,36,5
+2461,Fujiwara,Hokkaido Hakodate Shio Ramen,3,19,4.5
+2462,TTL,Sesame Oil Chicken Noodle With Rice Wine,1,33,5
+2463,Nissin,Gekikara Ramen Rasa Pedas,3,18,3.25
+2464,Wang,Extreme Spicy Hot Chicken Flavor Udon,1,31,2
+2465,Nissin,Cup Noodles XO Sauce Seafood,2,6,3.75
+2466,Sau Tao,Instant Noodle King Pepper Duck Flavour Soup,3,15,4
+2467,Paldo,Volcano Curry Kkokkomyun,3,31,3.5
+2468,Acecook,Dossari Yasai Chanpon,2,19,4.25
+2469,KOKA,Signature Curry Flavor Instant Noodles,2,30,3.5
+2470,Myojo,Udon 19ese Style Noodles With Soup Base Hot & Sour Flavor,3,36,3.75
+2471,Nissin,Cup Noodles Mini Seafood Flavour,2,15,5
+2472,GGE,Noodle Snack Wheat Cracks Seaweed Flavor,3,33,3.5
+2473,Tokyo Noodle,Mini Instant Noodle Mild Curry Flavor,3,19,2
+2474,Ottogi,Ppushu Ppushu Noodle Snack Chilli Cheese Flavor,3,31,4.25
+2475,Maruchan,Seimen Red Spicy Dandan Men,1,19,4.75
+2476,Samyang Foods,Kimchi Stew Ramyun,1,31,4
+2477,Kiki Noodle,Sichuan Spices Flavor Noodle,3,33,5
+2478,Kiki Noodle,Scallion Oil & Soy Sauce Noodle,3,33,5
+2479,E-Zee,Instant Noodles Chicken Flavour,3,20,4
+2480,Acecook,Pork Wantan Men,1,19,4.25
+2481,Samyang Foods,Buldak Bokkeummyun,2,31,3.75
+2482,TTL,Chicken With Chinese Shaoxing Wine,3,33,4.75
+2483,Paldo,Bul Jjamppong,1,31,5
+2484,Nissin,Demae Ramen Tokyo Soy Sauce,3,12,4
+2485,Nissin,Cup Noodles Shrimps,2,12,3
+2486,Nissin,Demae Ramen Spicy,3,12,3.5
+2487,Nissin,Soba S35iyaki Beef,2,12,4.5
+2488,Nissin,Demae Ramen Thai Tom Yum,3,12,3.75
+2489,Nissin,Cup Noodles Ente (Duck),2,12,3
+2490,Nissin,Demae Ramen Garlic Chicken,3,12,3.5
+2491,Nissin,Soba Yakitori Chicken,2,12,5
+2492,Nissin,Smack Chili,3,16,3.75
+2493,Nissin,Cup Noodles Curry,2,12,3.75
+2494,Nissin,Demae Ramen Korean Kimchi,3,12,3.5
+2495,Nissin,Cup Noodles Huhn (Chicken),2,12,3.75
+2496,Nissin,Soba Thai,3,12,4.5
+2497,Nissin,Cup Noodles Spicy,2,12,3.75
+2498,Nissin,Demae Ramen Spicy Beef,3,12,3.75
+2499,KOKA,Creamy Soup With Crushed Noodles Chicken Flavor,2,30,5
+2501,Happy Cook,Toona Paste Noodle,3,33,4
+2502,Indomie,Onion Chicken Flavor,3,25,1.5
+2503,Sichuan Guangyou,Sweet Potato Instant Noodle Sout-Hot Flavor,1,6,0
+2504,Nongshim,Shin Ramyun,3,31,3
+2505,Acecook,Super Cup Torigawa Shoyu,1,19,3.5
+2506,KOKA,Delight Chicken Flavor Instant Non-Fried Noodles,3,30,3.75
+2507,Indomie,RMy Noodlez Rumput Laut,3,18,4
+2508,Samyang Foods,Mala Buldak Bokkeummyun,3,31,3.75
+2509,Maggi,Hot Heads Green Chilli Noodles,3,17,3.5
+2510,MyKuali,Penang Red Tom Yum Goong Noodle,3,20,5
+2511,Samyang Foods,Samyang Ramen Classic Edition,1,31,5
+2512,Mom's Dry Noodle,Dan Dan Noodle,3,33,5
+2514,Ogasawara,Kirin Giraffe Shoyu Ramen,3,19,4.5
+2515,Uni-President,Man Han Feast Spicy Beef Flavor Instant Noodles,1,33,5
+2516,Fujiwara,Hokkaido Hakodate Miso Ramen,3,19,3.5
+2517,Ikeda Shoku,Nabeyaki Tempura Udoin,1,19,4.5
+2518,Samurai Ramen,Umami Ramen,3,19,4
+2519,Guava Story,Anchovy Flavor Guava Rice Noodles,4,31,1
+2520,Nissin,Cup Noodles Blacl Pepper Crab Flavour (More Angry Crab),2,30,5
+2521,Nissin,Cup Noodles Potato Chips Black Pepper Crab Flavour,3,30,4.5
+2522,Takamori,Hearty 19ese Style Curry Udon,3,19,5
+2523,Nongshim,Budae Jjigae Noodle Soup,3,31,4.5
+2524,Nissin,Straits Reborn Laksa,3,30,5
+2525,Sokensha,Curry Udon,3,19,3.5
+2526,Samyang Foods,Jjamppong Big Bowl,1,31,4.5
+2527,Uni-President,Mushroom Flavor,3,37,0
+2528,Prima,Juzz's Mee Creamy Chicken Flavour (Export Version),3,30,5
+2529,Maruchan,Gotsumori Chanpon Ramen,1,19,4.5
+2530,Ottogi,Ppushu Ppushu Noodle Snack Honey Butter ,3,31,2
+2531,Uni-President,Pickled Cabbage Beef,3,6,4.25
+2532,Nissin,Nippon Onomichi Ramen,1,19,4.75
+2533,Nongshim,Shin Ramyun Black,3,31,5
+2534,Fujiwara,Hokkaido Hakodate Shoyu Ramen,3,19,4
+2535,Nissin,Cup Noodles Very Veggie Chicken Flavor Ramen Noodle Soup,2,36,5
+2536,Lele,Instant Noodles Beef,3,13,3.5
+2537,Nissin,Cup NoodlesTom Yam Seafood (More Shrimptacular),2,30,5
+2538,Nissin,Cup Noodles Very Veggie Beef Flavor Ramen Noodle Soup,2,36,5
+2539,Nissin,Demae Iccho Tonkotsu Flavour Instant Noodle,2,15,3.75
+2540,Wei Lih,GGE Noodle Snack Wheat Crackers Mexican Spicy,3,33,3.25
+2541,Nissin,Cup Noodles Very Veggie Spicy Chicken Flavor Ramen Noodle Soup,2,36,5
+2542,Acecook,Super Cup Yochan Ika Yakisoba,4,19,1.5
+2543,KOKA,Curry Flavour Instant Noodles,2,30,5
+2545,KOKA,Instant Noodles Laksa Singapura Flavour,3,30,5
+2546,New Touch,Sugo-Men Kyoto Backfat Shoyu Ramen,1,19,3.75
+2547,Sichuan Guangyou,Chongqing Spicy Hot Noodles,1,6,4
+2549,Nissin,Gekikara Ramen Extra Hot Ramen Goreng,3,18,4.5
+2550,Samyang Foods,Paegaejang Ramen,3,31,5
+2551,KOKA,Signature Tom Yum Flavor Instant Noodles,3,30,4
+2552,MyKuali,Penang White Curry Rice Vermicelli Soup,1,20,5
+2553,Nissin,Hakata Ramen Noodle White Tonkotsu,1,19,4.75
+2554,Yum-Mie,Instant Noodles Beef In Light Soup Flavour,3,13,3.5
+2555,Samyang Foods,Song Song Kimchi Big Bowl,1,31,4.25
+2556,Ching's Secret,Hot Garlic Instant Noodles,3,17,4.25
+2557,Yamachan,Sapporo Miso Ramen,3,36,4.75
+2558,KOKA,Creamy Soup With Crushed Noodles Hot & Sour Fish Flavor,2,30,5
+2559,Jackpot Teriyaki,Beef Ramen,3,36,5
+2560,Nissin,Cup Noodles Laksa Flavour,2,15,4.25
+2561,Paldo,Premium Gomtang,3,31,4
+2562,Binh Tay,Mi Hai Cua,3,37,4
+2563,Yamachan,Tokyo Shoyu Ramen,3,36,5
+2564,TRDP,Mario Masala Noodles,3,17,3.75
+2565,KOKA,Mushroom Flavour Instant Noodles,2,30,3.5
+2566,Nissin,Demae Ramen Bar Noodle Aka Tonkotsu Flavour Instant Noodle,3,15,5
+2567,Nissin,Deka Buto Kimchi Pork Flavor,1,19,4.5
+2568,Nongshim,Mr. Bibim Stir-Fried Kimchi Flavor,3,31,4.25
+2569,Yamachan,Yokohama Tonkotsu Shoyu,3,36,5
+2570,Tao Kae Noi,Creamy tom Yum Kung Flavour,3,34,5
+2571,KOKA,The Original Spicy Stir-Fried Noodles,3,30,2.5
+2572,Ripe'n'Dry,Hokkaido Soy Sauce Ramen,3,19,0.25
+2573,Ikeda Shoku,Nabeyaki Kitsune Udon,4,19,3.75
+2574,Acecook,Spice Deli Tantan Men With Cilantro,2,19,4
+2575,Samyang Foods,Kimchi song Song Ramen,3,31,4.75
+2576,Ching's Secret,30 Curry,3,17,3.75
+2577,Wei Lih,GGE Ramen Snack Tomato Flavor,3,33,2.75
+2578,Nissin,Cup Noodles Chicken Vegetable,2,36,2.25
+2579,Just Way,Noodles Spicy Hot Sesame Spicy Hot Sesame Guan-miao Noodles,3,33,1
+2580,New Touch,T's Restaurant Tantanmen ,2,19,3.75
